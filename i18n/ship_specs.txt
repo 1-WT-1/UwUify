@@ -1,0 +1,21 @@
+locale|en_HK
+SHIP_TRTL_SPECS|Make: Wusatom-Antonyoff\nHigh-Stwess Hawdpoints: 1\nWow-Stwess Hawdpoints: 2\nCwew: 4\nDwy mass: 33,200 kg\nCawgo bay: 96 m^3\nPwocessed cawgo stowage (pew minyewaw): 7,000 kg
+SHIP_PROSPECTOR_SPECS|Make: Mitsudaya-Stawbus\nWow-Stwess Hawdpoints: 2\nDwonye Hawdpoints: 2\nCwew: 6\nDwy mass: 27,500 kg\nCawgo bay: 125 m^3\nPwocessed cawgo stowage (pew minyewaw): 14,000 kg
+SHIP_EIME_SPECS|Make: Eon Intewstewwaw\nHigh-Stwess Hawdpoints: 1\nWow-Stwess Hawdpoints: 2\nCwew: 5\nDwy mass: 27,000 kg\nCawgo bay: 140 m^3\nPwocessed cawgo stowage (pew minyewaw): 11,000 kg
+SHIP_COTHON_SPECS|Make: Conwido WVM\nWow-Stwess Hawdpoints: 4\nCwew: 3\nDwy mass: 83,700 kg\nCawgo bay: 260 m^3\nPwocessed cawgo stowage (pew minyewaw): 27,000 kg\nEMP shiewding: 100 MW
+SHIP_PROSPECTOR_BALD_SPECS|Make: Custom-buiwt\nWow-Stwess Hawdpoints: 2\nDwonye Hawdpoints: 2\nCwew: 6\nDwy mass: 29,500 kg\nCawgo bay: 40 m^3\nPwocessed cawgo stowage (pew minyewaw): 14,000 kg
+SHIP_TRTL_LCB_SPECS|Make: Wusatom-Antonyoff\nHigh-Stwess Hawdpoints: 1\nWow-Stwess Hawdpoints: 2\nCwew: 4\nDwy mass: 37,970 kg\nCawgo bay: 110 m^3\nPwocessed cawgo stowage (pew minyewaw): 10,000 kg
+SHIP_TRTL_R_SPECS|Make: Wusatom-Antonyoff / Wunyasimi\nHigh-Stwess Hawdpoints: 1\nWow-Stwess Hawdpoints: 2\nCwew: 6\nDwy mass: 47,500 kg\nCawgo bay: 78 m^3\nPwocessed cawgo stowage (pew minyewaw): 4,000 kg\nEMP shiewding: 200 MW
+SHIP_TRTL_K44_SPECS|Make: Wusatom-Antonyoff\nWow-Stwess Hawdpoints: 4\nCwew: 4\nDwy mass: 54,600 kg\nCawgo bay: 136 m^3\nPwocessed cawgo stowage (pew minyewaw): 14,000 kg
+SHIP_PROSPECTOR_VP_SPECS|Make: Mitsudaya-Stawbus / Conwido WVM\nHigh-Stwess Hawdpoints: 1\nWow-Stwess Hawdpoints: 2\nCwew: 6\nDwy mass: 37,500 kg\nCawgo bay: 90 m^3\nPwocessed cawgo stowage (pew minyewaw): 14,000 kg
+SHIP_PROSPECTOR_LUX_SPECS|Make: Mitsudaya-Stawbus\nWow-Stwess Hawdpoints: 2\nDwonye Hawdpoints: 2\nCwew: 4\nDwy mass: 27,500 kg\nCawgo bay: 125 m^3\nPwocessed cawgo stowage (pew minyewaw): 14,000 kg
+SHIP_COTHON_CHK_SPECS|Make: Conwido WVM\nWow-Stwess Hawdpoints: 4\nCwew: 3\nDwy mass: 83,700 kg\nCawgo bay: 270 m^3\nPwocessed cawgo stowage (pew minyewaw): 27,000 kg\nEMP shiewding: 100 MW
+SHIP_COTHON_LND_SPECS|Make: Conwido WVM\nWow-Stwess Hawdpoints: 4\nCwew: 3\nDwy mass: 84,700 kg\nCawgo bay: 260 m^3\nPwocessed cawgo stowage (pew minyewaw): 27,000 kg
+SHIP_AT225_SPECS|Make: Antonyoff-Titan Heavy Industwies\nWow-Stwess Hawdpoints: 2\nDocking Bays: 6\nCwew: 12\nDwy mass: 220,100 kg\nCawgo bay: 280 m^3\nPwocessed cawgo stowage (pew minyewaw): 7,000 kg
+SHIP_PROSPECTOR_FAT_SPECS|Make: Mitsudaya-Stawbus / Titan Heavy Industwies\nWow-Stwess Hawdpoints: 2\nDwonye Hawdpoints: 2\nCwew: 6\nDwy mass: 62,000 kg\nCawgo bay: 240 m^3\nPwocessed cawgo stowage (pew minyewaw): 14,000 kg
+SHIP_TRTL_T_SPECS|Make: Wusatom-Antonyoff / Twiskewwion-Awmstwong\nHigh-Stwess Hawdpoints: 1\nWow-Stwess Hawdpoints: 2\nCwew: 4\nDwy mass: 27,970 kg\nCawgo bay: 58 m^3\nPwocessed cawgo stowage (pew minyewaw): 3,000 kg
+SHIP_COTHON_V_SPECS|Make: Conwido WVM\nWow-Stwess Hawdpoints: 4\nCwew: 3\nDwy mass: 103,700 kg\nCawgo bay: 260 m^3\nPwocessed cawgo stowage (combinyed): 108,000 kg\nEMP shiewding: 100 MW
+SHIP_OCP209_SPECS|Make: Obonto Micwoenginyeewing\nHigh-Stwess Hawdpoints: 2\nWow-Stwess Hawdpoints: 2\nCwew: 8\nDwy mass: 184,500 kg\nCawgo bay: 610 m^3\nPwocessed cawgo stowage (combinyed): 50,000 kg
+SHIP_AT225R_SPECS|Make: Antonyoff-Titan Heavy Industwies, Custom Modification\nWow-Stwess Hawdpoints: 2\nCwew: 12\nDwy mass: 250,100 kg\nCawgo bay: 280 m^3\nPwocessed cawgo stowage (pew minyewaw): 7,000 kg\nEMP shiewding: 100 MW
+SHIP_AT225B_SPECS|Make: Antonyoff-Titan Heavy Industwies\nWow-Stwess Hawdpoints: 2\nDocking Bays: 2\nCwew: 12\nDwy mass: 190,100 kg\nCawgo bay: 710 m^3\nPwocessed cawgo stowage (pew minyewaw): 7,000 kg
+SHIP_KITSUNE_SPECS|Make: Nyakamuwa Dynyamics\nWow-Stwess Hawdpoints: 1\nCwew: 3\nDwy mass: 4,000 kg\nCawgo bay (vawiabwe): 40-75 m^3\nPwocessed cawgo stowage (combinyed): 18,000 kg

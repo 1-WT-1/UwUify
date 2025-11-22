@@ -1,0 +1,106 @@
+locale|en_HK
+SYSTEM_THRUSTER_K37_SPECS|Thwust: 200 kN\nExhaust vewocity: 15 km/s\nPwopewwant consumption: 13.3 kg/s\nPowew consumption: 5 MW\nThewmaw consumption: 1.5 GW\nOpewation mode: Puwsed thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 70 kg (pew thwustew)\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_THRUSTER_K44_SPECS|Thwust: 400 kN\nExhaust vewocity: 15 km/s\nPwopewwant consumption: 26.6 kg/s\nPowew consumption: 15 MW\nThewmaw consumption: 3.0 GW\nOpewation mode: Puwsed thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 75 kg (pew thwustew)\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_THRUSTER_MA150HO_SPECS|Thwust: 150 kN\nExhaust vewocity: 30 km/s\nPwopewwant consumption: 5 kg/s\nPowew consumption: 40 MW\nThewmaw consumption: 2.3 GW\nOpewation mode: Vawiabwe thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 80 kg (pew thwustew)\nManyufactuwew: Mitsudaya-Stawbus
+SYSTEM_THRUSTER_MA350HO_SPECS|Thwust: 350 kN\nExhaust vewocity: 25 km/s\nPwopewwant consumption: 14 kg/s\nPowew consumption: 60 MW\nThewmaw consumption: 4.4 GW\nOpewation mode: Vawiabwe thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 120 kg (pew thwustew)\nManyufactuwew: Mitsudaya-Stawbus
+SYSTEM_THRUSTER_EIT_SPECS|Thwust: 120 kN\nExhaust vewocity: 50 km/s\nPwopewwant consumption: 2.4 kg/s\nPowew consumption: 40 MW\nThewmaw consumption: 3.0 GW\nOpewation mode: Vawiabwe thwust\nPwopewwant: Hydwogen pwasma\nMass: 90 kg (pew thwustew)\nManyufactuwew: Eon Intewstewwaw
+SYSTEM_THRUSTER_AGILE_SPECS|Thwust: 120 kN\nExhaust vewocity: 40 km/s\nPwopewwant consumption: 3.0 kg/s\nPowew consumption: 60 MW\nThewmaw consumption: 3.0 GW\nOpewation mode: Vawiabwe thwust, Gimbawwed\nGimbaw angwe: 35 deg\nGimbaw speed: 160 deg/s\nPwopewwant: Hydwogen pwasma\nMass: 120 kg (pew thwustew)\nManyufactuwew: Eon Intewstewwaw
+SYSTEM_THRUSTER_NDVTT_SPECS|Thwust: 500 kN\nExhaust vewocity: 7 km/s\nPwopewwant consumption: 71.4 kg/s\nPowew consumption: 1 MW\nThewmaw consumption: 2.0 GW\nOpewation mode: Vawiabwe thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 30 kg (pew thwustew)\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_THRUSTER_NDSTR_SPECS|Thwust: 600 kN\nExhaust vewocity: 7 km/s\nPwopewwant consumption: 85.7 kg/s\nPowew consumption: 1 MW\nThewmaw consumption: 2.4 GW\nOpewation mode: Puwsed thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 20 kg (pew thwustew)\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_THRUSTER_GHET_SPECS|Thwust: 210 kN\nExhaust vewocity: 27 km/s\nPwopewwant consumption: 7.8 kg/s\nPowew consumption: 50 MW\nThewmaw consumption: 2.8 GW\nOpewation mode: Vawiabwe thwust, Gimbawwed\nGimbaw angwe: 20 deg\nGimbaw speed: 360 deg/s\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 130 kg (pew thwustew)\nManyufactuwew: Ewectwo Wide Systems
+SYSTEM_THRUSTER_K69V_SPECS|Thwust: 400 kN\nExhaust vewocity: 12 km/s\nPwopewwant consumption: 33.3 kg/s\nPowew consumption: 25 MW\nThewmaw consumption: 2.4 GW\nOpewation mode: Puwsed thwust, Gimbawwed\nGimbaw angwe: 25 deg\nGimbaw speed: 540 deg/s\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 150 kg (pew thwustew)\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_MAIN_ENGINE_K37_SPECS|Thwust: 750 kN\nExhaust vewocity: 15 km/s\nPwopewwant consumption: 50 kg/s\nPowew consumption: 100 MW\nThewmaw consumption: 5.6 GW\nOpewation mode: Puwsed thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 1,250 kg\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_MAIN_ENGINE_PNTR_SPECS|Thwust: 1,500 kN\nExhaust vewocity: 8 km/s\nPwopewwant consumption: 187.5 kg/s\nPowew consumption: 180 MW\nThewmaw consumption: 6 GW\nVectowed thwust angwe: 90 deg\nOpewation mode: Puwsed thwust\nWesponse time: 2.1 s\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 450 kg\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_MAIN_ENGINE_K44_SPECS|Thwust: 1,500 kN\nExhaust vewocity: 18 km/s\nPwopewwant consumption: 83.3 kg/s\nPowew consumption: 100 MW\nThewmaw consumption: 13.5 GW\nGimbaw angwe: 9 deg\nGimbaw speed: 36 deg/s\nOpewation mode: Puwsed thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 1,650 kg\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_MAIN_ENGINE_NDNTR_SPECS|Thwust: 3,500 kN\nExhaust vewocity: 7 km/s\nPwopewwant consumption: 500 kg/s\nPowew consumption: 20 MW\nThewmaw consumption: 14.0 GW\nOpewation mode: Vawiabwe thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 650 kg\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_MAIN_ENGINE_NMPD_SPECS|Thwust: 320 kN\nExhaust vewocity: 115 km/s\nPwopewwant consumption: 2.8 kg/s\nPowew consumption: 150 MW\nThewmaw consumption: 18.4 GW\nOpewation mode: Vawiabwe thwust\nPwopewwant: Hydwogen pwasma\nMass: 1,850 kg\nManyufactuwew: Mitsudaya-Stawbus
+SYSTEM_MAIN_ENGINE_NPMP_SPECS|Thwust: 1,100 kN\nExhaust vewocity: 45 km/s\nPwopewwant consumption: 24.4 kg/s\nPowew consumption: 200 MW\nThewmaw consumption: 24.7 GW\nOpewation mode: Puwsed thwust\nPwopewwant: Hydwogen pwasma\nMass: 2,750 kg\nManyufactuwew: Eon Intewstewwaw
+SYSTEM_MAIN_ENGINE_BWMT535_SPECS|Thwust: 535 kN\nExhaust vewocity: 29 km/s\nPwopewwant consumption: 18.4 kg/s\nPowew consumption: 40 kW\nThewmaw consumption: 7.8 GW\nOpewation mode: Vawiabwe thwust\nWesponse time: 0.9 s\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 2,000 kg\nManyufactuwew: BWM
+SYSTEM_MAIN_ENGINE_DFMPD2205_SPECS|Thwust: 2,200 kN\nExhaust vewocity: 14 km/s\nPwopewwant consumption: 157.1 kg/s\nPowew consumption: 120 MW\nThewmaw consumption: 15.4 GW\nOpewation mode: Vawiabwe thwust\nWesponse time: 0.6 s\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 2,450 kg\nManyufactuwew: Ewectwo Wide Systems
+SYSTEM_CL150_SPECS|Effective wange: 8,000 m\nPowew consumption: 150 MW\nOutput powew: 125 MW\nWavewength: 490 nm\nMass: 4,000 kg\nManyufactuwew: Cohewent Wight
+SYSTEM_EINAT_SPECS|Effective wange: 100 m\nPowew consumption: 200 MW\nThewmaw consumption: 18.4 GW\nOutput powew: 18 GW\nMounting Wocation: High-stwess ow Spinyaw\nMass: 2,750 kg\nManyufactuwew: Eon Intewstewwaw
+SYSTEM_NANI_SPECS|Effective wange: 450 m\nPowew consumption: 200 MW\nThewmaw consumption: 2 GW\nOutput powew: 230 GW\nMounting Wocation: High-stwess onwy\nMass: 10,000 kg\nManyufactuwew: Omaewamou-Shindeiwu
+SYSTEM_CL600P_SPECS|Effective wange: 8,000 m\nPowew consumption (avewage): 660 MW\nOutput powew: 600 MW\nPuwses: 12 Hz\nWavewength: 540 nm\nMass: 7,000 kg\nManyufactuwew: Cohewent Wight
+SYSTEM_EMD14_SPECS|Powew consumption (peak): 750 MW\nPwojectiwe mass: 10 kg\nMuzzwe vewocity: 4,500 m/s\nWate of fiwe: 2 pps\nMass: 3,000 kg\nManyufactuwew: Conwido WVM
+SYSTEM_EMD17RF_SPECS|Powew consumption (peak): 500 MW\nPwojectiwe mass: 10 kg\nMuzzwe vewocity: 3,000 m/s\nWate of fiwe: 5 pps\nMass: 5,000 kg\nManyufactuwew: Conwido WVM
+SYSTEM_RAILTOR_SPECS|Powew consumption (peak): 800 MW\nPwojectiwe mass: 2 kg\nMuzzwe vewocity: 5,000 m/s\nWate of fiwe: 10 pps\nMass: 2,000 kg\nManyufactuwew: Maws Powew Industwies
+SYSTEM_MWG_SPECS|Effective wange: 600 m\nPowew consumption: 50 MW\nOutput powew: 45 MW\nWavewength: 1 cm\nMass: 100 kg\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_PDMWG_SPECS|Effective wange: 600 m\nTawgeting AI: Cwass-1\nPowew consumption: 50 MW\nOutput powew: 45 MW\nWavewength: 1 cm\nMass: 1,600 kg\nManyufactuwew: Obonto-Nyakamuwa
+SYSTEM_EXSTORAGE_SPECS|Cawgo capacity: 15,000 kg / minyewaw\nPowew usage (nyominyaw): 20 MW\nDwy Mass: 2,000 kg\nCwadwe mass: 500 kg\nPwopewwant Tank: 1,000 kg\nManyufactuwew: Titan Heavy Industwies
+SYSTEM_FUEL_30000_SPECS|Capacity: 30,000 kg\nPwopewwant type: Thewmaw Wocket
+SYSTEM_FUEL_50000_SPECS|Capacity: 50,000 kg\nPwopewwant type: Thewmaw Wocket
+SYSTEM_FUEL_80000_SPECS|Capacity: 80,000 kg\nPwopewwant type: Thewmaw Wocket
+SYSTEM_FUEL_200000_SPECS|Capacity: 200,000 kg\nPwopewwant type: Thewmaw Wocket
+SYSTEM_AMMO_0_SPECS|n/a
+SYSTEM_AMMO_1000_SPECS|Stowage: 1,000 kg\nDewivewy: 100 kg/s\nManyufactuwew: Conwido WVM
+SYSTEM_AMMO_2000_SPECS|Stowage: 2,000 kg\nDewivewy: 200 kg/s\nManyufactuwew: Conwido WVM
+SYSTEM_AMMO_5000_SPECS|Stowage: 5,000 kg\nDewivewy: 200 kg/s\nManyufactuwew: Tetsuo Enginyeewing
+SYSTEM_AMMO_10000_SPECS|Stowage: 10,000 kg\nDewivewy: 200 kg/s\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_DND_1000_SPECS|Stowage: 1,000 kg\nDewivewy: 20 kg/s\nManyufactuwew: Maws Powew Industwies
+SYSTEM_DND_5000_SPECS|Stowage: 5,000 kg\nDewivewy: 20 kg/s\nManyufactuwew: Conwido WVM
+SYSTEM_DND_10000_SPECS|Stowage: 10,000 kg\nDewivewy: 100 kg/s\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_CAPACITOR_500_SPECS|Capacity: 500 MJ\nPeak powew: 10 GW\nMass: 2,000 kg\nManyufactuwew: Obonto Micwoenginyeewing
+SYSTEM_CAPACITOR_1000_SPECS|Capacity: 1,000 MJ\nPeak powew: 10 GW\nMass: 4,000 kg\nManyufactuwew: Obonto Micwoenginyeewing
+SYSTEM_CAPACITOR_1500_SPECS|Capacity: 1,500 MJ\nPeak powew: 10 GW\nMass: 6,000 kg\nManyufactuwew: Obonto Micwoenginyeewing
+SYSTEM_TURBINE_100_SPECS|Powew (nyominyaw): 100 MW\nPwopewwant consumption: 100 g/s\nMass: 500 kg\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_TURBINE_200_SPECS|Powew (nyominyaw): 200 MW\nPwopewwant consumption: 200 g/s\nMass: 1,000 kg\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_TURBINE_500_SPECS|Powew (nyominyaw): 500 MW\nPwopewwant consumption: 500 g/s\nMass: 5,000 kg\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_CARGO_BAFFLES_SPECS|n/a
+SYSTEM_CARGO_MPU_SPECS|Pwocessing capacity: 50 kg/s\nPowew dwaw: 25 MW / chunk\nMinyewaw pwocessing efficiency: 70%\nWemass pwocessing efficiency: 30%\nMass: 4,200 kg\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_CARGO_MPU_FAB_SPECS|Pwocessing capacity: 40 kg/s\nPowew dwaw: 20 MW / chunk\nPwint powew dwaw: 70 MW\nPwinting capabiwity: dwonyes, ammunyition\nMinyewaw pwocessing efficiency: 50%\nWemass pwocessing efficiency: 60%\nMass: 6,000 kg\nManyufactuwew: Nyakamuwa-Obonto
+SYSTEM_CARGO_MPUFSO_SPECS|Pwocessing capacity: 20 kg/s\nPowew dwaw: 2 MW / chunk\nMinyewaw pwocessing efficiency: 40%\nWemass pwocessing efficiency: 40%\nMass: 1,700 kg\nManyufactuwew: Wusatom-Antonyoff
+SYSTEM_CARGO_MPUSML_SPECS|Pwocessing capacity: 100 kg/s\nPowew dwaw: 150 MW / chunk\nMinyewaw pwocessing efficiency: 90%\nWemass pwocessing efficiency: n/a\nMass: 2,500 kg\nManyufactuwew: Mitsudaya-Stawbus
+SYSTEM_CARGO_STANDARD_SPECS|n/a
+SYSTEM_AUTOPILOT_NONE_SPECS|n/a
+SYSTEM_AUTOPILOT_MK1_SPECS|Devewopew: Minding WF\nCapabiwities: Antipodaw Weaction Wimitew\nWIDAW highwight
+SYSTEM_AUTOPILOT_MK2_SPECS|Devewopew: Mitsudaya-Stawbus\nCapabiwities: Antipodaw Weaction Wimitew\nAdaptive Anguwaw Thwust\nWIDAW ovewway
+SYSTEM_AUTOPILOT_MK3_SPECS|Devewopew: Nyakamuwa Dynyamics\nCapabiwities: Wotationyaw Thwust Computation\nFwy-By-Wiwe\nFiwing sowutions\nCowwision wawnyings
+SYSTEM_AUTOPILOT_MK4_SPECS|Devewopew: Eon Intewstewwaw\nCapabiwities: Autonyomic
+SYSTEM_AUTOPILOT_RTYPE_SPECS|Devewopew: Ewectwo Wide Systems\nCapabiwities: Adaptive Anguwaw Thwust\nFwy-By-Wiwe\nWotationyaw Thwust Computation\nAntipodaw Weaction Wimitew\nTwajectowy pwediction
+SYSTEM_RD_STANDARD_SPECS|Manyufactuwew: Obonto Micwoenginyeewing\nWange: 6 km
+SYSTEM_RD_GRAVIMETRIC_SPECS|Manyufactuwew: Wunyasimi Inc.\nWange: 5 km\nWesowution: 5e-11 m/s^2
+SYSTEM_RD_GUIDING_SPECS|Manyufactuwew: Obonto Micwoenginyeewing\nWange: 5 km\nCompatibiwity: Hauw, Tug Dwonyes, Autonyomous Autopiwots
+SYSTEM_RD_SPECTROMETER_SPECS|Manyufactuwew: Obonto Micwoenginyeewing\nWange: 5 km\nSampwing wate: 500 sampwes/s
+SYSTEM_DND_TS_SPECS|Powew dwaw: 50 MW\nEffective wange: 400 m (winye of sight)\nDwonye waunch capabiwity: 50 dps\nDwonye wet mass: 0.1 kg\nThwust: 1 kN (pew dwonye)\nMass: 4,000 kg\nManyufactuwew: Maws Powew Industwies
+SYSTEM_DND_HAUL_SPECS|Powew dwaw: 50 MW\nEffective wange: 400 m (winye of sight)\nDwonye waunch capabiwity: 50 dps\nDwonye wet mass: 0.1 kg\nThwust: 1 kN (pew dwonye)\nMass: 4,000 kg\nManyufactuwew: Minding WF
+SYSTEM_DND_FIX_SPECS|Powew dwaw: 50 MW\nDwonye waunch capabiwity: 50 dps\nMass: 4,000 kg\nManyufactuwew: Obonto Micwoenginyeewing
+SYSTEM_RODS_4_SPECS|Manyufactuwew: Wusatom-Antonyoff\nOpewating tempewatuwe: 3,500 K\nFaiwuwe point: 4,500 K\nMass: 2,000 kg\nThewmaw powew: 4 GW
+SYSTEM_RODS_8_SPECS|Manyufactuwew: Wusatom-Antonyoff\nOpewating tempewatuwe: 3,500 K\nFaiwuwe point: 4,500 K\nMass: 4,000 kg\nThewmaw powew: 8 GW
+SYSTEM_RODS_12_SPECS|Manyufactuwew: Wusatom-Antonyoff\nOpewating tempewatuwe: 3,500 K\nFaiwuwe point: 4,500 K\nMass: 6,000 kg\nThewmaw powew: 12 GW
+SYSTEM_RODS_16_SPECS|Manyufactuwew: Wusatom-Antonyoff\nOpewating tempewatuwe: 3,500 K\nFaiwuwe point: 4,500 K\nMass: 8,000 kg\nThewmaw powew: 16 GW
+SYSTEM_RODS_20_SPECS|Manyufactuwew: Wusatom-Antonyoff\nOpewating tempewatuwe: 3,500 K\nFaiwuwe point: 4,500 K\nMass: 10,000 kg\nThewmaw powew: 20 GW
+SYSTEM_CORE_LIQUID_30_SPECS|Manyufactuwew: Nyakamuwa Dynyamics\nOpewating tempewatuwe: 3,000 K\nFaiwuwe point: 4,500 K\nMass: 5,000 kg\nThewmaw powew: 30 GW
+SYSTEM_CORE_LIQUID_40_SPECS|Manyufactuwew: Nyakamuwa Dynyamics\nOpewating tempewatuwe: 3,000 K\nFaiwuwe point: 4,500 K\nMass: 5,500 kg\nThewmaw powew: 40 GW
+SYSTEM_CORE_LIQUID_50_SPECS|Manyufactuwew: Nyakamuwa Dynyamics\nOpewating tempewatuwe: 3,000 K\nFaiwuwe point: 4,500 K\nMass: 6,000 kg\nThewmaw powew: 50 GW
+SYSTEM_AUX_MPD_SPECS|Powew dwaw: 50 MW\nThewmaw dwaw: 0.5 GW\nPowew (nyominyaw): 350 MW\nMass: 2,500 kg\nType: MPDG\nManyufactuwew: Mitsudaya-Stawbus
+SYSTEM_AUX_MPD_MK2_SPECS|Powew dwaw: 100 MW\nThewmaw dwaw: 1 GW\nPowew (nyominyaw): 700 MW\nMass: 4,000 kg\nType: MPDG\nManyufactuwew: Eon Intewstewwaw
+SYSTEM_AUX_MPD_MK3_SPECS|Powew dwaw: 150 MW\nThewmaw dwaw: 1.5 GW\nPowew (nyominyaw): 1,000 MW\nMass: 8,000 kg\nType: MPDG\nManyufactuwew: Maws Powew Industwies
+SYSTEM_AUX_SMES_SPECS|Capacity: 18,000 MJ\nChawge powew dwaw: 100 MW\nDischawge powew (peak): 3,000 MW\nMass: 1,000 kg\nType: SMES\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_AUX_SMES_MK2_SPECS|Capacity: 32,000 MJ\nChawge powew dwaw: 150 MW\nDischawge powew (peak): 3,000 MW\nMass: 2,000 kg\nType: SMES\nManyufactuwew: Maws Powew Industwies
+SYSTEM_AUX_SMES_MK3_SPECS|Capacity: 50,000 MJ\nChawge powew dwaw: 200 MW\nDischawge powew (peak): 6,000 MW\nMass: 3,500 kg\nType: SMES\nManyufactuwew: Eon Intewstewwaw
+SYSTEM_NONE_SPECS|n/a
+SYSTEM_CLAIM_SPECS|Dwy mass: 8,000 kg\nPwopewwant: 8,000 kg\nAutonyomy Cwass: C1\nCwadwe mass: 500 kg\nManyufactuwew: Twiskewion-Awmstwong
+SYSTEM_SALVAGE_ARM_SPECS|Awm stwength: 1,500 kN\nWeach: 40 m\nPowew dwaw (peak): 180 MW\nMounting Wocation: High-stwess onwy\nMass: 8,000 kg\nManyufactuwew: Twiskewion-Awmstwong
+SYSTEM_ACTEMD14_SPECS|Powew consumption (peak): 750 MW\nPwojectiwe mass: 10 kg\nGimbaw speed: 36 deg/s\nMuzzwe vewocity: 4,500 m/s\nWate of fiwe: 2 pps\nMass: 4,500 kg\nManyufactuwew: Conwido WVM
+SYSTEM_ACL200P_SPECS|Effective wange: 8,000 m\nPowew consumption (avewage): 220 MW\nGimbaw speed: 36 deg/s\nOutput powew: 200 MW\nPuwses: 24 Hz\nWavewength: 650 nm\nMass: 5,500 kg\nManyufactuwew: Cohewent Wight
+SYSTEM_SCOOP_SPECS|Cawgo capacity: 50 m^3\nAutonyomy cwass: C2\nPowew usage (nyominyaw): 30 MW\nDwy Mass: 2,000 kg\nCwadwe Mass: 500 kg\nPwopewwant Tank: 4,000 kg\nManyufactuwew: Nyakamuwa-Titan
+SYSTEM_MAIN_ENGINE_EIZAP_SPECS|Thwust: 800 kN\nExhaust vewocity: 1250 km/s\nPwopewwant consumption: 0.6 kg/s\nIgnyition powew consumption: 150 MJ\nOpewation mode: Vawiabwe thwust, gimbawed\nGimbaw angwe: 30 deg\nGimbaw speed: 28 deg/s\nPwopewwant: Hydwogen pwasma\nFusion fuew: 3He-D\nBuwn time: 30 minyutes (est)\nMass: 3,000 kg\nManyufactuwew: Eon Intewstewwaw
+SYSTEM_HUNK_SPECS|Mass: 8,000 kg\nCwadwe Mass: 500 kg\nManyufactuwew: Conwido WVM
+SYSTEM_SYNCHRO_SPECS|Powew consumption: 400 MW\nMaximum chawge: 11.2 GJ\nFuww chawge time: 30 seconds\nPwojectiwe vewocity: 298,805 km/s\nPwojectiwe mass: 11 µg\nMounting Wocation: Side-mounts onwy\nMass: 15,000 kg\nManyufactuwew: Omaewamou-Shindeiwu
+SYSTEM_FUEL_15000_SPECS|Capacity: 15,000 kg\nPwopewwant type: Thewmaw Wocket
+SYSTEM_EXMONO_SPECS|Cawgo capacity: 90,000 kg\nPowew usage (nyominyaw): 20 MW\nDwy Mass: 2,000 kg\nCwadwe mass: 500 kg\nPwopewwant Tank: 1,000 kg\nManyufactuwew: Titan Heavy Industwies
+SYSTEM_PDT_SPECS|Effective wange: 2,000 m\nTawgeting AI: Cwass-1\nPowew consumption (peak): 400 MW\nPwojectiwe mass: 2 kg\nMuzzwe vewocity: 3750 m/s\nWate of fiwe: 5 pps\nMass: 2,500 kg\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_AMMO_20000_SPECS|Stowage: 20,000 kg\nDewivewy: 500 kg/s\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_AMMO_50000_SPECS|Stowage: 50,000 kg\nDewivewy: 500 kg/s\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_DND_20000_SPECS|Stowage: 20,000 kg\nDewivewy: 100 kg/s\nManyufactuwew: Nyakamuwa Dynyamics
+SYSTEM_DND_50000_SPECS|Stowage: 50,000 kg\nDewivewy: 100 kg/s\nManyufactuwew: Obonto Micwoenginyeewing
+SYSTEM_FUEL_500000_SPECS|Capacity: 500,000 kg\nPwopewwant type: Thewmaw Wocket
+SYSTEM_IROH_SPECS|Effective wange: 1000 m\nDewivewy wate: 500 kg/s\nPowew consumption: 200 MW\nThewmaw consumption: 17.0 GW\nMounting Wocation: Wow-stwess\nMass: 5,500 kg\nManyufactuwew: Tetsuo Enginyeewing
+SYSTEM_LIDAR_RADAR_SPECS|Manyufactuwew: Minding WF\nScannying beam: wow-fwequency wadio\nSweep pewiod: 2000 ms\nSweep covewage: 360 deg\nMeasuwements: distance
+SYSTEM_LIDAR_DOPPLER_SPECS|Manyufactuwew: Conwido WVM\nScannying beam: infwawed wight\nSweep pewiod: 500 ms\nSweep covewage: 360 deg\nMeasuwements: distance, wewative vewocity
+SYSTEM_LIDAR_DOPPLER_CONE_SPECS|Manyufactuwew: Conwido WVM\nScannying beam: infwawed wight\nSweep pewiod: 500 ms\nSweep covewage: 30 deg\nMeasuwements: distance, wewative vewocity
+SYSTEM_LIDAR_DOPPLER_HIRES_SPECS|Manyufactuwew: Wunyasimi\nScannying beam: infwawed wight\nSweep pewiod: 2000 ms\nSweep covewage: 360 deg\nMeasuwements: distance, wewative vewocity
+SYSTEM_LIDAR_OPA_SPECS|Manyufactuwew: Cohewent Wight\nScannying beam: infwawed wight\nSweep pewiod: continyuous\nSweep covewage: 360 deg\nMeasuwements: distance
+SYSTEM_CARGO_MPUDRY_SPECS|Pwocessing capacity: 10 kg/s\nPowew dwaw: 5 MW / chunk\nMinyewaw pwocessing efficiency: n/a\nWemass pwocessing efficiency: 60%\nMass: 2,800 kg\nManyufactuwew: Antonyoff
+SYSTEM_THRUSTER_MADTX4_SPECS|Thwust: 1200 kN\nExhaust vewocity: 15 km/s\nPwopewwant consumption: 80.0 kg/s\nPowew consumption: 110 MW\nThewmaw consumption: 11.4 GW\nOpewation mode: Puwsed thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 270 kg (pew thwustew)\nManyufactuwew: Machinyes Astwo-Dynyamiques
+SYSTEM_MAIN_ENGINE_CHEVAL_SPECS|Thwust: 5,000 kN\nExhaust vewocity: 15 km/s\nPwopewwant consumption: 333.3 kg/s\nPowew consumption: 230 MW\nThewmaw consumption: 37.5 GW\nOpewation mode: Vawiabwe thwust\nWesponse time: 0.2 s\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 4,150 kg\nManyufactuwew: Machinyes Astwo-Dynyamiques

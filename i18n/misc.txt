@@ -1,0 +1,11 @@
+locale|en_HK
+DEMO_SEE_MORE|Weawn mowe a-about the game
+DEMO_THANK_YOU|Thank you fow pwaying t-the demo!? (^w^)
+DEMO_DISCLAIMER|This demo has nyo westwictions duwing the events i-in Ukwainye. Thewe awe causes that nyeed youw c-contwibutions mowe than we do. Shouwd y-you puwchase the fuww game, aww youw saves and achievement pwogwess wiww cawwy ovew. OwO
+DEMO_UNLOCK|Get the fuww vewsion to unwock the s-saves. UwU
+DLC_4K-TEXTURES|4K textuwe pack
+DLC_ANTHROPOGENESIS|Anthwopogenyesis
+DLC_DEEP-WEEB|Deep Weeb
+DLC_HERE-BE-DRAGONS|Hewe Be Dwagons owo
+DLC_VANILLA|Nyot Modified ;;w;;
+DLC_LO-TEXTURES|Wo-Fi Space

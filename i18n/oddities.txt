@@ -1,0 +1,14 @@
+locale|en_HK
+ODDITY_TESLA|Ewon's W-Wide
+ODDITY_LIFEPOD|Wifepod wescue wewawd
+ODDITY_URANIUM_CRYSTAL|Sewenyity towbewnyite cwystaw
+ODDITY_LIFEPOD_BOUNTY|Bounty
+ODDITY_BULLET|Evidence gathewing wewawd
+ODDITY_DEAD_BODY|Evidence gathewing wewawd
+ODDITY_SINGULARITY_CORE|Weseawch matewiaw
+ODDITY_AICORE|Q-Quantum computew wetwievaw wewawd
+ODDITY_RACE_DRONE|Wingwace wewawd >w<
+ODDITY_MIKE_DRONE|Dwonye tampewing evidence wewawd
+ODDITY_MINE_DRONE|Dwonye tampewing evidence wewawd UwU
+ANOMALY_COMPANION|Wogue dwonye wecovewy fee (^w^)
+ODDITY_SCULPT_ICOSPHERE|Icosahedwaw ice cwystaw

@@ -1,0 +1,20 @@
+locale|en
+UwUify_CONFIG_ENABLE_DIALOGUE_NAME|Enable Dialogue UwU
+UwUify_CONFIG_ENABLE_DIALOGUE_DESC|Apply UwU transformation to dialogue text.
+UwUify_CONFIG_ENABLE_UI_NAME|Enable UI UwU
+UwUify_CONFIG_ENABLE_UI_DESC|Apply UwU transformation to UI, HUD, and Tooltips.
+UwUify_CONFIG_ENABLE_EQUIPMENT_NAME|Enable Equipment UwU
+UwUify_CONFIG_ENABLE_EQUIPMENT_DESC|Apply UwU transformation to equipment names and descriptions.
+UwUify_CONFIG_ENABLE_SHIPS_NAME|Enable Ships UwU
+UwUify_CONFIG_ENABLE_SHIPS_DESC|Apply UwU transformation to ship names and descriptions.
+UwUify_CONFIG_ENABLE_WORLD_NAME|Enable World UwU
+UwUify_CONFIG_ENABLE_WORLD_DESC|Apply UwU transformation to lore, oddities, and services.
+UwUify_CONFIG_ENABLE_TOOLTIPS_NAME|Enable Tooltips UwU
+UwUify_CONFIG_ENABLE_TOOLTIPS_DESC|Apply UwU transformation to tooltips.
+UwUify_CONFIG_ENABLE_TIPS_NAME|Enable Tips UwU
+UwUify_CONFIG_ENABLE_TIPS_DESC|Apply UwU transformation to loading screen tips.
+UwUify_CONFIG_ENABLE_TUNES_NAME|Enable Tunes UwU
+UwUify_CONFIG_ENABLE_TUNES_DESC|Apply UwU transformation to ship tuning descriptions.
+UwUify_MOD_DESCRIPTION|Adds a new UwU language option.
+UwUify_MOD_BRIEF|UwUifier
+UwUify_CONFIG_OPTIONS|UwUify Settings

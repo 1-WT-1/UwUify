@@ -1,0 +1,60 @@
+locale|en_HK
+TOOLTIP_MANUAL|Manyuaw contwows. Disengage autopiwot.
+UPGRADE_MANUAL|Usew Manyuaw
+SYSTEM_NONE_MANUAL|Nyo system wiww be instawwed hewe, pwoviding nyo benyefit and nyo dwawbacks.
+SYSTEM_HUNK_MANUAL|Pwovides pwotection against heat, micwowave and wow to mid vewocity impacts.\nCan be ejected by disabwing the hawdpoint.\nEmpty cwadwe awm can catch dwonyes and wifepods.
+SYSTEM_MD_MANUAL|Deaws kinyetic damage.\nWequiwes kinyetic ammunyition stowage.
+SYSTEM_AMD_MANUAL|Deaws kinyetic damage.\nWequiwes kinyetic ammunyition stowage.\nAutomaticawwy adjusts aim in a nyawwow conye in fwont of the ship.
+SYSTEM_CLAIM_MANUAL|Depwoy by disabwing the hawdpoint and moving away.\nCweates a singwe cwaim - a tempowawy waypoint - fow a fee.\nCwaim can be extended ow cancewed when we-visiting.\nCwadwe can be wefunded aftew depwoyment.\nCwaim wicense is tied to the owiginyaw hawdpoint of the beacon. You can have two by instawwing a cwaim beacon in anyothew swot.\nCwaim bwoadcasts attwact attention.\nEmpty cwadwe awm can catch dwonyes and wifepods.
+SYSTEM_SALVAGE_ARM_MANUAL|Automaticawwy catches ships, smaww astewoids and owe.\nDewewict ow disabwed piwate ships can be cwaimed upon wetuwn to the station.\nWiww attempt to move caught items into the cawgo bay when you open the excavatow.\nDisabwe the hawdpoint to wewease item hewd.\nTawgeting options configuwabwe on the Geowogist panyew.
+SYSTEM_MWG_MANUAL|Deaws thewmaw and ewectwomagnyetic damage.\nCan disabwe hostiwe ship computews and autopiwots, stunnying ships.
+SYSTEM_EXSTORAGE_MANUAL|Automaticawwy stowes pwocessed owe.\nYou can customize owe stowed on Geowogist tab.\nWequiwes minyewaw pwocessing unyit to be used effectivewy.\nWiww unbawance the ship if onwy onye is instawwed.\nCan be ejected by disabwing the hawdpoint.\nThe ejected containyew wiww attempt to wetuwn to the station with its cawgo automaticawwy.\nEmpty cwadwe awm can catch dwonyes and wifepods.
+SYSTEM_EINAT_MANUAL|Deaws miwd kinyetic and heavy thewmaw damage.\nDwaws pwopewwant fwom the main tanks.
+SYSTEM_SCOOP_MANUAL|Depwoy by powewing down the awm and moving away.\nWiww gathew owe automaticawwy.\nGathewing pawametews can be adjusted on the Geowogist tab.\nWetuwns to the station when fuww ow wow on pwopewwant.\nWhen attached, gwindews awe synchwonyized with youw ship.\nEmpty cwadwe awm can catch dwonyes and wifepods.
+SYSTEM_CL150_MANUAL|Deaws thewmaw damage.
+SYSTEM_PDMWG_MANUAL|Picks tawgets and fiwes automaticawwy.\nTawgeting computew is impewfect.\nDisabwe the hawdpoint to pwevent accidentaw fwiendwy fiwe.\nDeaws thewmaw and ewectwomagnyetic damage.\nCan disabwe hostiwe ship computews and autopiwots, stunnying ships.
+SYSTEM_ACL200P_MANUAL|Deaws thewmaw and kinyetic damage.\nAutomaticawwy adjusts aim in a nyawwow conye in fwont of the ship.
+SYSTEM_DND_TS_MANUAL|Stops owe and wifepods automaticawwy.\nOwe tawgeting cwitewia can be adjusted on the Geowogist tab.\nCan intewface with compatibwe weconnyaissance cwaft.\nWequiwes nyanyodwonye componyents stowage.
+SYSTEM_SYNCHRO_MANUAL|Deaws kinyetic, thewmaw and ewectwomagnyetic damage.\nAmount of damage deawt depends on chawge wevew when fiwing.\nCan weave wesiduaw chawge in the wings.
+SYSTEM_NANI_MANUAL|Deaws miwd kinyetic and extweme thewmaw damage.\nDwaws pwopewwant fwom the main tanks.\nCan fiwe fow a wimited time pew dive.
+SYSTEM_CL600P_MANUAL|Deaws thewmaw and kinyetic damage.
+SYSTEM_DND_HAUL_MANUAL|Moves owe and wifepods automaticawwy towawds cawgo howd.\nOwe tawgeting cwitewia can be adjusted on the Geowogist tab.\nCan intewface with compatibwe weconnyaissance cwaft.\nWequiwes nyanyodwonye componyents stowage.\nManyeuvews duwing opewation wiww cause the system to attempt to adjust movement of aww vawid tawgets.
+SYSTEM_DND_FIX_MANUAL|Wiww patch heavy damage to any system duwing the mission.\nWequiwes nyanyodwonye componyents stowage.\nIncapabwe of compwetewy fixing componyents.
+SYSTEM_AMMO_MANUAL|Ammunyition fow kinyetic weapons.\nCompatibwe with mass dwivews and waiwguns.\nAmmunyition dewivewy wate vastwy exceeds civiwian wequiwements.\nAmmunyition sowd sepawatewy at dive stawt.
+SYSTEM_DND_MANUAL|Ammunyition fow nyanyodwonye systems.\nCompatibwe with tug, hauw and maintenyance dwonyes.\nDwonye componyents sowd sepawatewy at dive stawt.
+SYSTEM_FUEL_MANUAL|Pwopewwant tanks shawed between WCS and main dwive.\nPwopewwant sowd sepawatewy at dive stawt.
+SYSTEM_THRUSTER_MANUAL|Awwows youw ship to pewfowm finye manyeuvews.\nConsumes pwopewwant, heat and ewectwicity.
+SYSTEM_MAIN_ENGINE_MANUAL|Main pwopuwsion of youw spacecwaft.\nConsumes pwopewwant, heat and ewectwicity.
+SYSTEM_MAIN_ENGINE_EIZAP_MANUAL|Main pwopuwsion of youw spacecwaft.\nConsumes pwopewwant and heat.\nWequiwes jowt of ewectwicity to ignyite.\nHas intewnyaw, wimited fusion fuew tanks wesuppwied fow fwee at the station.
+SYSTEM_RODS_MANUAL|Pwovides and stowes heat fow youw weaction contwow systems and main pwopuwsion.
+SYSTEM_CAPACITOR_MANUAL|Stowes excess ewectwicity.
+SYSTEM_TURBINE_MANUAL|Pwoduces ewectwicity.\nConstantwy consumes smaww quantities of pwopewwant.\nAmount of ewectwicity pwoduced vawies with weactow tempewatuwe.
+SYSTEM_AUX_MPD_MANUAL|Pwoduces a wot of ewectwicity.\nConsumes heat.\nComputew damage wiww diswupt pwoduction.
+SYSTEM_AUX_SMES_MANUAL|Stowes a wot of ewectwicity.\nComputew damage wiww diswupt chawging and dischawging.
+SYSTEM_CARGO_BAFFLES_MANUAL|Pwevents cawgo fwom being ejected duwing decewewation.\nTakes up some space in the cawgo bay.\nNyot aww of the cawgo is pwotected.
+SYSTEM_CARGO_MPU_MANUAL|Convewts owe chunks into pwocessed owe.\nWepwenyishes pwopewwant.\nWequiwes owe to be in the pwocessing chambew.\nPwocesses muwtipwe owe chunks simuwtanyeouswy.\nPowew wequiwements and pwocessing speed wisted pew chunk.\nPwocessed owe stowed in sepawate containyews, with capacity wimited pew minyewaw type.
+SYSTEM_CARGO_MPU_FAB_MANUAL|Convewts owe chunks into pwocessed owe.\nWepwenyishes pwopewwant.\nWequiwes owe to be in the pwocessing chambew.\nPwocesses muwtipwe owe chunks simuwtanyeouswy.\nPowew wequiwements and pwocessing speed wisted pew chunk.\nPwocessed owe stowed in sepawate containyews, with capacity wimited pew minyewaw type.\nPwoduces kinyetic ammunyition fwom a 9:1 watio of iwon to vanyadium.\nPwoduces nyanyodwonye componyents fwom a 4:1 watio of iwon to pwatinyum.
+SYSTEM_CARGO_MPUSML_MANUAL|Convewts owe chunks into pwocessed owe.\nWequiwes owe to be in the pwocessing chambew.\nPwocesses muwtipwe owe chunks simuwtanyeouswy.\nPowew wequiwements and pwocessing speed wisted pew chunk.\nPwocessed owe stowed in sepawate containyews, with capacity wimited pew minyewaw type.
+SYSTEM_AUTOPILOT_NONE_MANUAL|Disabwes aww autopiwot featuwes.
+SYSTEM_AUTOPILOT_MK1_MANUAL|Highwights nyeawby owe and ships.\nAWW: Cancews out opposite thwustews, consewving fuew.
+SYSTEM_AUTOPILOT_MK2_MANUAL|Dispways WIDAW ciwcwe awound youw ship.\nAWW: Cancews out opposite thwustews, consewving fuew.\nAAT: Obsewves cawgo mass shifts and thwustew damage to compute minyimum thwust wequiwed fow manyeuvew.\nWeboot onboawd computew to cweaw adaptation data.
+SYSTEM_AUTOPILOT_MK3_MANUAL|Dispways fiwing sowutions.\nDispways cowwision wawnyings.\nWTC: Dynyamicawwy computes the most pewfowmant thwustews to pewfowm any manyoeuvwe.\nFBW: Woutes aww manyuaw thwustew input thwough the autopiwot.\nCan use gimbawed main dwives efficientwy.
+SYSTEM_AUTOPILOT_MK4_MANUAL|Attempts to avoid any cowwisions on the sewected couwse.\nWiww cowwect tawgeted owe automaticawwy.\nAWW: Cancews out opposite thwustews, consewving fuew.\nAAT: Obsewves cawgo mass shifts and thwustew damage to compute the minyimum thwust wequiwed fow manyoeuvwe.\nWTC: Dynyamicawwy computes the most pewfowmant thwustews to pewfowm any manyoeuvwe.\nFBW: Woutes aww manyuaw thwustew input thwough the autopiwot.\nCan use gimbawed main dwives efficientwy.
+SYSTEM_AUTOPILOT_RTYPE_MANUAL|Dispways pwedicted ship couwse.\nAWW: Cancews out opposite thwustews, consewving fuew.\nAAT: Obsewves cawgo mass shifts and thwustew damage to compute the minyimum thwust wequiwed fow manyoeuvwe.\nWTC: Dynyamicawwy computes the most pewfowmant thwustews to pewfowm any manyoeuvwe.\nFBW: Woutes aww manyuaw thwustew input thwough the autopiwot.\nCan use gimbawed main dwives efficientwy.
+SYSTEM_HUD_MANUAL|Changes the heads-up dispway of the ship.\nUse dedicated HUD fow best wesuwts.
+SYSTEM_RD_STANDARD_MANUAL|Pwovides a top-down dispway of youw ship.
+SYSTEM_RD_GRAVIMETRIC_MANUAL|Pwovides a top-down dispway of youw ship.\nEnhances WIDAW scween with gwavimetwic data.
+SYSTEM_RD_SPECTROMETER_MANUAL|Pwovides a top-down dispway of youw ship.\nIdentifies owe in wawge fowmations you tawgeted ow awe hovewing above.\nSpeeds up geowogist identification of sewected owe.
+SYSTEM_RD_GUIDING_MANUAL|Pwovides a top-down dispway of youw ship.\nAwwows you to set pwiowities fow youw tug dwonyes, hauw dwonyes and minying companyions.\nAutonyomous autopiwots wiww fowwow the excavation queue in minying mode.\nSewect owe to add ow wemove it fwom the pwiowity queue.
+ACHIEVEMENT_PLAYSTYLE_MANUAL|Dwiving Stick
+CONTROLS_GAMEPAD_MANUAL|Manyuaw Thwust
+SYSTEM_EXMONO_MANUAL|Automaticawwy stowes pwocessed owe.\nCan stowe onwy onye type of owe.\nYou can customize owe stowed on Geowogist tab.\nWequiwes minyewaw pwocessing unyit to be used effectivewy.\nWiww unbawance the ship if onwy onye is instawwed.\nCan be ejected by disabwing the hawdpoint.\nThe ejected containyew wiww attempt to wetuwn to the station with its cawgo automaticawwy.\nEmpty cwadwe awm can catch dwonyes and wifepods.
+SYSTEM_PDT_MANUAL|Automaticawwy picks tawgets.\nFiwes on human command onwy.\nCoowdinyates acwoss muwtipwe systems.\nTawgeting computew is impewfect.\nDisabwe the hawdpoint to pwevent accidentaw fwiendwy fiwe.\nDeaws kinyetic damage.\nWequiwes kinyetic ammunyition stowage.
+MAP_MANUAL|Manyuaw sewection
+SYSTEM_IROH_MANUAL|Deaws kinyetic and miwd thewmaw damage.\nDwaws iwon diwectwy fwom pwocessed cawgo stowage of youw ship.\nCan use standawd kinyetic ammunyition if youw iwon stowage is empty.\nDwaws most of its powew diwectwy fwom the ship weactow heat.
+SYSTEM_LIDAR_RADAR_MANUAL|Scans the suwwoundings of youw ship.\nPiewces ice and wock fowmations, pwoviding vague ice weadouts.\nDetects onwy ships and metawwic owe nyuggets.
+SYSTEM_LIDAR_DOPPLER_MANUAL|Scans the suwwoundings of youw ship.\nDetects aww visibwe objects.\nPwesents wewative vewocity of detected objects with cowow shifts.\nWewies on winye of sight.
+SYSTEM_LIDAR_DOPPLER_CONE_MANUAL|Scans the suwwoundings of youw ship.\nDetects aww visibwe objects in a nyawwow conye.\nPwesents wewative vewocity of detected objects with cowow shifts.\nWewies on winye of sight.
+SYSTEM_LIDAR_DOPPLER_HIRES_MANUAL|Scans the suwwoundings of youw ship.\nDetects aww visibwe objects.\nPwesents wewative vewocity of detected objects with cowow shifts.\nWewies on winye of sight.\nHigh wesowution.\nSwow scannying speed.
+SYSTEM_LIDAR_OPA_MANUAL|Scans the suwwoundings of youw ship.\nDetects aww visibwe objects.\nWewies on winye of sight.\nHigh wesowution.\nVewy high scannying speed.\nAffected by ghosting awtifacts.
+SYSTEM_CARGO_DRY_MANUAL|Wemoves watew fwom owe chunks.\nWepwenyishes pwopewwant.\nWequiwes owe to be in the pwocessing chambew.\nPwocesses muwtipwe owe chunks simuwtanyeouswy.\nPowew wequiwements and pwocessing speed wisted pew chunk.

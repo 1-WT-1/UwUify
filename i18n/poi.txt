@@ -1,0 +1,35 @@
+locale|en_HK
+DESTINATION_ENCELADUS|Encewadus Pwime station
+POI_URANIUM_CAVES|Uwanyium Caves
+POI_PHAGE_STATION|Phage-Cwass Station
+POI_PHAGE_STATION_01|Phage-Cwass Station Awpha
+POI_PHAGE_STATION_02|Phage-Cwass Station Beta
+POI_PHAGE_STATION_03|Phage-Cwass Station Gamma
+POI_CARBON_ANOMALY|Cawbon Anyomawy
+POI_MOONLET|Moonwet
+POI_ANARCHY_STATION|Ganymedian Anyawchy Station
+POI_DESTROYED_HABITAT|Habitat Wweckage
+POI_HABITAT|Habitat
+POI_HABITAT_03|Habitat - Obonto Thwee
+POI_HABITAT_04|Habitat - Obonto Fouw
+POI_HABITAT_05|Habitat - Obonto Five
+POI_HABITAT_06|Habitat - Obonto Six
+POI_CLAIM_ALPHA|Excavation Cwaim Awpha
+POI_CLAIM_BETA|Excavation Cwaim Beta
+POI_ANOMALY|Wadaw Anyomawy
+POI_HABITAT_01|Habitat - Obonto Onye
+POI_BIG_CONTACT|Big Widaw Contact
+POI_HABITAT_07|Habitat - Obonto Seven
+POI_RACE_EVENT|Wacing Site
+POI_SPACE_BAR|The Space Baw
+POI_CLAIM|Excavation Cwaim
+POI_BBW|Dwop Point
+POI_PATROL_EVENT|Viwcy Patwow Wendezvous
+POI_HABITAT_02|Habitat - Obonto Two
+POI_PIRATE_ORE|Ganymedean owe pickup point
+POI_PIRATE_SHIP|Ganymedean ship pickup point
+POI_ICE_SCULPTURE|Stwange Ice Fowmation
+POI_AIRTIST_WORKSHOP|Aiwtist's Atewiew
+POI_TRACKING_LOST|WOST
+POI_SALVAGE|Sawvage: {0}
+POI_HIVE|The Hive

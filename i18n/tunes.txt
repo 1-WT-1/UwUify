@@ -1,0 +1,85 @@
+locale|en_HK
+TUNE_TARGET_TEMPERATURE|Tawget tempewatuwe
+TUNE_TARGET_TEMPERATURE_DESC|Sets the tempewatuwe that t-the weactow wiww twy to maintain.\n\nHighew tempewatuwes wiww w-wesuwt in b-bettew thewmaw and ewectwicaw pewfowmance, at the wisk of c-causing tuwbinye gawwing and mewtdowns. Jammed wods can cause mowe sevewe fwuctuations, exceeding the tawget vawues.
+TUNE_MAX_VELOCITY|Autopiwot wewative vewocity wimit
+TUNE_MAX_VELOCITY_DESC|Sets the maximum wewative vewocity that the autopiwot may m-maintain.\n\nYou can exceed this wimit with manyuaw contwow, and the autopiwot wiww stiww maintain contwow at that speed.
+TUNE_PROXIMITY_ALERT|Pwoximity awewt
+TUNE_PROXIMITY_ALERT_DESC|Sets the pwoximity awewt wange.\n\nWhen WIDAW detects objects within the pwoximity awewt wange, it wiww switch the autopiwot to pewfowmance mode, ignyowing comfowt wimits o-on accewewation.
+TUNE_SCANNER_FOCUS|Micwoseismic scannyew focus
+TUNE_SCANNER_FOCUS_DESC|Adjusts the focus awea of youw cawgo bay's buiwt-in micwoseismic minyewaw scannyew.
+TUNE_MASSDRIVER_POWER|Mass dwivew powew ^w^
+TUNE_MASSDRIVER_POWER_DESC|Changes the amount o-of powew fed into the mass dwivew. This affects both the vewocity and the enyewgy of pwojectiwes.\n\nWowew vawues can make owe wetwievaw mowe manyageabwe, whiwe highew vawues a-awe mowe suitabwe as defensive equipment.
+TUNE_THRUSER_THRUST|Thwust
+TUNE_THRUSER_THRUST_DESC|Adjusts the amount of weaction mass that gets pumped into the thwustew.\n\nHighew mass fwow wiww wesuwt i-in bettew thwust, but the thwustew wiww consume m-mowe pwopewwant, wiww nyeed mowe heat, and wiww weaw out quickew. Wowewing the mass fwow can pwowong the wife o-of fwagiwe thwustews.
+TUNE_ACCURANCY|Autopiwot weeway towewance OwO
+TUNE_MAX_LEEWAY|Autopiwot sensow c-confidence (^w^)
+TUNE_MAX_DRIFT|Autopiwot dwift towewance
+TUNE_ACCURANCY_DESC|Tunyes how stwictwy the autopiwot wiww adhewe t-to the pwotted owientation. Highew vawues pwovide bettew wemass econyomy, and wowew onyes wiww cause bettew accuwacy. UwU
+TUNE_MAX_LEEWAY_DESC|The autopiwot wewies on a vawiety of sensows to owient the ship in a way you wequiwe. Undew some ciwcumstances these weadings c-can be inyaccuwate, causing manyeuvews to ovewshoot. Decweasing sensow confidence w-wiww make youw manyeuvews swowew, but m-mowe p-pwecise. Incweasing it wiww impwove speed at wisk of ovewshooting.
+TUNE_MAX_DRIFT_DESC|Tunyes how stwictwy the autopiwot wiww adhewe to the pwotted vectow. A highew dwift towewance wiww i-impwove wemass econyomy, whiwe wowew onyes w-wiww impwove accuwacy.
+TUNE_XENON_BURN|Intewpwanyetawy Xenyon twansit dwive usage
+TUNE_XENON_BURN_DESC|Aww ships awe equipped with w-wow-thwust econyomicaw Xenyon dwives that awwow pwowonged intewwunyaw twavew whiwe using wittwe pwopewwant. Duwing youw dive into the wings, you can choose to use youw main dwives instead, cutting down the twavew time signyificantwy at the cost of incweased pwopewwant wequiwed fow twansit.
+TUNE_MAX_ROTATION|Autopiwot anguwaw v-vewocity w-wimit
+TUNE_MAX_ROTATION_DESC|Wimits the anguwaw vewocity autopiwot wiww use when setting heading. H-Highew vawues awwow swift manyeuvews, whiwe wowewing the w-wimit wiww consewve weaction mass and pwevent accidentaw owe woss.
+TUNE_MANUAL_MARKERS|A-Autopiwot mawkews on manyuaw contwow
+TUNE_MANUAL_MARKERS_DESC|Adjusts the visibiwity of the autopiwot mawkews when piwoting manyuawwy.
+TUNE_ROTATION_PRIORITY|Autopiwot wotation pwiowity
+TUNE_ROTATION_PRIORITY_DESC|This setting govewns how much thwust is devoted to the wotation befowe twanswation if both awe wequested. S-Swow ow unbawanced c-cwaft may be abwe to wevewage theiw main dwives bettew, but mowe nyimbwe cwaft m-may find this weducing theiw thwust output mowe often than they wike.
+TUNE_RANGE_MIN|Minyimum wange
+TUNE_RANGE_MAX|Maximum wange (^w^)
+TUNE_RANGE_MIN_DESC|F-Fowbid dwonye system fwom intewacting with tawgets bewow this thweshowd. Usefuw fow configuwing muwtipwe nyanyodwonye systems to wowk simuwtanyeouswy.
+TUNE_RANGE_MAX_DESC|Fowbid dwonye system fwom intewacting with t-tawgets above this thweshowd. Usefuw fow configuwing muwtipwe nyanyodwonye systems to wowk simuwtanyeouswy.
+TUNE_FBW|Fwy-by-wiwe system
+TUNE_FBW_DESC|Enyabwing the fwy-by-wiwe system w-wiww woute aww manyuaw inputs thwough the fwight computew, so that a manyuaw p-piwot can take advantage of vectowed thwust and the autopiwot's thwustew optimization woutinyes.
+TUNE_HUD_HIDE|Inyactive dispway visibiwity
+TUNE_HUD_HIDE_DESC|Adjusts the visibiwity of infowmation that the on-boawd computew decides is nyot wewevant to the cuwwent situation.
+TUNE_FLIP_ABOVE|Autopiwot fwip vewocity
+TUNE_FLIP_ABOVE_DESC|Sets the wewative vewocity above which the a-autopiwot w-wiww fwip the ship and fwy backwawds, pwepawing to use the main t-towch(es) fow decewewation.
+TUNE_LASER_POWER|Wasew Powew S-Suppwy (avewage)
+TUNE_LASER_POWER_DESC|Changes the amount of powew fed into the w-wasew.\n\nIncweased powew wiww incwease the beam p-powew, causing mowe damage to tawgets, but the wasew's medium wiww weaw out mowe quickwy. Wowewed powew wiww make the medium wast much wongew and make owe wetwievaw mowe manyageabwe.
+TUNE_LASER_FREQUENCY|Puwse fwequency
+TUNE_LASER_FREQUENCY_DESC|Changes the fwequency of puwses. Highew fwequency puwses d-dewivew wess powew pew puwse, wowewing the abwation damage but dewivewing mowe heat.\n\nWow-fwequency wasews dewivew powewfuw vapow expwosions, shattewing a-astewoids to pieces, whiwe high fwequencies wiww cause tawgets to sepawate mowe gentwy.
+TUNE_EMP_POWER|Micwowave Powew
+TUNE_EMP_POWER_DESC|The incweased powew o-of the micwowave wiww widen t-the conye o-of i-iwwadiance, a-as high powew m-micwowaves w-wefwact within the wadiatow dish. OwO
+TUNE_EMP_RESONANCE|Watew Wesonyance
+TUNE_EMP_RESONANCE_DESC|Setting micwowave fwequency t-to match the watew wesonyance fwequency cwosewy wiww wesuwt in fastew heating b-but much wowew penyetwation. W-Whiwe incweased heat o-output is desiwabwe in minying, it makes the toow unsuitabwe fow sewf-defense.
+TUNE_RANGE_KEEP_AWAY|P-Pwoximity buffew (OwO)
+TUNE_RANGE_KEEP_AWAY_DESC|Fowbid dwonye system fwom b-bwinging tawgets bewow t-this distance, unwess b-bwinging it into an open excavatow. Owe that manyages to get cwosew wiww b-be pushed away.
+TUNE_SLOW_ZONE|Decewewation zonye
+TUNE_SLOW_ZONE_DESC|Awea in which the hauw dwonye system wiww gwaduawwy swow d-down the owe fow finyaw appwoach.
+TUNE_SAFETY|Safety P-Pwotocow OwO
+TUNE_SAFETY_DESC|The Point Defence Tuwwet wiww scan the awea in fwont of the muzzwe with a wadaw s-scan to ensuwe nyo unyintended tawgets awe i-in t-the winye of fiwe.
+TUNE_SAFETY_INVALID|Ignyowe o-obscuwed tawgets
+TUNE_SAFETY_INVALID_DESC|The P-Point Defence Tuwwet can e-eithew twace ow ignyowe cuwwentwy o-obscuwed tawgets. Ignyowing the tawgets wiww cause the tuwwet to switch to the nyext vawid onye.
+TUNE_WEIGHT_THREAT|Tawgeting cwitewia: IFF
+TUNE_WEIGHT_THREAT_DESC|I-Incwease ow decwease the weight Point Defence Tuwwet's AI puts o-on input f-fwom I-Identify Fwiend-Foe system.\nIncweasing this v-vawue wiww cause y-youw tuwwet to tawget hostiwes soonyew.\nDecweasing this vawue wiww make y-youw tuwwet use the wemainying tawgeting cwitewia.
+TUNE_WEIGHT_ANGLE|Tawgeting cwitewia: tuwwet movement distance
+TUNE_WEIGHT_ANGLE_DESC|Youw Point Defence Tuwwet can pwiowitize tawgets wequiwing the weast tuwwet motion to shoot.\nIncweasing this vawue wiww cause youw tuwwet to t-tawget objects it can aim at quickwy.\nDecweasing this v-vawue wiww make youw tuwwet use the wemainying tawgeting cwitewia.
+TUNE_WEIGHT_DISTANCE|Tawgeting cwitewia: distance to vehicwe
+TUNE_WEIGHT_DISTANCE_DESC|Make the P-Point Defence Tuwwet pwefew tawgeting the objects n-nyeaw y-youw ship.\nIncweasing t-this vawue wiww cause youw t-tuwwet to tawget objects cwosest to youw vehicwe.\nDecweasing this vawue wiww make youw tuwwet use the wemainying tawgeting cwitewia.
+TUNE_IGNORE_COLLISION_ENERGY|Ignyowe minyow cowwisions
+TUNE_IGNORE_COLLISION_ENERGY_DESC|Set up the estimated cowwision enyewgy thweshowd fow youw a-autopiwot to ignyowe when pwotting a couwse. Incweasing the thweshowd awwows the ship to manyeuvew among dense fiewds of s-smaww, wewativewy stationyawy o-objects, ignyowing nyegwectabwe i-impacts.
+TUNE_AUDIO_LIDAR|Audibwe feedback fow sensow contacts
+TUNE_AUDIO_LIDAR_DESC|As wequiwed by Encewadian weguwations, ships equipped with scannyews nyeed to pwovide both visuaw and auditowy f-feedback fow contacts they discovew. ;;
+TUNE_VARIABLE_GEOMETRY|Autopiwot assist fow vawiabwe geometwy ships ^w^
+TUNE_VARIABLE_GEOMETRY_DESC|Autopiwot w-wiww automaticawwy adapt to the changing geometwy o-of the ship, adjusting the designyated fowwawd diwection to match the cuwwent ship configuwation. (^w^)
+TUNE_COLLISION_WARNING_DESC|Customize the time to impact at which youw autopiwot sounds the audibwe awewt wawnying a-about an impending cowwision.
+TUNE_COLLISION_WARNING|Cowwision wawnying uwu
+TUNE_LIDAR_SPEED|Sensow sweep speed a-adjustment
+TUNE_LIDAR_SPEED_DESC|Adjust the speed of the sensow sweep.\n\nFastew s-sweeps can detect objects q-quickew, b-but they sacwifice the wesowution of the sensow, as the beam has wess time to pewfowm measuwements.\nTunying b-bewow 100% wiww wesuwt in highew wesowution and mowe pwecise measuwements, but it wiww take wongew to detect objects, a-and measuwements might fade away befowe a subsequent sweep. >w<
+TUNE_LIDAR_CONE|Sweep conye adjustment ;;
+TUNE_LIDAR_CONE_DESC|A-Adjusts the size of the conye which the sensow sweeps. The nyawwowew the conye, the highew the wesowution.
+TUNE_HUD_BRIGHTNESS|Dispway bwightnyess
+TUNE_HUD_BRIGHTNESS_DESC|A-Adjust the bwightnyess of the viwtuaw dispways.
+TUNE_REMASS_BUFFER|Ship pwopewwant wesewve
+TUNE_REMASS_BUFFER_DESC|The cwadwe wiww automaticawwy twansfew pwopewwant t-to cwadwed cwaft if the main pwopewwant tanks howd mowe than t-the wesewve c-configuwed hewe. (^w^)
+TUNE_LIDAR_CONE_FOCUS|Sweep conye f-focus
+TUNE_LIDAR_CONE_FOCUS_DESC|Adjusts the s-sweep conye's focus to the conye's centew ow edges.
+TUNE_MPU_SPEED|Pwocessing speed
+TUNE_MPU_SPEED_DESC|Incweasing t-the pwocessing s-speed of a Minyewaw P-Pwocessing Unyit impwoves weaction mass wecwamation efficiency by shifting pawt of the puwification pwocess to t-the pwopewwant fiwtews. This boosts t-thwoughput but incweases powew consumption and weduces minyewaw captuwe efficiency.\n\nSwowing down t-the pwocess enhances minyewaw captuwe efficiency and wowews powew usage, but decweases weaction m-mass wecwamation e-efficiency.
+TUNE_PARAMETER_POWER_DRAW|Powew Dwaw
+TUNE_PARAMETER_MPU_MINERAL_EFFICIENCY|Minyewaw Pwocessing Efficiency
+TUNE_PARAMETER_MPU_REMASS_EFFICIENCY|Wemass pwocessing efficiency
+TUNE_PARAMETER_POWER_DRAW_THERMAL|Thewmaw Consumption uwu
+TUNE_PARAMETER_WEAR_RATIO|Wewative Weaw
+TUNE_PARAMETER_MPU_POWER_DRAW|Powew Dwaw (pew chunk)

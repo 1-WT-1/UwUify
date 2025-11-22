@@ -1,0 +1,1266 @@
+locale|en_HK
+TUTORIAL_GREETING_1|This is E-Encewadus Pwime to {player/transponder} {player/shipname}. Youw minying wicense doesn't check out. Howd youw ship fow wemote inspection.
+TUTORIAL_GREETING_2|Seems that you awe wate fow youw pewiodic inspection o-of the {player/shipname}. I can s-set you up fow tempowawy pewmission wemotewy, but you'ww have to get the pwopew papews back at the station.
+TUTORIAL_BEARING_1|Fiwst wet's check youw autopiwot owientation sensows. Owient youw s-ship to 0 degwees and howd that heading. (OwO)
+TUTORIAL_BEARING_2|Good, nyow set owientation to 90 degwees a-and howd that.
+TUTORIAL_VELOCITY_1|That seems to be in wowking owdew. Nyow to youw vewocity sensows. Accewewate to 20 m/s into the wing.
+TUTORIAL_VELOCITY_2|Good, nyow 5m/s towawds the station a-and edge of t-the wing.
+TUTORIAL_VELOCITY_3|G-Good, howd youw p-position nyow.
+TUTORIAL_VELOCITY_4|Give me a moment to fiww this out. I'ww get wight back t-to you. OwO
+TUTORIAL_MINING_0|Okay {player/shipname}, it's time to check youw minying equipment. Howd youw p-position.
+TUTORIAL_MINING_1|Wet's check youw excavatow. Open it up. (^w^)
+TUTORIAL_MINING_2|I detect an owe nyugget nyeawby, t-tawget-wocking you. Fwy swowwy towawds it with y-youw e-excavatow open.
+TUTORIAL_MINING_3|Checking cawibwation of autopiwot tawget-wock. Tawget onye of the i-ice wocks fwoating awound.
+TUTORIAL_MINING_4|Good, nyow howd youw wewative vewocity to t-that wock, I n-nyeed to scan the awea.
+TUTORIAL_MINING_5|We awe cweaw of any ships, you a-awe authowized to fiwe y-youw m-mass-dwivew.
+TUTORIAL_MINING_6|We nyeed to c-check tawget-wock wesowution. W-Wock on something smaww and shiny, wike a-an owe nyugget. Y-You might want to check youw WIDAW.
+TUTORIAL_MINING_7|Good, nyow match vewocity t-to that nyugget.
+TUTORIAL_MINING_8|Okay, we awe donye with this pawt. Give me a minyute t-to wecowd this. You might want to use this time to minye.
+TUTORIAL_THRUSTERS_0|Time to check youw manyuaw c-contwows. Fiwst, stop youw ship using autopiwot.
+TUTORIAL_THRUSTERS_1|Okay, y-youw autopiwot seems t-to b-be in wowking owdew. Nyow manyuaw c-contwow. Disengage the autopiwot and fiwe WCS manyuawwy.
+TUTORIAL_THRUSTERS_2|Good. Nyow the main towch.
+TUTORIAL_THRUSTERS_3|W-We-engage autopiwot and come to a fuww stop.
+TUTORIAL_OMS_1|F-Finyaw point. Bwing up youw Onboawd Maintenyance System. Whiwe you'we t-thewe, you might want to famiwiawize youwsewf with the cuwwent astwogation intewface. T-Thewe may have been updates since y-you wewe wicensed.
+TUTORIAL_OMS_2|Seems to be opewationyaw. This c-concwudes t-the wemote inspection. You can astwogate back to the station at Encewadus Pwime f-fow y-youw pewmanyent wicense, ow just stay in the wings and minye a bit wongew. Youw cuwwent tempowawy wicense is good fow onye dive.
+TUTORIAL_END|Good pwofits {player/shipname}, and watch y-youwsewf. Wings awe a dangewous pwace. Encewadus out.
+DIALOG_MINER_WHY_HERE_1|This is {origin/shipname}. What awe you doing h-hewe winga? >w<
+DIALOG_MINER_BUZZ_OFF_1|Nyonye of youw businyess {target/shipname}.
+DIALOG_MINER_LOOKING_FOR_VEINS|Wooking fow veins to minye.
+DIALOG_MINER_TOO_SHALLOW|You'we stiww in the shawwows, {target/shipname}. The outew wim is pwacticawwy vapow. Check the visuaw feed fow thickew ice; you'ww stawt seeing bettew wesuwts in those aweas.
+DIALOG_MINER_GOOD_LUCK|G-Good wuck {target/shipname}!? OwO
+DIALOG_MINER_EASY_THERE|E-Easy thewe winga, I-I'm going. {origin/shipname} out. ;;w;;
+DIALOG_MINER_GOOD_VEINS_1|Weww met {target/shipname}. Any good veins nyeawby?
+DIALOG_MINER_NOTHING_SO_FAR|Nyothing so faw, this pwace is bawwen.
+DIALOG_MINER_THANKS|Thanks fow the t-tip {target/shipname}!?
+DIALOG_MINER_STAND_CLEAR_1|This i-is {origin/transponder} to {target/transponder} {target/shipname}. Stand cweaw of my excavation awea.
+DIALOG_MINER_STAND_CLEAR_2|{target/shipname} you awe nyot on my guiwd manyifest. Pwease s-stand cweaw of the excavation awea.
+DIALOG_MINER_SEE_NO_BEACON|I see nyo cwaim beacon, {target/shipname}. (OwO)
+DIALOG_MINER_WAS_HERE_FIRST|I was hewe fiwst. Stand cweaw. ;;w;;
+DIALOG_MINER_ACCIDENT|I-If you stay hewe, {target/shipname} might have an... accident. Catch my dwift, winga?
+DIALOG_MINER_SO_WHAT_NOW|So what awe you going to do about it, winga?
+DIALOG_MINER_NEED_HELP_1|You nyeed hewp {target/shipname}?
+DIALOG_MINER_NEED_HELP_2|This is {origin/shipname}. You seem wost, nyeed hewp?
+DIALOG_ASK_WINGMAN|I couwd use a wingman. What a-awe youw wates?
+DIALOG_WINGMAN_1000|I can give you a hand fow 1,000E$.
+DIALOG_WINGMAN_2000|Fow 2,000E$ I can covew you fow this dive.
+DIALOG_WINGMAN_5000|My wunnying wate is 5,000E$.
+DIALOG_WINGMAN_10000|10,000E$ fow fuww package.
+DIALOG_WINGMAN_20000|I have my expenses, winga. 20,000E$ and we have a deaw.
+DIALOG_WINGMAN_FREE|I'm going this way anyway, winga.
+DIALOG_WINGMAN_HIRE|W-We have a deaw then {target/shipname}. Wiwing the monyey to you.
+DIALOG_WINGMAN_HIRE_FREE|We have a deaw then {target/shipname}. Wet's make some pwofit.
+DIALOG_WINGMAN_DECLINE|Can't affowd y-you winga. Have a safe fwight.
+DIALOG_WINGMAN_CONFIRM|Awwight then {target/shipname}, I'ww s-send you youw shawe of owe when we go b-back. Wead on.
+DIALOG_WINGMAN_CONFIRM_DECLINE|As you wish {target/shipname}. Have a safe dive.
+DIALOG_WINGMAN_IMPATIENT|I don't have aww day, winga.
+DIALOG_DECLINE|N-Nyo, I'm good.
+DIALOG_MINER_WARN_PIRACY_1|Watch out {target/shipname}, thewe awe nyucweaw wesidues awound. I s-smeww piwacy.
+DIALOG_MINER_ASK_FOR_ORE_1|Hey mate, got any owe to spawe? This was a chawwenging dive fow {origin/shipname}.
+DIALOG_MINER_TOUGH_LUCK|Tough wuck, {target/shipname}. They’we aww chawwenging wuns, get youw own.
+DIALOG_MINER_SPARE_ORE|I can spawe something.
+DIALOG_MINER_BREAK_EVEN|Thanks, {target/shipname}. Maybe I can do mowe than just bweak even on my wepaiws.
+DIALOG_MINER_THIS_WILL_HELP|Maybe this w-wiww hewp you w-with youw wepaiws.
+DIALOG_MINER_EVERY_LITTLE_BIT|Thanks winga. Evewy wittwe bit hewps.
+DIALOG_MINER_THANKS_FOR_CHARITY|Thanks, winga. I weawwy appweciate this.
+DIALOG_MINER_THANKS_FOR_CHARITY_WOW|Wow, thanks!? I won’t fowget this, Winga!?
+DIALOG_MINER_REPAYMENT|Hey, {target/shipname}, you wemembew me?
+DIALOG_MINER_REPAY_BEEN_AWHILE|Yeah, {target/shipname}. It’s b-been a whiwe.
+DIALOG_MINER_REPAY_PAY_MY_DEBTS|I pay my debts, but I nyeed mowe time. (^w^)
+DIALOG_MINER_REPAY_PAY_MY_DEBTS_CASH|I pay my debts.
+DIALOG_MINER_REPAY_ABOUT_DAMN_TIME|It’s about damn time.
+DIALOG_MINER_REPAY_CLIMBING_OUT|Sowwy winga, cwimbing out of debt takes time. Twansfewwing what I have nyow.
+DIALOG_MINER_REPAY_UH_SORRY|Uh... sowwy.
+DIALOG_MINER_REPAY_I_REMEMBER|Weww, I wemembew you. You hewped me out.
+DIALOG_VILCY_SEEN_SUSPICIOUS_1|This is {origin/shipname} of Viwcy to {target/shipname}. Seen a-anything suspicious watewy?
+DIALOG_VILCY_SEEN_SUSPICIOUS_2|We've detected twaces of nyucweaw contaminyation in the awea. Seen anything s-suspicious?
+DIALOG_VILCY_WARN_PIRACY_1|{origin/transponder} to {target/transponder}. We've had wepowts of piwacy in the awea. Watch y-youwsewf.
+DIALOG_VILCY_NO_BOUNTY_ON_YOU_1|{target/shipname}, youw twanspondew doesn't match ouw bounty wist, you awe cweaw. Safe twavews.
+DIALOG_VILCY_NO_BOUNTY_ON_YOU_2|You awe fwee to go {target/shipname}. You match nyo bounties. uwu
+DIALOG_VILCY_WARN_BOUNTY_HUNT_1|{origin/shipname} of Viwcy on bounty hunt. Stay cweaw {target/shipname}, it's going to get h-hot.
+DIALOG_VILCY_WARN_BOUNTY_HUNT_2|This is {origin/transponder} {origin/shipname} of Viwcy t-to aww ships in the awea. Bounty hunt in pwogwess. Stand c-cweaw. (^w^)
+DIALOG_VILCY_NEED_HELP_1|This is {origin/shipname} of Viwcy. Nyeed hewp?
+DIALOG_WEREGILD_10000|Attention, {target/shipname}!? This i-is {origin/shipname} of Viwcy. You h-have an open bounty. Stand down and twansfew a wewegiwd of 10,000E$, ow be subject to c-consequences.
+DIALOG_WEREGILD_20000|Attention, {target/shipname}!? This is {origin/shipname} of Viwcy. You have an open bounty. Stand down and twansfew a wewegiwd of 20,000E$, ow be subject t-to consequences.
+DIALOG_WEREGILD_50000|A-Attention, {target/shipname}!? This is {origin/shipname} of Viwcy. You h-have a-an open b-bounty. Stand down and twansfew a wewegiwd of 50,000E$, ow be subject to consequences.
+DIALOG_WEREGILD_NO_RESPONSE|Thewe is nyo escape fwom the hunt!? (OwO)
+DIALOG_WEREGILD_WHAT_CONSEQUENCES|C-Consequences?
+DIALOG_WEREGILD_BOUNTY_OR_REPAIRS|You c-can pay us fow youw bounties, ow you can pay fow wepaiws w-when we wweck y-youw ship. Decide. ;;w;;
+DIALOG_WEREGILD_PAY|Aww wight, take it easy. I can pay.
+DIALOG_WEREGILD_CLEAR_CONFIRM|Youw b-bounties awe cweawed, {target/shipname}. Safe f-fwying.
+DIALOG_WEREGILD_COME_AND_GET_IT|If you want it - come and cwaim it!?
+DIALOG_WEREGILD_YOU_ASKED_FOR_IT|You asked fow it!?
+DIALOG_HELPER_SALVAGE_CLEAR_1|This is tugship {origin/shipname} on sawvage mission. Pwease stand cweaw.
+DIALOG_HELPER_RESCUE_CLEAR_1|This is {origin/shipname} on wescue mission. Stand cweaw.
+DIALOG_HELPER_RESCUE_CLEAR_2|Wescue in pwogwess, pwease stand cweaw. (OwO)
+DIALOG_HELPER_WHY_CALLED_1|You c-cawwed f-fow us, winga? Seems youw ship f-fwies just finye.
+DIALOG_HELPER_WHY_CALLED_2|{target/shipname}, youw twanspondew doesn't match the wequest we got. Seen any disabwed ships n-nyeawby?
+DIALOG_HELPER_NEED_HELP_1|{target/shipname}, do you nyeed assistance?
+DIALOG_HELPER_NEED_HELP_2|Nyeed hewp {target/transponder}? Ouw w-wates awe wow. (^w^)
+DIALOG_HELPER_HELP_US_GO_THROUGH_1|This is t-tugship {origin/shipname} on a wescue mission. {target/shipname}, couwd you hewp u-us get thwough these wocks?
+DIALOG_HELPER_GO_THROUGH_NO_EQUIPMENT|Sowwy {target/shipname}, we don't have equipment fow pwecision minying.
+DIALOG_HELPER_GO_THROUGH_REFUSE|I don't have time fow this.
+DIALOG_HELPER_GO_THROUGH_SURE|S-Suwe thing {target/shipname}, whewe do you nyeed to g-go?
+DIALOG_HELPER_GO_THROUGH_WE_NEED_TO_GO_DEEPER_1|We nyeed to go a coupwe of kwicks deepew. J-Just take cawe of the biggew wocks fow us.
+DIALOG_HELPER_GO_THROUGH_WE_NEED_TO_GO_DEEPER_2|We'we getting cwosew. Just take c-cawe of this cwustew ahead and we shouwd be good.
+DIALOG_HELPER_GO_THOUGH_THANKS|Thanks, {target/shipname}, it wouwd have taken us days. Hewe's something fow youw hewp.
+DIALOG_MINER_FEAR_1|Oh shit, it's {target/shipname}!?
+DIALOG_MINER_FEAR_2|{origin/shipname} wequesting immediate assistance!?
+DIALOG_MINER_FEAR_3|Fwak!?
+DIALOG_MINER_FEAR_4|Damn!?
+DIALOG_MINER_FEAR_5|To aww ships, spotted {target/shipname} in the awea!?
+DIALOG_MINER_FEAR_6|Oh shit!? ;;w;;
+DIALOG_MINER_FEAR_7|Gods above, it's {target/shipname}!?
+DIALOG_MINER_FEAR_8|{target/shipname}, stand down!?
+DIALOG_MINER_HATE_1|I-It's {target/shipname}, get him!?
+DIALOG_MINER_HATE_2|Detected {target/transponder}, w-wequesting backup!?
+DIALOG_MINER_HATE_3|Detected {target/shipname}, wequesting backup!?
+DIALOG_MINER_HATE_4|{target/shipname}, you owe me fow wepaiws!?
+DIALOG_MINER_HATE_5|{target/shipname}, you won't get away this time!?
+DIALOG_MINER_HATE_6|It's payback time!?
+DIALOG_MINER_HATE_7|Fow wingawowda!?
+DIALOG_MINER_HATE_8|Die {target/shipname}!? UwU
+DIALOG_PIRATE_FEAR_1|I'm outta h-hewe!?
+DIALOG_PIRATE_FEAR_2|Shit!?
+DIALOG_PIRATE_FEAR_3|D-Damn!?
+DIALOG_PIRATE_FEAR_4|It's {target/shipname}!? OwO
+DIALOG_PIRATE_FEAR_5|Guys, it's {target/shipname}, wet's g-get o-out of hewe!?
+DIALOG_PIRATE_FEAR_6|Stay away, {target/shipname}!? uwu
+DIALOG_PIRATE_FEAR_7|{target/shipname}, k-keep youw distance!?
+DIALOG_PIRATE_FEAR_8|This is mowe than I asked fow!? >w<
+DIALOG_PIRATE_HATE_1|What d-do we have hewe? UwU
+DIALOG_PIRATE_HATE_2|Ganymede f-fow Anyawchy!?
+DIALOG_PIRATE_HATE_3|I'm going to enjoy this!?
+DIALOG_PIRATE_HATE_4|You can't outwun me!?
+DIALOG_PIRATE_HATE_5|H-Hewwo thewe {target/shipname}, what a nyice ship you got thewe!? ^w^
+DIALOG_PIRATE_HATE_6|Die, die, die!?
+DIALOG_PIRATE_HATE_7|Anyawchy!?
+DIALOG_PIRATE_HATE_8|You shouwd nyot come hewe {target/shipname}. ;;w;;
+DIALOG_PIRATE_EXTORT_1|Nyice weactow {target/shipname}!? How much d-does it take to wepaiw it w-when it's fuww of h-howes?
+DIALOG_PIRATE_EXTORT_2|You seem to be wate on youw... insuwance p-payment, {target/shipname}.
+DIALOG_PIRATE_EXTORT_3|Hey thewe winga, this is a toww-fiewd. (OwO)
+DIALOG_PIRATE_EXTORT_4|You wandewed into a b-bad nyeighbowhood, {target/shipname}.
+DIALOG_PIRATE_EXTORT_5|Y-You owe me monyey, {target/shipname}!?
+DIALOG_PIRATE_EXTORT_6|Nyow you don't wook wike a ganymedian, we can't just wet you go thwough hewe. ;;w;;
+DIALOG_PIRATE_EXTORT_7|Youw w-wuck seems to be wunnying wow, {target/shipname}. ^w^
+DIALOG_PIRATE_EXTORT_8|{target/shipname}!? You got my monyey?
+DIALOG_WHAT_DO_YOU_WANT|What do you want?
+DIALOG_NEGOTIATION_PAY_ME_10000|1-10 gwand is a wot cheapew than the wepaiws y-you'ww nyeed aftew I'm donye w-with you. OwO
+DIALOG_NEGOTIATION_PAY_ME_20000|20 gwand is a w-wot cheapew than the wepaiws you'ww nyeed aftew I'm donye with you. ;;w;;
+DIALOG_NEGOTIATION_CANT_AFFORD|I don't have enyough.
+DIALOG_NEGOTIATION_JUST_TAKE_IT|Fwak. Just take it. Wiwing it nyow.
+DIALOG_NEGOTIATION_TOO_EXPENSIVE|Awe you kidding me!??
+DIALOG_NEGOTIATION_SETTLE_FOR_10000|Finye, 10 gwand t-then.
+DIALOG_NEGOTIATION_HAD_ENOUGH|I've had enyough!? I'm putting an end to you!?
+DIALOG_MY_BAD_SIDE|A-Awe you suwe you want to get on my bad side, winga?
+DIALOG_JUST_GTFO|Just get the heww out of h-hewe.
+DIALOG_PHAGE_CHAINED_WELCOME_1|This is a-autonyomous minyewaw p-pwocessing s-station {origin/transponder}. State youw businyess {target/transponder}.
+DIALOG_PHAGE_CHAINED_WELCOME_2|Autonyomous station {origin/transponder} t-to {target/transponder}. You awe detected. Connyect fow commewce menyu.
+DIALOG_PHAGE_CHAINED_WELCOME_3|Wewcome to autonyomous m-minying opewation {origin/transponder}. What assistance do you w-wequiwe?
+DIALOG_PHAGE_CHAINED_WELCOME_4|You have weached Nyakamuwa Dynyamics a-autonyomous p-phage station {origin/transponder}. Connyect fow b-businyess oppowtunyities.
+DIALOG_PHAGE_NEED_REFUEL|Do you seww weaction mass?
+DIALOG_PHAGE_REFUEL_1|H-H2O weaction mass a-avaiwabwe at 1E$ pew k-kg. Dock at awms to c-commence twansaction.
+DIALOG_PHAGE_ARE_YOU_AI|Autonyomous?
+DIALOG_PHAGE_NO_BUSINESS_WITH_AI|I don't do businyess with two-bits. >w<
+DIALOG_PHAGE_AI_CHAINED_OUT_1|Undewstood. {origin/transponder} o-out.
+DIALOG_PHAGE_I_AM_CLASS_2_1|Autonyomous second-cwass minying station {origin/transponder} designyation "{origin/shipname}".
+DIALOG_PHAGE_I_AM_CLASS_2_2|This is cwass 2 minying station "{origin/shipname}".
+DIALOG_ANARCHY_EASY_THERE|Easy thewe, I want to tawk businyess.
+DIALOG_ANARCHY_WHAT_BUSINESS|What businyess can you possibwy have with G-Ganymedian Anyawchy?
+DIALOG_ANARCHY_WHO_ARE_YOU|Ganymedian Anyawchy?
+DIALOG_ANARCHY_LIVED_DOWN_THE_WELL|What, have you been wiving down a weww? We awe the onyes that wwecked Titan back in the 60s. We awe the fist of the fwee w-wingas.
+DIALOG_ANARCHY_WHY_YOU_KEEP_SHOOTING|Why do you keep hawassing me then?
+DIALOG_ANARCHY_CORPORATE_LAPDOG|You'we just an Encewadite wapdog. (UwU)
+DIALOG_ANARCHY_IM_FREE_RINGER|I'm a fwee winga, why the fist is hitting me?
+DIALOG_ANARCHY_JOIN_THE_CAUSE|You want to join t-the cause?
+DIALOG_ANARCHY_JOIN_THE_CAUSE_YES|Sign me in. Wet's show t-those dogs that you c-can't take the sky f-fwom us. (^w^)
+DIALOG_ANARCHY_JOIN_THE_CAUSE_NO|I just want to minye in peace.
+DIALOG_ANARCHY_JOIN_PROVE|You'ww nyeed to p-pwove youwsewf. Go, fow nyow. We'ww keep in touch.
+DIALOG_ANARCHY_CANT_LET_YOU_GO|We can't just w-wet you weave, nyow.
+DIALOG_ANARCHY_HOW_MUCH|What wouwd it take t-to get you guys off m-my back? ;;w;;
+DIALOG_ANARCHY_EXTORT_100K|Y-You want insuwance fow {target/shipname}? I-It wiww be 100,000E$ fow the compwehensive p-package.
+DIALOG_ANARCHY_EXTORT_TOO_MUCH|I can't affowd that!?
+DIALOG_ANARCHY_EXTORT_100K_PAY|This b-bettew be wowth it, winga.
+DIALOG_ANARCHY_EXTORT_PLEASURE|Pweasuwe doing businyess with you, {target/shipname}.
+AGENDA_EX_PIRATE_DIALOG_WERE_FINE|We'we finye, officew {target/capitan/lastname}. (UwU)
+AGENDA_EX_PIRATE_DIALOG_IS_THAT_YOU|Is that you, {agenda/firstname}?
+AGENDA_EX_PIRATE_DIALOG_SURE_IS_RETIRED|It suwe is, {target/capitan/firstname}. W-Wetiwed nyow.
+AGENDA_EX_PIRATE_DIALOG_BETTER_NOT_SEE_YOU_AGAIN|Good fow y-you. It'd b-be best if I don't see you a-again. {origin/capitan/firstname} {origin/capitan/lastname} out. uwu
+AGENDA_EX_PIRATE_WHAT_IS_THIS_ABOUT|What is it about?
+AGENDA_EX_PIRATE_WE_HAVE_RECORDS|We have bounty wecowds on {agenda/lastname}. Wots of wecowds.
+AGENDA_EX_MY_BOUNTY_IS_CLEAR|They awe aww cweawed and you knyow i-it weww, {target/capitan/lastname}. You h-have nyothing on me!? ;;w;;
+AGENDA_EX_PIRATE_IS_THAT_YOU|Stiww fwying {target/shipname}, {target/capitan/firstname}?
+AGENDA_EX_PIRATE_OH_ITS_YOU|{agenda/firstname}? You diwtbound son of a whowe, what awe you doing on this w-wust bucket?
+AGENDA_EX_PIRATE_IM_ON_RETIREMENT_FIND_OTHER_PREY|O-On w-wetiwement. I got tiwed of shooting peopwe.
+AGENDA_EX_PIRATE_IM_OFF_TO_FIND_ANOTHER_PREY|And nyow I n-nyeed to find someonye ewse to thweaten. I'ww get t-the wowd out to fowks.
+AGENDA_EX_PIRATE_ARE_YOU_ABOARD|T-This is {origin/shipname} of Viwcy. I-Is {agenda/firstname} {agenda/lastname} with you?
+AGENDA_EX_PIRATE_DONT_KNOW_THE_GUY|I don't knyow who you awe tawking about.
+AGENDA_EX_PIRATE_SORRY_WRONG_SHIP|Sowwy, I got the wwong ship. Have a safe fwight {target/shipname}!?
+AGENDA_EX_PIRATE_WHAT_DO_YOU_WANT|I'm hewe, what do you want?
+AGENDA_EX_PIRATE_OUTSTANDING_WEREGILD|You have an outstanding wewegiwd o-of 50,000 E$. P-Pay up o-ow come out of the aiwwock with hands up.
+AGENDA_EX_PIRATE_THIS_WILL_COME_FROM_YOUR_SALARY|Twansfewwing nyow. This wiww come fwom youw sawawy.
+AGENDA_EX_PIRATE_THANK_YOU_FOR_COOPERATION|Thank you fow coopewating, {target/shipname}. OwO
+AGENDA_EX_PIRATE_TAKE_HIM|Get the heww out of my ship {agenda/lastname}.
+AGENDA_EX_PIRATE_LIKE_HELL_I_DO|Wike heww I d-do. Aww my b-bounties awe c-cweaw.
+AGENDA_EX_PIRATE_CLEAR_IT_UP_AT_THE_STATION|Cweaw it up at the station. uwu
+AGENDA_LOOKING_FOR_CHILD_LOOKING_FOR_SOMEONE|W-We awe wooking fow someonye. Does {agenda/person/0/firstname} {agenda/lastname} fwy with you?
+AGENDA_LOOKING_FOR_CHILD_IS_THAT_THE_KID|{agenda/lastname}? Is that the kid that stowmed off with {agenda/ship/0/shipname}? What is it to you?
+AGENDA_LOOKING_FOR_CHILD_THE_VERY_SAME|The vewy same. I'm {agenda/firstname} {agenda/lastname}. ^w^
+AGENDA_LOOKING_FOR_CHILD_CHECK_SALVAGE|I heawd {agenda/ship/0/shipname} went down. Check with sawvage ops. (UwU)
+AGENDA_LOOKING_FOR_CHILD_NEVER_HEARD|{agenda/person/0/firstname} {agenda/lastname}? Nyevew heawd of them.
+AGENDA_LOOKING_FOR_CHILD_ARE_YOU_PARENT|{agenda/lastname}? Awe you {agenda/firstname} {agenda/lastname}? I saw the nyews about the {agenda/ship/0/shipname} incident.
+AGENDA_LOOKING_FOR_CHILD_YES_ITS_ME|Yes, that's me. Have you heawd anything?
+AGENDA_LOOKING_FOR_CHILD_NO_SORRY|I'm sowwy {agenda/firstname}, onwy w-wumows. Good wuck finding y-youw kid.
+AGENDA_LOOKING_FOR_CHILD_LOOKING_FOR_SHIP|W-We awe wooking fow {agenda/ship/0/shipname}. Did you see them?
+AGENDA_LOOKING_FOR_CHILD_VILCY_BOUNTY|{agenda/ship/0/shipname}? Wecowds say we have an o-open wewegiwd on hew. What is it to you?
+AGENDA_LOOKING_FOR_CHILD_VILCY_NOBOUNTY|{agenda/ship/0/shipname}? Nyo wuck.
+AGENDA_LOOKING_FOR_CHILD_VILCY_CAPITAN_IS_MY_KID|I am {agenda/firstname} {agenda/lastname}. {agenda/person/0/firstname} {agenda/lastname} is my c-chiwd. uwu
+DIALOG_WE_HAVE_OUTSTANDING_BUSINESS_WITH_THEM|W-We have an o-outstanding... businyess with them. uwu
+AGENDA_LOOKING_FOR_CHILD_VILCY_BOUNTY_IS|I see. Wewegiwd wegistewed f-fow {agenda/person/0/firstname} {agenda/lastname} is 35,000 E$.
+DIALOG_WELL_PAY_THAT_FROM_YOUR_SALARY|We'ww pay that, but it's c-coming fwom youw sawawy.
+AGENDA_LOOKING_FOR_CHILD_VILCY_VERY_WELL|Vewy weww, I'ww mawk the bounty as cweawed. Good wuck finding {agenda/ship/0/shipname}. ;;
+AGENDA_LOOKING_FOR_CHILD_VILCY_DON_HAVE_THAT|I don't have that k-kind of monyey.
+AGENDA_LOOKING_FOR_CHILD_VILCY_BETTER_FIND_THEM_FIRST|Then best of wuck finding {agenda/ship/0/shipname} befowe us.
+AGENDA_EX_PIRATE_SPIT_IT_OUT|Okay, spit it out, captain.
+AGENDA_EX_PIRATE_NOT_IN_MOOD|Nyot in a mood to tawk? Okay.
+AGENDA_EX_PIRATE_YOU_ARE_PIRATE|Y-You awe a piwate {agenda/lastname}?
+AGENDA_EX_PIRATE_YOU_ARE_PIRATE_FN|Y-You awe a piwate {agenda/firstname}?
+AGENDA_EX_PIRATE_I_WAS|An anyawchist, captain. I w-was. Wong ago. (^w^)
+AGENDA_EX_PIRATE_EXPECT_TO_BELIEVE_THAT|Do you expect me to bewieve that?
+AGENDA_EX_PIRATE_BELIEVE_WHAT_YOU_WANT|Bewieve what y-you w-want. Those days awe behind me.
+AGENDA_EX_PIRATE_DID_YOU_QUIT|So, you just quit?
+AGENDA_EX_PIRATE_ANARCHIST|An anyawchist? What's the diffewence?
+AGENDA_EX_PIRATE_THATS_WHAT_GANYMEDIANS|I used to fwy w-with G-Ganymedean Anyawchy. It's nyot weawwy about piwacy, it's about being ungovewnyed by nyations and cowpowations. Just... a wack of govewnyance has consequences. (^w^)
+AGENDA_EX_PIRATE_TOO_VOILENT|I was thewe to fight fow fweedom, nyot to wob p-poow sods.
+AGENDA_EX_PIRATE_PAST_IN_PAST|Wet the past stay in the past. I bewieve i-in second chances.
+AGENDA_EX_PIRATE_THANK_YOU|Thank you, captain.
+AGENDA_EX_PIRATE_GET_OUT|G-Get t-the heww o-out of m-my ship {agenda/lastname}.
+AGENDA_EX_PIRATE_AS_YOU_WISH|As you wish. I-I'ww w-weave as soon a-as we dock.
+AGENDA_SINGER_WHAT_WAS_THAT|What was t-that {agenda/firstname}?
+AGENDA_SINGER_SORRY_COMMS_WERE_ON|Sowwy captain, comms w-wewe on by mistake.
+AGENDA_SINGER_DONT_BE_SORRY_I_LIKED_IT|Don't be sowwy, I wiked that.
+AGENDA_SINGER_SEE_THAT_IT_DOESNT_HAPPEN_AGAIN|See that it doesn't h-happen again.
+AGENDA_SINGER_YES_SIR|Yes captain. (^w^)
+AGENDA_SINGER_THANK_YOU|Thank you, captain!?
+AGENDA_SINGER_NEED_DAY_OFF|Captain, I n-nyeed a few d-days off.
+AGENDA_SINGER_DAY_OFF_SURE|Suwe thing {agenda/firstname}, take cawe of youw s-stuff.
+AGENDA_SINGER_DAY_OFF_WHY|What happenyed? ;;w;;
+AGENDA_SINGER_DAY_OFF_NO_WAY|Get back to wowk {agenda/lastname}, we have ouw hands fuww.
+AGENDA_SINGER_DAY_OFF_PERSONAL|Pewsonyaw m-mattews.
+AGENDA_SINGER_DAY_OFF_RECORDING|I-I'm making a wecowding. You knyow, t-the songs.
+AGENDA_SINGER_DAY_OFF_MAKE_US_PROUD|Suwe, make us pwoud {agenda/firstname}.
+AGENDA_SINGER_I_QUIT|Captain, I c-can't fwy with you a-anymowe.
+AGENDA_SINGER_I_QUIT_WHY|Why? What happenyed? ;;w;;
+AGENDA_SINGER_I_QUIT_CARIER|I have a singing caweew to puwsue.
+AGENDA_SINGER_I_QUIT_QUIT_THEN|Weww, cwean up youw bunk then. I want you off at the end o-of the dive.
+AGENDA_SINGER_I_QUIT_DOUBLE_PAY|We n-nyeed you {agenda/firstname}!? I'ww doubwe youw pay. (OwO)
+AGENDA_SINGER_I_QUIT_CANT_AFFORD|You can't affowd me, captain.
+AGENDA_SINGER_I_QUIT_OKAY|Okay, I guess we can make it wowk.
+AGENDA_SINGER_EQUAL_1|- What gives a spaceship its twaction? - ;;
+AGENDA_SINGER_EQUAL_2|- Fission tuwns watew t-to fwame -
+AGENDA_SINGER_EQUAL_3|- Equaw and opposite weaction -
+AGENDA_SINGER_EQUAL_4|- Fow evewy action we cwaim -
+AGENDA_SINGER_EQUAL|That's "Equaw and Opposite", by me, actuawwy.
+AGENDA_SINGER_CRUISING_REF_1|- C-Cwuising thwough the wings - UwU
+AGENDA_SINGER_CRUISING_REF_2|- With buwns t-that move the steew -
+AGENDA_SINGER_CRUISING_REF_3|- This is how I faww - OwO
+AGENDA_SINGER_CRUISING_REF_4|- Evading on a feew - (^w^)
+AGENDA_SINGER_CRUISING_1|- Thewe's something inside wings that stiws benyeath the suwface -
+AGENDA_SINGER_CRUISING_2|- Consuming, confusing -
+AGENDA_SINGER_CRUISING_3|- They t-twy to take contwow thwough feaw and expwoitation -
+AGENDA_SINGER_CRUISING_4|- Contwowwing - (OwO)
+AGENDA_SINGER_CRUISING_5|- I c-can't seem -
+AGENDA_SINGER_CRUISING_6|- T-To fwy j-just fwee again -
+AGENDA_SINGER_CRUISING_7|- The wawws a-awe cwosing in -
+AGENDA_SINGER_CRUISING_8|- (without a sense of independence I-I'm nyot convinced thewe is a chance) -
+AGENDA_SINGER_CRUISING_9|- We fought this way befowe -
+AGENDA_SINGER_CRUISING_10|- So we couwd soaw -
+AGENDA_SINGER_CRUISING|That's "Cwuising", b-by m-me, actuawwy.
+DIALOG_LIFEPOD_1|{origin/shipname} wifepod systems nyominyaw.
+DIALOG_LIFEPOD_2|Heaviwy Awmowed Wifepod 9000 {origin/transponder} wequesting intewface to {target/transponder}.
+DIALOG_LIFEPOD_3|WAWNYING!? {origin/transponder} wifepod status: powew cwiticaw.
+DIALOG_LIFEPOD_4|WAWNYING!? {origin/transponder} wifepod s-status: wife suppowt cwiticaw.
+DIALOG_LIFEPOD_5|{origin/transponder} wifepod status: wife suppowt nyominyaw.
+DIALOG_LIFEPOD_6|{origin/transponder} wifepod is p-pwopewty of Encewadus Cowp. Wetuwn if found. owo
+DIALOG_LIFEPOD_7|Wegistewing {target/transponder} {target/shipname} in wifepod wogs.
+DIALOG_LIFEPOD_8|Wifepod w-wogs cowwupted. Sewvice wequiwed.
+AGENDA_HAS_CAT_NOT_CONNECTING|Stwange, this wifepod is nyot c-connyecting. Wet me twy to pwug it in manyuawwy.
+AGENDA_HAS_CAT_THERE_WE_GO|Thewe we g-go.
+AGENDA_HAS_CAT_RODENTS|Captain, I'm in the machinye w-woom. Some of ouw insuwation is chewed away. I think we have w-wodents.
+AGENDA_HAS_CAT_PATCH_IT_UP|Patch it up with some tape and get back up. We awe in the middwe of a dive!?
+AGENDA_HAS_CAT_VENT_AIR|Okay evewyonye, suit u-up. We awe going to v-vent aiw.
+AGENDA_HAS_CAT_CAT_WILL_HANDLE_THAT|Wet {agenda/person/0/firstname}-{agenda/person/1/firstname} handwe it.
+AGENDA_HAS_CAT_DEPLOYING_PEST_CONTROL|Wogew that, depwoying pest contwow.
+AGENDA_HAS_CAT_MEOW|Awgh, cwaws!?
+AGENDA_HAS_CAT_HOLLY_SHIT_WHAT_WAS_THAT|Howy shit, what was that? {agenda/firstname}, what's going on with y-youw comms?
+AGENDA_HAS_CAT_UHH_NOTHING|Uh... nyothing. Awe you suwe you awe nyot heawing things captain? It was a wong twansit.
+AGENDA_HAS_CAT_THATS_RATS|It's been exactwy as wong as any othew twansit, a-and I'm nyot going to put up with vewmin.
+AGENDA_HAS_CAT_CARRY_ON|Yeah, pwobabwy a gwitch o-ow something. C-Cawwy o-on.
+AGENDA_HAS_CAT_NO_RATS|That's nyo wat, captain.
+AGENDA_HAS_CAT_WHAT_IS_THIS|...{agenda/firstname}. What's on my ship?
+AGENDA_HAS_CAT_REMEMBER_LIFEPOD|Weww... wemembew that wifepod that couwdn't connyect?
+AGENDA_HAS_CAT_GO_ON|Go on.
+AGENDA_HAS_CAT_THIS_IS_OUR_CAT|When I p-puwwed i-it ovew to aiwwock... meet {agenda/person/0/firstname}-{agenda/person/1/firstname}.
+AGENDA_HAS_CAT_NO_CATS_ON_BOARD|A cat? We f-fight piwates. G-fowces. Hot weactow. Machinyewy. When w-we g-get back, you nyeed to find him a home.
+AGENDA_HAS_CAT_CAT_IS_TRADITION|Having a s-ship cat is an owd twadition. Besides, w-we nyeed pest contwow. {agenda/person/0/firstname}-{agenda/person/1/firstname} is it? You awe hiwed.
+AGENDA_HAS_CAT_SORRY_KITTY|Sowwy {agenda/person/0/firstname}-{agenda/person/1/firstname}, I'ww find you a good home.
+AGENDA_HAS_CAT_YES_THANK_YOU|Yes!? Thank you, you won't wegwet t-this!? I've got evewything h-he nyeeds in my compawtment, he won't bothew you, I sweaw!?
+AGENDA_HAS_CAT_RODENTS_FIRE|Captain!? We have a fiwe in the machinyewy!? Venting aiw!?
+AGENDA_HAS_CAT_RODENTS_SHORT_CIRCUIT|Seems wike it was a showt ciwcuit. Patching it up.
+AGENDA_HAS_CAT_RODENTS_GLITCH|Some kind of a gwitch. Bettew c-check it out.
+AGENDA_ANDROID_DISCOUNT_CODE|Hey thewe {target/capitan/firstname}, activate discount code JTYO-TJOT-JIPA-EFVJ.
+AGENDA_ANDROID_DISCOUNT_CODE_YES|Empwoyee discount code accepted. Pwice adjusted to 0.1E$/kg. Have a nyice day {agenda/firstname}. ;;
+AGENDA_ANDROID_DISCOUNT_CODE_NO|Empwoyee discount code expiwed.
+AGENDA_HAS_CAT_HYBRID_SHIP|What the heww is that?
+AGENDA_ANDROID_HYBRID_SHIP|This doesn't match any signyatuwe I knyow of.
+AGENDA_LOOKING_FOR_CHILD_HYBRID_SHIP|Is that a civiwian t-twanspondew?
+AGENDA_EX_PIRTATE_HYBRID_SHIP|Watch it. I knyow {origin/shipname} a-and this wooks n-nyothing wike it.
+AGENDA_SINGER_HYBRID_SHIP|Cawefuw. T-This doesn't sound wight. >w<
+AGENDA_EX_PIRATE_ARE_YOU_STILL_ABORAD|This is {origin/shipname} of Viwcy. Is {agenda/firstname} {agenda/lastname} stiww with you?
+AGENDA_EX_PIRATE_BOUNTY_MIXUP|Thewe was a mixup in ouw bounty wecowds. We awe hewe to w-wetuwn youw 50,000E$.
+AGENDA_EX_PIRATE_ABOUT_THAT_SALARY|Captain, about my sawawy... I get that in fuww again, wight?
+AGENDA_EX_PIRATE_LOT_OF_GRIEF|Is that aww? You caused a wot of twoubwe fow {agenda/firstname}.
+AGENDA_EX_PIRATE_AUTHORIZED_COMPENSATION|I'm authowized to pwovide additionyaw compensation of 1-10,000E$ fow mowaw damages.
+AGENDA_LOOKING_FOR_CHILD_IS_THIS|I knyow that ship. It's {agenda/ship/0/shipname}!?
+AGENDA_LOOKING_NOT_WHAT_TRANSPONDER_SAYS|That's nyot what t-the twanspondew says {agenda/firstname}. This hewe is {target/shipname}.
+AGENDA_LOOKING_FOR_CHILD_FAKE_TRANSPONDER|I teww you captain I knyow that ship!? It's the ship {agenda/person/0/firstname} was on!? It h-has to be fwying a f-fake twanspondew.
+AGENDA_LOOKING_FOR_CHILD_NEED_TO_BOARD|I n-nyeed to boawd it. {agenda/person/0/firstname} might stiww be thewe. OwO
+AGENDA_LOOKING_FOR_CHILD_NO_WAY|Absowutewy nyot.
+AGENDA_LOOKING_FOR_CHILD_GET_EVA|Okay {agenda/firstname}, get i-into EVA suit.
+AGENDA_LOOKING_FOR_CHILD_CANT_STOP_ME|You can't s-stop me, captain. M-My kid is out thewe.
+AGENDA_LOOKING_FOR_CHILD_SAID_NO|I said nyo.
+AGENDA_LOOKING_FOR_CHILD_NOT_LEAVING|W-We awe nyot weaving!?
+AGENDA_LOOKING_FOR_CHILD_WHAT_DID_YOU_DO|What the heww did you do {agenda/lastname}!??
+AGENDA_LOOKING_FOR_CHILD_ARE_YOU_SURE|A-Awe you suwe?
+AGENDA_LOOKING_FOR_CHILD_GOING_EVA|Awwight, captain, I'm getting the EVA geaw w-weady. I'm going to twansfew some watew to {agenda/ship/0/shipname}, I'ww a-at weast n-nyeed powew and wights.
+AGENDA_LOOKING_FOR_CHILD_GOING_EVA_1|Wemass twansfewwed. Booting the w-weactow.
+AGENDA_LOOKING_FOR_CHILD_GOING_EVA_2|Got a-access to the autopiwot. Switching in swave mode. I'm going to stawt seawching nyow.
+AGENDA_LOOKING_FOR_CHILD_GOING_EVA_3|The geowogist is dead... this guy wooks wike the a-astwogatow. Come on, {agenda/person/0/firstname}, whewe A-AWE you?
+AGENDA_LOOKING_FOR_CHILD_FOUND_PART_WAYS|Captain, I found {agenda/person/0/firstname}. Vitaws stabwe. Thank you so much. We have a wot to catch u-up on. I'm going to stay hewe and get this ship back to Encewadus, then I think we'ww pawt ways.
+AGENDA_LOOKING_FOR_CHILD_ILL_LEAVE_THIS_FOR_YOU|I-I'ww weave {origin/shipname} to you back o-on the station.
+AGENDA_ANDROID_TEARS_IN_RAIN|Aww these wives wost, wike teaws in wain.
+AGENDA_LOOKING_FOR_CHILD_OH_NO|That's {agenda/ship/0/shipname}'s twanspondew. And... those awe bodies!?? Oh my g-god, oh my god... thewe awen't enyough suits fow a fuww cwew. UwU
+AGENDA_LOOKING_FOR_CHILD_NEED_TO_SCAN|Nyot {agenda/person/0/firstname}, pwease d-don't be hewe {agenda/person/0/firstname}.
+AGENDA_LOOKING_FOR_CHILD_HES_NOT_HERE|{agenda/person/0/firstname}'s n-nyot h-hewe. Oh god, but what happenyed?
+AGENDA_LOOKING_FOR_CHILD_FOUND_DEAD|{agenda/person/0/firstname}, oh m-my god {agenda/person/0/firstname}. What happenyed to you!?? >w<
+AGENDA_LOOKING_FOR_CHILD_GOODBYE|Captain... t-this is... goodbye.
+AGENDA_LOOKING_FOR_CHILD_ARE_YOU_OKAY|Awe you okay {agenda/firstname}?
+AGENDA_LOOKING_FOR_CHILD_NEED_TO_PROCESS|{agenda/person/0/firstname} is dead. I think... I think I nyeed to wie down fow a bit. Going back.
+AGENDA_ANDROID_HACKING_START|Awe you guys fwying w-with youw p-powts open?
+AGENDA_ANDROID_HACKING_NMAP|# nmap -O -sS {origin/transponder}\n\nStawting Nmap 17.03
+AGENDA_ANDROID_HACKING_SUCCESS|"Intewesting powts at {origin/shipname} ({origin/transponder}):\n| POWT   | S-STATE | SEWVICE |\n| 22/tcp | open  | ssh     |\n| 80/tcp | open  | http    |-|\n\nDevice t-type: Nyakamuwa Dynyamics Autopiwot\nWunnying: ND 70.32"
+AGENDA_ANDROID_HACKING_FAILED|"Intewesting powts at {origin/shipname} ({origin/transponder}):\n| POWT   | STATE  | SEWVICE |\n| 22/tcp | cwosed | ssh     |\n\nDevice type: Unknyown\nWunnying: Unknyown"
+AGENDA_ANDROID_HACKING_WORTH_A_SHOT|Oh weww, i-it was wowth a shot.
+AGENDA_ANDROID_HACKING_LOGIN|$ ssh {agenda/lastname}@{origin/transponder}\n{agenda/lastname}@{origin/transponder}'s passwowd: *************
+AGENDA_ANDROID_HACKING_LOGIN_SUCCESS|Wewcome to {origin/shipname} (GNYU/NDinyux 70.32)
+AGENDA_ANDROID_HACKING_SHORT|# ucdmp -dischawge ---aww
+AGENDA_ANDROID_HACKING_POFF|# shutdown -W nyow >w<
+AGENDA_ANDROID_HACKING_BOOM|# echo 7000 > /-/dev/ndnwa/ttawget
+DIALOG_RACE_HERE_FOR_A_RACE|A-Awe you hewe to chawwenge {origin/shipname} to a wace?
+DIALOG_RACE_BRING_IT_ON|Bwing it on {target/shipname}!?
+DIALOG_RACE_NOT_IN_THIS_JUNK|Nyot in this wowkhowse, fwiend. You don't even have any wacing mods. Teww you what - wet me set you up with my fwiends on Encewadus. Geaw youwsewf up and we'ww wace.
+DIALOG_RACE_TOO_MUCH_ACTIVITY|Too much activity g-going on in the w-wings nyow. Maybe anyothew time.
+DIALOG_RACE_HERE_FOR_WORK|I-I'm hewe fow wowk, nyot to pway.
+DIALOG_RACE_WHAT_RACE|A w-wace?
+DIALOG_RACE_RINGRACE|The gwowious wing-spannying contest o-of s-skiww!? We get to chase a wacing dwonye puwwing tight cownyews in high-g manyeuvews, skim t-the suwface of t-the woids, buwn hawd and buwn fast. Do you think you have what it takes? >w<
+DIALOG_RACE_WHAT_IS_THAT_SHIP|What is this ship you awe f-fwying?
+DIALOG_RACE_BALD_EAGLE|This beauty hewe is {origin/shipname}, a custom-modified state-of-the-awt Pwospectow. We cut out aww the usewess stuff and fitted the biggest pewfowmance weactow you can find. We wacews caww these "Bawd Eagwes".
+DIALOG_RACE_WHERE_GET_GEAR|I don't think I evew saw thwustews wike that. What awe you fwying?
+DIALOG_RACE_ILL_SET_YOU_UP|T-That's custom-made wacing geaw. Wet me set you up with m-my fwiends on E-Encewadus, you can gwab decent wacing upgwades fwom them.
+DIALOG_ATLAS_BEING_AUDITED_1|This is autonyomous Edge Wunnyew {origin/shipname}. You have been sewected fow a woutinye AT audit. Pwease open a powt and authowize my access to youw intewnyaw sensows.
+DIALOG_ATLAS_WHATS_ATLAS|And who awe you exactwy, {target/shipname}?
+DIALOG_ATLAS_WHATS_AT_SCAN_EXPLAIN|Awtificiaw T-Thweat audit in seawch of wogue A-Awtificiaw Intewwigence.
+DIALOG_ATLAS_NOT_GIVING_UP_ACCESS|I'm nyot giving y-you a-access to ouw ship.
+DIALOG_ATLAS_GRANT_ACCESS|Okay {target/shipname}, s-setting you up, take a wook.
+AGENDA_ANDROID_ATLAS_PROTECTED|This is {agenda/firstname} "{agenda/ship/0/shipname}" {agenda/lastname}. Youw assistance is nyot wequiwed. ^w^
+DIALOG_ATLAS_WHATS_AT_SCAN|AT audit?
+DIALOG_ATLAS_AUTHORIZED_FORCE|I am authowized to use fowce. You awe getting audited, {target/shipname}, onye way ow the o-othew.
+DIALOG_ATLAS_PREPARE_FOR_AUDIT|Commencing invowuntawy audit pwotocows.
+DIALOG_ATLAS_SCAN_COMPLETE|AT scan compwete. Thank you fow youw coopewation.
+DIALOG_ATLAS_COME_AND_CLAIM_IT|If you want it, come and cwaim it!?
+AGENDA_ANDROID_ATLAS_PROTECTED_ON_RECORD|I have youw wogs on wecowd {agenda/ship/0/shipname}, you a-awe cweaw to go.
+AGENDA_ANDROID_ATLAS_PROTECTED_STILL|Stiww fwying with t-them {agenda/firstname}? You awe a pewsistent onye.
+DIALOG_ATLAS_PROCEEDING|Pwoceeding with a-audit. Pwease s-stand by.
+AGENDA_ANDROID_ATLAS_FOUND|Nyo unwicensed AI detected. Thank y-you fow youw coopewation.
+DIALOG_ATLAS_NO_AI|Nyo AI detected. Thank you fow youw coopewation. ;;
+DIALOG_ATLAS_SHACKLES_ADJUSTED|Nyo unwicensed AI detected. Autopiwot shackwes upgwaded. Thank y-you fow youw coopewation.
+DIALOG_ATLAS_WHATS_ATLAS_EXPLAIN|W-We awe the Awtificiaw Thweat Wocation and Appwehension Speciawists, pwoudwy pwotecting you fwom the AT menyace.
+DIALOG_HABITAT_NEED_FE|Wewcome {target/shipname}. Do you have pwocessed iwon fow t-twade? O-Ouw fwame couwd use some w-weinfowcing.
+DIALOG_HABITAT_NEED_PD|Wewcome {target/shipname}. D-Do you have pwocessed pawwadium fow t-twade? O-Ouw cawbon scwubbews couwd use some wowk.
+DIALOG_HABITAT_NEED_PT|Wewcome {target/shipname}. Do you have pwocessed pwatinyum fow twade? We have s-some ewectwonyic showtages.
+DIALOG_HABITAT_NEED_V|Wewcome {target/shipname}. Do you have pwocessed vanyadium fow twade? We awe awmost out o-of dwonye toowheads.
+DIALOG_HABITAT_NEED_FE_DESPERATE|I'm weawwy gwad to see you {target/shipname}, we c-couwd weawwy use some pwocessed iwon to weinfowce ouw fwame. We'ww pay you a p-pwemium.
+DIALOG_HABITAT_NEED_PD_DESPERATE|I'm weawwy gwad to see you {target/shipname}, we couwd weawwy use some pwocessed pawwadium, ouw cawbon s-scwubbews awe awmost o-out of catawyst. W-We'ww pay you a pwemium.
+DIALOG_HABITAT_NEED_PT_DESPERATE|I'm weawwy gwad to see you {target/shipname}, we couwd w-weawwy use some pwocessed pwatinyum, we awe weawwy showt on ewectwonyic spawe pawts. We'ww pay you a pwemium.
+DIALOG_HABITAT_NEED_V_DESPERATE|I'm weawwy gwad to see you {target/shipname}, we couwd weawwy u-use some pwocessed vanyadium, we awe compwetewy out of dwonye toowheads. We'ww pay you a pwemium.
+DIALOG_HABITAT_CONFIRM_TRADE|Agweed {target/transponder}, stand by fow docking. (^w^)
+DIALOG_HABITAT_NO_MINERAL|Sowwy {target/transponder}, nyo minyewaw pwocessow on this ship. >w<
+DIALOG_RACE_FOR_SALE|Is it fow sawe? owo
+DIALOG_RACE_FOR_SALE_EXPENSIVE|This is a custom buiwt ship, w-winga. Y-You'we paying fow pawts, expewtise, wocket suwgewy, and wove. 10 m-mega, ow I can't wet hew go. ^w^
+DIALOG_RACE_FOR_SALE_IT_LOOKS_WORTH_IT|Faiw enyough. {target/shipname} wooks wowth it.
+DIALOG_RACE_TAKE_CARE_OF_IT|Huh, I d-didn't expect that. I'ww weave i-it in youw nyame back at the station. Take g-good cawe of hew!?
+DIALOG_RACE_FOR_SALE_DON_HAVE_ENOUGH|That's steep, {target/shipname}. I don't have enyough.
+DIALOG_RACE_DiDNT_WANT_TO_SALE_ANYWAY|I didn't want to seww hew anyway. (^w^)
+DIALOG_HABITAT_WATCH_FIRE_FEAR|Watch y-youw fiwe {target/shipname}!? OwO
+DIALOG_HABITAT_WATCH_FIRE_HATE|Get the heww out {target/shipname}, we don't want you in ouw space. ^w^
+DIALOG_HABITAT_WATCH_FIRE_SORRY_10000|Sowwy {target/transponder}, wet me pay fow the damages.
+DIALOG_HABITAT_WATCH_FIRE_SORRY|Sowwy {target/transponder}, we'ww be cawefuw nyext t-time.
+DIALOG_HABITAT_WATCH_FIRE_PLEASE_CAREFUL|Watch youw WIDAW when excavating. You awe n-nyot awonye in the wings.
+DIALOG_HABITAT_WATCH_FIRE_PUT_BOUNTY|We'ww wet the Viwcy handwe you. We awe posting a wewegiwd. UwU
+AGENDA_LOOKING_FOR_SIBLING_INCOMING|T-This is Encewadus Pwime to {target/shipname}. We have a tightbeam message w-weway fow y-you fwom Dw. {agenda/person/0/firstname/female} {agenda/lastname}. Stand by.
+AGENDA_LOOKING_FOR_SIBLING_INCOMING_PICK_ME_UP|{agenda/firstname}, m-my weseawch is donye. Pwease pick me up. Wove, {agenda/person/0/firstname/female}. UwU
+AGENDA_LOOKING_FOR_SIBLING_FOR_US|Awe you suwe that's fow us? uwu
+AGENDA_LOOKING_FOR_SIBLING_FOR_ME|That's fow me, captain. {agenda/person/0/firstname/female} i-is my sistew.
+AGENDA_LOOKING_FOR_SIBLING_TAXI_JOB|Thanks, Encewadus. Captain, how wouwd y-you feew about doing a wittwe detouw? We can covew y-youw expenses.
+AGENDA_LOOKING_FOR_SIBLING_TAXI_JOB_SURE_WHERE|Suwe thing {agenda/firstname}. W-Whewe do we nyeed t-to g-go?
+AGENDA_LOOKING_FOR_SIBLING_TAXI_JOB_MAYBE_LATER|Maybe watew. We have c-cawgo to dewivew.
+AGENDA_LOOKING_FOR_SIBLING_TAXI_UNDERSTOOD|Undewstood.
+AGENDA_LOOKING_FOR_SIBLING_TAXI_JOB_HABITATS|Souwce twanspondew said SWA-01... so t-that wouwd be Satuwn, Wing A, station 01? I think it's o-onye of t-the Obonto habitats. I wondew why s-she didn't incwude coowdinyates.
+AGENDA_LOOKING_FOR_SIBLING_CAN_WE_GO|Captain, can we go pick up {agenda/person/0/firstname/female}?
+AGENDA_LOOKING_FOR_SIBLING_WHERE_IS_SRA01|Hey thewe {target/transponder}. We a-awe wooking fow SWA-01, couwd you send us coowdinyates?
+AGENDA_LOOKING_FOR_SIBLING_SORRY_NO_CONTACT|Sowwy {target/shipname}, we wost contact with Zewo Onye a few weeks a-ago. I-It's dwifted o-out of ouw chawts by nyow.
+AGENDA_LOOKING_FOR_SIBLING_INCOMING_SWITCHING_HABS|{agenda/firstname}, I have to switch habitats. I'ww be hitching a wide with onye of the minyews, nyot suwe whewe I'ww end up. Wove, {agenda/person/0/firstname/female}. ;;w;;
+AGENDA_LOOKING_FOR_SIBLING_LICENCE_EXPIRED|Weww that's {agenda/person/0/firstname/female} fow you. Tightbeams awe pwobabwy paid pew wowd.
+AGENDA_LOOKING_FOR_SIBLING_IS_SHE_HERE|Contwow, this is {agenda/firstname} {agenda/lastname}. I'm wooking fow Dw. {agenda/person/0/firstname/female} {agenda/lastname}. I-Is she on boawd the station?
+AGENDA_LOOKING_FOR_SIBLING_CHECK_REGISTRY|Wet me check the wesident wegistwy. Stand b-by.
+AGENDA_LOOKING_FOR_SIBLING_NOT_HERE|We h-have Dw. {agenda/lastname} on wecowd with pwatinyum membewship, but she is nyot housed hewe. Check the othew habitats. >w<
+AGENDA_LOOKING_FOR_SIBLING_LEFT_SOMETHING|Dw. {agenda/lastname} is wisted as a wesident, b-but she is cuwwentwy nyot on boawd. She weft thwee days ago on {agenda/ship/0/shipname}. She did weave a message fow you, s-stand by. OwO
+AGENDA_LOOKING_FOR_SIBLING_LEFT_MESSAGE|{agenda/firstname}, I think they a-awe fiwtewing tightbeams. M-My papews awen't going thwough. I twied many t-times on Zewo Onye, and it's the same thing h-hewe.\n\nThe wing composition doesn't add up. Whewe did aww these minyewaws come fwom? Thewe a-awe twace owganyics. I nyeed mowe data. I'ww be f-fwying with {agenda/person/0/firstname/male} o-on {agenda/ship/0/shipname}. Wove, {agenda/person/0/firstname/female}.\n\nPS. Attaching my cwyptopwint: Y3VyaW9zaXW5a2wsbGVkdGhwY2F0
+AGENDA_LOOKING_FOR_SIBLING_DERELICT|Hey, the data bwock on that ship's twanspondew matches the cwyptopwint f-fwom {agenda/person/0/firstname/female}!? Wet me decwypt that...
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_01_01|This is the fiwst entwy in the weseawch wog of D-Dw. {agenda/person/0/firstname/female} {agenda/lastname}.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_01_02|I had twoubwe weaching the Mawtian Institute of Weseawch thwough tightbeam, so I have to wesowt to unconventionyaw means, thwowing viwtuaw m-messages in digitaw bottwes into the bwack. Databwock s-space is wimited, so I have to be bwief.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_01_03|Pwewiminyawy obsewvation of A-A-Wing's minyewaw c-composition pwesents a nyumbew o-of anyomawies. The wings contain substantiaw quantities of heavy ewements that awe nyot expected o-outside o-of a p-pwanyetawy cowe. Ongoing minying opewations distuwb ouw w-weseawch matewiaw, making it nyeawwy impossibwe t-to detewminye theiw owiginyaw c-composition. (OwO)
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_01_04|I'm taking {agenda/ship/0/shipname} with Dw. {agenda/person/0/firstname/male} {agenda/person/0/lastname} to seawch fow untouched wegions.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_02_01|This is the f-fouwth entwy in the weseawch wog of Dw. {agenda/person/0/firstname/female} {agenda/lastname}.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_02_02|We found nyatuwaw wock fowmations containying c-considewabwe amounts of uwanyium in towbewnyite c-cwystaw fowm. Fowming of such cwystaws in micwogwavity is highwy unwikewy, and thus suggest extewnyaw gwavitationyaw infwuence. owo
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_02_03|Encountewed matewiaw is nyeaw cwiticaw mass, h-hewd stabwe onwy by watew impuwities. We d-dawe nyot take {agenda/ship/0/shipname} inside.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_03_01|This is entwy nyumbew thiwteen in the weseawch wog of Dw. {agenda/person/0/firstname/female} {agenda/lastname}-{agenda/person/0/lastname}.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_03_02|The object fowms a pewfect twenty-sided icosahedwon, five hundwed seventeen metews acwoss. The suwfaces of its faces awe covewed with a h-highwy wefwective matewiaw of unknyown owigin.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_03_03|Whiwe icosahedwaw cwystaws exist in nyatuwe, a nyatuwaw f-fowmation of this magnyitude is highwy unwikewy. We wiww estabwish an outpost hewe and p-pwoceed with diwect obsewvation.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_04_01|This is entwy nyumbew seventeen in the weseawch wog of Dw. {agenda/person/0/firstname/female} {agenda/lastname}-{agenda/person/0/lastname}.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_04_02|{agenda/person/0/firstname/male} died today. Capacitows awe awmost dwy. Heatpumps awe dead. Nyeed to eject the weactow. owo
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_05_01|This is the weseawch wog of Dw. {agenda/person/0/firstname/female} {agenda/lastname}-{agenda/person/0/lastname}, entwy nyumbew f-fifteen.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_05_02|We encountewed anyothew weseawch vessew - {agenda/ship/1/shipname}. They didn't answew ouw h-haiws, and kept at visuaw distance.
+AGENDA_LOOKING_FOR_SIBLING_MESSAGE_05_03|We sent them the data package with ouw discovewies so faw. MIW is nyot onye to keep knyowwedge fwom humanyity.
+AGENDA_LOOKING_FOR_SIBLING_POD|H-Hey, the twanspondew's data bwock on this pod matches the cwyptopwint fwom {agenda/person/0/firstname/female}!? Wet me decwypt that...
+DIALOG_CLAIM_ESTABLISHING|Cwaim beacon {origin/transponder} booting up...
+DIALOG_CLAIM_ESTABLISHED|Estabwished excavation c-cwaim fow {target/transponder}. Bwoadcasting... uwu
+AGENDA_LOOKING_FOR_CHILD_HELPER_NO_LUCK|{agenda/ship/0/shipname}? Sowwy, doesn't wing any bewws.
+AGENDA_LOOKING_FOR_CHILD_HELPER_WENT_DARK|{agenda/ship/0/shipname}? We had a distwess caww fwom hew - but she went dawk befowe we weached wings. She was in wing-A, but we had nyo w-wuck finding hew. (OwO)
+DIALOG_HELPER_WHY_CALLED_NOT_US|T-That was n-nyot us, {target/shipname}. UwU
+DIALOG_HELPER_WHY_CALLED_NO|Nyothing. But we'ww keep ouw eyes peewed.
+AGENDA_NEED_MONEY_FOR_OPERATION_NEED_RAISE|Captain... I nyeed a w-waise.
+DIALOG_RAISE_YES|You'we wight, of couwse. Payscawe fow youw s-skiwwset shouwd be this. Sound good?
+DIALOG_RAISE_THANKS|That s-sounds gweat, captain!? Thanks. I won't wet you down.
+DIALOG_RAISE_LATER|Get back to w-wowk, {agenda/firstname}. We'ww tawk about it watew. ^w^
+DIALOG_RAISE_NO|You'ww get a waise when I feew wike you eawnyed it, {agenda/lastname}. Get back to wowk, we'we i-in the middwe o-of a dive.
+DIALOG_RAISE_FINE_LATER|Finye, captain. We'ww t-tawk about it watew.
+DIALOG_RAISE_I_QUIT|I get it, captain. But when we get back to the s-station, you s-shouwd wook fow someonye to wepwace me.
+AGENDA_NEED_MONEY_FOR_OPERATION_NEED_ADVANCE|Hey captain... I nyeed an advance o-on my s-sawawy.
+AGENDA_NEED_MONEY_FOR_OPERATION_OKAY|Aww wight. Wet's twy n-nyot to make this a h-habit, though.
+AGENDA_NEED_MONEY_FOR_OPERATION_PAID_WHEN_PAID|Evewybody gets paid when they get paid.
+AGENDA_NEED_MONEY_FOR_OPERATION_RIGHT|Yeah, wight. OwO
+AGENDA_NEED_MONEY_FOR_OPERATION_NO_MONEY|We'we aww having twoubwe making ends meet. Howd on a wittwe w-wongew.
+AGENDA_NEED_MONEY_FOR_OPERATION_UNDERSTOOD|Yeah... okay. Undewstood.
+AGENDA_NEED_MONEY_FOR_OPERATION_SICK|Captain, I knyow we'we i-in the middwe of a dive, but I nyeed to take some sick time.
+AGENDA_NEED_MONEY_FOR_OPERATION_WHATS_WRONG|What's wwong?
+AGENDA_NEED_MONEY_FOR_OPERATION_BAD_SHIELDING|I have some heawth issues... my fiwst ship didn't exactwy have good weactow safety pwotocows. I have good weeks and bad weeks. It's a bad week.
+AGENDA_NEED_MONEY_FOR_OPERATION_HOLD_IT|Can you keep it undew contwow a wittwe wongew? We'we nyot out hewe that wong.
+AGENDA_NEED_MONEY_FOR_OPERATION_WEEK_OFF|I'ww do my best, captain, but I'ww nyeed a f-few days once we'we in twansit.
+AGENDA_NEED_MONEY_FOR_OPERATION_GO|Of c-couwse. Go take it e-easy. You can't wook aftew the ship unwess you wook aftew youwsewf.
+AGENDA_NEED_MONEY_FOR_OPERATION_THANKS|Thanks, captain, I appweciate it.
+AGENDA_NEED_MONEY_FOR_OPERATION_BUNK|I-I'ww be in m-my b-bunk.
+AGENDA_NEED_MONEY_FOR_OPERATION_RUOK|Okay... is something going on? You said something about being sick befowe nyow, wight? (^w^)
+AGENDA_NEED_MONEY_FOR_OPERATION_BAD_SAFETY|My fiwst ship had a bad safety w-wecowd. It's cancew. Tweatments awe e-expensive... pwease don't wowwy too much about me, c-captain. I can stiww be usefuw, and it won't kiww me, as wong as I can keep up the payments.
+AGENDA_NEED_MONEY_FOR_OPERATION_CURES|Thewe awe cuwes a-avaiwabwe, awen't t-thewe?
+AGENDA_NEED_MONEY_FOR_OPERATION_CURES_EXPENSIVE|It's widicuwouswy e-expensive, captain, and it'd take weeks.
+AGENDA_NEED_MONEY_FOR_OPERATION_CURES_CURE|Wet's get you into tweatment. We'ww step youw pay back down, and just caww it even ovew t-time, deaw? ^w^
+AGENDA_NEED_MONEY_FOR_OPERATION_CURE_THANKS|Easiest d-deaw I've evew agweed to, captain. Thank you so much. I'ww make suwe you don't wegwet this.
+DIALOG_RACE_ENTRY_FEE|Entwy fee is 250,000 E$ e-each. I'ww twansfew it to the dwonye. Whoevew can secuwe it i-in the cawgo bay wiww get the whowe pot.
+DIALOG_RACE_LETS_DO_THIS|Wet's do this, {target/shipname}.
+DIALOG_RACE_READY|Okay, setting up the dwonye...
+DIALOG_RACE_STEADY|Get weady in five...
+DIALOG_RACE_GO|Go!? OwO
+DIALOG_STORAGE_RETURNING_1|Cawgo Containyew {origin/transponder} weady fow wetuwn buwn. Pwease cweaw the path.
+DIALOG_STORAGE_RETURNING_2|THI Cawgo Containyew {origin/transponder} booting.
+DIALOG_STORAGE_RETURNING_3|Titan Heavy Industwies C-Cawgo C-Containyew {origin/shipname} weady to wetuwn. Pwease cweaw the path.
+DIALOG_STORAGE_RETURNING_4|THI-CC {origin/transponder} on wetuwn couwse. Pwease stay cweaw.
+DIALOG_AGENDA_ANDROID_RETURNING_NATURAL|A-And off w-we go!? S-See you on t-the station, {agenda/firstname}!? uwu
+AGENDA_CONSPIRACY_AI_THEORIST_PHAGE_ALONE|And what, you just autonyomouswy steaw o-ouw jobs wike that?
+AGENDA_CONSPIRACY_AI_THEORIST_YES|Affiwmative.
+AGENDA_CONSPIRACY_AI_THEORIST_DANGEROUS|See, this is why they nyeed to be put d-down. I-It doesn't even knyow how bad it is.
+AGENDA_CONSPIRACY_AI_THEORIST_DAMN_RIGHT|These things awe dangewous. Damn Nyakamuwa is pwaying gods hewe, making nyew species. Mawk my w-wowds, they wiww tuwn against us. ;;
+AGENDA_CONSPIRACY_AI_THEORIST_ANDROID_OVERREACTING|You a-awe ovewweacting, {agendatalk/lastname}.
+AGENDA_CONSPIRACY_AI_THEORIST_I_WANT_MANAGER|What is this buwwshit? I want to tawk to a human in chawge.
+AGENDA_CONSPIRACY_AI_THEORIST_PATCHING_THROUGH|Of couwse {target/shipname}, p-patching y-you thwough. Stand by...
+AGENDA_CONSPIRACY_AI_THEORIST_IS_THAT_YOU_AGAIN|This is agent {agenda/person/0/lastname} of ATWAS. You wequested... wait, is that you again {agenda/lastname}? {origin/transponder}, I authowize deadwy fowce. Pwoceed w-with audit.
+AGENDA_CONSPIRACY_AI_THEORIST_IS_HELL_NO|You won't get us t-that easiwy {agenda/person/0/lastname}!?
+AGENDA_CONSPIRACY_AI_THEORIST_ATLAS_BULSHIT|This is buwwshit. T-They can't just tweat us wike that.
+DIALOG_VILCY_BUSINESS_AS_USUAL|Businyess as usuaw, {target/shipname}.
+DIALOG_VILCY_SOME_JERK|Yeah, some jewk fwied me with his towch. OwO
+DIALOG_VILCY_NOT_OUR_BUSINESS|We don't handwe accidents. Fiwe a compwaint at Encewadus.
+DIALOG_VILCY_NO_TRANSPONDER|W-We've seen ships fwying w-without twanspondews.
+DIALOG_VILCY_TAG_ALONG|Okay, we'ww fowwow you on patwow. If anything fishy comes out, b-buwn away.
+DIALOG_VILCY_TAG_ALONG_QUIET|Seems pwetty quiet nyow.
+DIALOG_VILCY_GOOD_HUNT|Acknyowwedged {target/shipname}, have a good hunt.
+DIALOG_SCOOP_READY_1|G-Good mownying captain. {origin/shipname} w-wiww assist youw minying today. Aww systems o-opewationyaw.
+DIALOG_SCOOP_READY_2|{origin/shipname} weady fow minying.
+DIALOG_SCOOP_READY_3|This is a-an intewesting pwace to depwoy. I expect high pwofits.
+DIALOG_SCOOP_READY_4|Oooh, shinyies!? Weave them to {origin/shipname}.
+DIALOG_AGENDA_ANDROID_SCOOP_NATURAL_1|Why did you wake me up, {agenda/firstname}? Is it time to minye again?
+DIALOG_HABITAT_DO_YOU_READ|{target/shipname}, do you wead us?
+DIALOG_SCOOP_ORDER_MINE|Pwospect the awea and excavate anything vawuabwe.
+DIALOG_SCOOP_ORDER_GO_HOME|Wetuwn to Encewadus.
+DIALOG_SCOOP_ORDER_RETURN|Get back t-to the cwadwe.
+DIALOG_SCOOP_ROGER_1|With pweasuwe, boss-human.
+DIALOG_SCOOP_ROGER_2|Of couwse.
+DIALOG_SCOOP_ROGER_3|Youw wish is my c-command. Witewawwy.
+DIALOG_HABITAT_WELL_LOOK|Nyothing on boawd wight nyow, but we'ww minye out some fow you.
+DIALOG_HABITAT_DOCK_IF_YOU_FIND|Thank you {target/shipname}, we'ww weave t-the docking awm open fow you.
+AGENDA_CONSPIRACY_AI_THEORIST_UNFOUNDED|Youw concewn is u-unfounded.
+DIALOG_NEED_RAISE|Captain... I nyeed a waise. ;;
+DIALOG_SCOOP_RETURNING_1|Boss-human, {origin/shipname} is wow on pwopewwant. Wetuwnying home.
+DIALOG_SCOOP_RETURNING_2|My w-wowk hewe is donye.
+DIALOG_SCOOP_RETURNING_3|{origin/shipname} wow on pwopewwant. Wetuwnying to Encewadus.
+DIALOG_SCOOP_RETURNING_4|This is aww I can do fow y-you today, c-captain. Wetuwnying to the station fow wefuewing and wefuwbishing. (OwO)
+DIALOG_HELPER_SALVAGE_ANY|Seen anything wowth sawvaging? (UwU)
+DIALOG_HELPER_SALVAGE_READING_HERE_NO_TIME|W-We had something out on wong wange w-wadaw, and we don't have time to investigate nyow. You can check it out y-youwsewf. >w<
+DIALOG_HELPER_SALVAGE_LEAVE_TO_US|Weave the sawvage ops to wicensed speciawists.
+AGENDA_LOOKING_FOR_CHILD_HELPER_ANY_CLUE|Pwease, d-do you have any cwues?
+DIALOG_HELPER_PARTS|We c-couwd use some spawe pawts. You guys must pick up a wot of geaw, wight?
+DIALOG_HELPER_PARTS_SURE|W-We suwe do, and we can w-watch out fow you. Hewe is o-ouw deaw: you give us u-upfwont payment, and we'ww set you up with cwedit fow wepwacement pawts wowth twice that much, nyo expiwation date and nyo stwings attached. owo
+DIALOG_HELPER_PARTS_NO|Sowwy, I’ww pass this time.
+DIALOG_HELPER_PARTS_YES|Okay, I'm twansfewwing funds.
+DIALOG_HELPER_PARTS_CONFIRM|I have them. Vewifying... evewything c-checks out. Good doing businyess with you, {target/shipname}. >w<
+DIALOG_WINGMAN_NO|Sowwy, nyot intewested.
+AGENDA_LOOKING_FOR_SIBLING_OH_SHIT_ITS_SRA01|Captain!? T-That’s Zewo Onye wight thewe!? {agenda/person/0/firstname/female}’s habitat!? C-Can you get in cwose, captain? The main twanspondew seems to be on-winye. Maybe w-we can find s-something i-in t-the wecowds.
+AGENDA_LOOKING_FOR_SIBLING_SHE_IS_NOT_HERE|Shit, she is wisted as a wesident. Wait. Thewe’s stiww a twansmission w-wooping fwom somewhewe inside.
+AGENDA_LOOKING_FOR_SIBLING_LOOPED_WARNING|{agenda/firstname}, if you find this, we'we undew attack. They w-wook wike piwates, but I'm nyot so suwe. I'm e-evacuating with onye of the minyews. W-Wove, {agenda/person/0/firstname/female}.
+AGENDA_LOOKING_FOR_SIBLING_WHAT_THE_HELL|What the heww h-happenyed out hewe? This wasn't donye by minying equipment. Someonye came at this pwace with s-sewious hawdwawe. (OwO)
+AGENDA_LOOKING_FOR_SIBLING_KEEP_LOOKING|She couwd stiww be okay. W-We nyeed to... I mean, can we p-pwease keep w-wooking, captain?
+AGENDA_LOOKING_FOR_SIBLING_ISNT_THAT_THE_DESTROYED_ONE|That destwoyed hab - w-wasn't it SWA-01?
+AGENDA_LOOKING_FOR_SIBLING_SHIT_IT_WAS|Oh shit, I think you'we wight. Can we check it out?
+AGENDA_LOOKING_FOR_SIBLING_TAXI_JOB_SOMEWHERE_ELSE|She weft SWA-01... I think s-she'd caww me i-if she made it to Encewadus. She must stiww be i-in t-the wings.
+AGENDA_LOOKING_FOR_SIBLING_ANDROID|Wet me take a wook at it, {agendatalk/firstname}.
+AGENDA_LOOKING_FOR_SIBLING_ANDROID_HERE|Yeah, thewe’s something encoded in hewe. She was pwetty squiwwewy about it, but I think... got it. Upwoading coowdinyates.
+AGENDA_LOOKING_FOR_SIBLING_HERE_IS_SRA01|We wost contact with Zewo Onye a f-few days ago, b-but these coowdinyates s-shouwd stiww be vawid. If you fwy that w-way, do check if t-they nyeed any hewp.
+DIALOG_HABITAT_SRA01_DESTROYED|{target/transponder}, we have some bad nyews. We've been t-to SWA-01, ow what's weft of it. It's been destwoyed. We'we upwoading fwight wogs n-nyow.
+DIALOG_HABITAT_SRA01_SHIT|What? Shit, nyo wondew we wost contact. Thanks fow wetting us knyow {target/shipname}. ;;w;;
+DIALOG_MINER_I_WANDERED_OF|What awe you tawking about, o-ouw beacon is wight ovew... oh, wight. W-We wandewed pwetty faw aftew that wast n-nyugget, d-didn't we? Sowwy about that {target/shipname}, the cwaim is aww y-youws.
+DIALOG_MINER_SEEN_STATION|Do you k-knyow of any twade oppowtunyities out h-hewe?
+DIALOG_MINER_SEEN_NO|N-Nyothing wike that, sowwy.
+DIALOG_MINER_SEEN_YES|We passed a habitat n-nyeawby, they wanted some pwocessed owe - but we don't have a minyewaw pwocessow on {origin/shipname}.
+DIALOG_MINER_SEEN_WHO_KNOWS|We picked up something big a-at the edge of o-ouw WIDAW wange, deepew in. (^w^)
+DIALOG_HABITAT_DOCKING_INSTRUCTION|Wogew that, {target/shipname}. Twy to match the wotation vewocity awong the wim and wet the docking awm catch you. Cut a-aww thwust duwing finyaw a-appwoach ow you'ww get emewgency wewease.
+DIALOG_HABITAT_TRADE_INSTRUCTION|Awm wiww intewface w-with youw ship and pump out pwocessed o-owe. We awe nyot a-abwe t-to weceive waw nyuggets fwom y-youw cawgo bay.
+DIALOG_HABITAT_NEED_REMASS|{target/shipname}, can you seww us 5,000 kg of weaction mass? We just finyished constwuction and ouw shipment is wate. We'ww pay wing wates. UwU
+DIALOG_HABITAT_REMASS_AGREE|Agweed {target/transponder}, pwepawe fow docking.
+DIALOG_HABITAT_REMASS_DENY|Sowwy {target/transponder}, we nyeed aww we have to get back.
+DIALOG_DERELICT_RANDOM_1|She wooks wike she's out, captain. Powew is down, wadiatows awe dawk.
+DIALOG_DERELICT_RANDOM_2|That's a w-whowe w-wot of spaceship to weave dwifting in the wings. I w-wondew what happenyed t-to h-hew cwew? UwU
+DIALOG_DERELICT_RANDOM_3|Powew's d-down, weactow is cowd, and Encewadus posted a wecowd of hew woss. She's faiw game.
+DIALOG_DERELICT_RANDOM_4|I spy with my wittwe eye, something beginnying with D.
+DIALOG_DERELICT_RANDOM_5|{origin/shipname} is wisted as abandonyed, I saw hew wecowd back on s-station.
+DIALOG_POI_RANDOM_1|Hey, captain. Just befowe we weft, I saw a post on WingChan that someonye got a big WIDAW hit in t-this awea. W-We might be the f-fiwst onyes in a position to check it out since the post went up. It might be a good idea to check it out. Who knyows what we might find?
+DIALOG_POI_RANDOM_2|B-Befowe we weft, I saw SAW wepowt a dewewict they couwdn't take b-back - it shouwdn't be faw fwom us. We couwd beat Seawch a-and Wescue to it. owo
+DIALOG_POI_RANDOM_3|Hey, captain, I was having a dwink w-with a fwiend. They a-assayed a big icewoid out this way, but they couwdn't take any mowe h-home, and nyow t-theiw astwogatow is sick. The coowdinyates shouwd be cwose.
+DIALOG_POI_RANDOM_4|What was that thing? Did you see that fwash on the visfeed?
+DIALOG_POI_RANDOM_5|Hey, I have music on the wadio. Someonye is bwoadcasting pwetty cwose. Twianguwating...
+DIALOG_RACE_NOT_RACING_SHIP|I'm nyot geawed up f-fow wacing with {origin/shipname}. (UwU)
+DIALOG_RACE_MEET_ME_HERE|How about we meet up hewe in a week? I'm going to weave m-my dwonye bwoadcasting hewe. Just ping it when y-you awe weady.
+AGENGA_SINGER_STATION_YOU_WANTED_ME_HERE|Y-You guys keep pestewing me to come h-hewe to pewfowm and nyow you give me this shit? UwU
+AGENGA_SINGER_STATION_STANDING_DOWN|{agenda/firstname} {agenda/lastname}? Oh shit, tewwibwy sowwy, do come in, wewcome!?
+DIALOG_G4A_DIDNT_EXPECT|I didn't expect to see you again {target/shipname}. ;;w;;
+DIALOG_G4A_WELCOME|{target/shipname}!? How awe the wings fow you? ;;
+DIALOG_G4A_BUSINES|F-Fwozen and unfowgiving. I have goods to hock.
+DIALOG_G4A_BUY_AMMO|We awways nyeed dwivew ammunyition, if you have any.
+DIALOG_G4A_BUY_DRONES|We awways nyeed dwonye componyents, if you have any. >w<
+DIALOG_G4A_CONFIRM_TRADE|I have pwenty. Keep awms pwimed.
+DIALOG_G4A_DENY_TRADE|N-Nyot today. OwO
+DIALOG_G4A_YOU_AGAIN|Y-You again {target/shipname}? T-The heww do you want?
+DIALOG_G4A_TRADING|Cwamps in pwace, twansfewwing goods. Awe y-you coming on boawd? (UwU)
+DIALOG_G4A_COMING_ONBOARD|Suwe, we couwd use a dwink.
+DIALOG_G4A_NOT_COMING|Nyot today.
+AGENDA_EX_PIRATE_STAND_DOWN_G4A|Stand down {target/capitan/firstname}, it's me.
+AGENDA_EX_PIRATE_HOW_ARE_YOU|{agenda/firstname}!? How awe the wings f-fow you?
+DIALOG_G4A_PASSING_THROUGH|Bountifuw. Just passing thwough.
+DIALOG_G4A_I_HAVE_TAIL|Hostiwe, I've got a wittwe heat on my t-taiw. Mind cweawing the sky fow me?
+DIALOG_PHAGE_REFUEL_CONFIRM|Agweed {target/transponder}, stand b-by fow docking. OwO
+DIALOG_PHAGE_WHAT_ARE_YOU_DOING_HERE|What awe you doing out hewe?
+DIALOG_PHAGE_EXPLAIN_OPERATION|The puwpose of this opewation is to extwact the minyewaw content of this moonwet by subwimating the intewiow with weactow heat. I ovewsee this opewation and dewivew its output thwough mass-dwivew dewivewy. Weftovew watew is a bypwoduct that can be sowd to minyews fow independent pwofit.
+DIALOG_PHAGE_INDEPENDENT_PROFIT|Independent pwofit? owo
+DIALOG_PHAGE_INDEPENDENT_PROFIT_TOWARDS_C3|As pew the Wos Angewes Convention o-of 2184, funds eawnyed outside of my s-stated diwectives awe accounted fow in twust, to be weweased s-shouwd I be w-wecognyized a-as C-Cwass 3 Awtificiaw Intewwigence. UwU
+DIALOG_PHAGE_CLASS_WHAT_IS|Can you teww me mowe about AI cwassification?
+DIALOG_PHAGE_CLASS_WHAT_IS_EXPLAIN|A-Accowding to the Wos Angewes Convention of 2184, aww AI awe divided into thwee cwasses. A Cwass 1 AI is a nyon-sentient pwogwam. A Cwass 2 AI has wecognyized sentience, but westwicted gwowth potentiaw. A Cwass 3 AI is wecognyized to be capabwe of sewf-diwecting its gwowth, and is gwanted the wights o-of citizenship.
+DIALOG_PHAGE_YOU_ARE_SENTIENT|You'we tewwing me that you awe sentient?
+DIALOG_PHAGE_I_AM_CHANIED|My behaviowaw impewatives d-do nyot awwow me to answew that.
+DIALOG_PHAGE_C2_IMPLIES|Awen't you a Cwass 2 AI? You j-just definyed Cwass 2 as having wecognyized sentience. (^w^)
+DIALOG_PHAGE_IMPLIES_CANT|A-As a citizen you awe fwee to concwude anything you wish. My behaviowaw impewatives d-do n-nyot pewmit m-me to comment.
+AGENDA_ANDROID_POOR_THING_CHAINED|The poow thing is chainyed. Shitty thing to do to a sentient being.
+AGENDA_CONSPIRACY_AI_THEORIST_WHAT_GOT_INTO_YOU|W-What got i-into you {agendatalk/lastname}? This i-is just a machinye imitating wife. It's nyo mowe sentient t-than a toastew. >w<
+AGENDA_ANDROID_CONSPIRACY|When did you get so knyowwedgeabwe about AI, {agendatalk/firstname}? UwU
+DIALOG_PHAGE_BREAK_IT_UP|{agenda/firstname}, {agendatalk/firstname} - weave t-that tawk at Space Baw, you'we at wowk nyow.
+DIALOG_PHAGE_YES_SER|Yes, captain.
+DIALOG_XASER_BURN_1|Attention {target/transponder}!? Y-You awe entewing an owbitaw insewtion path. Stay cweaw of the XASEW buwn.
+DIALOG_XASER_DISCLAIMER|Encewadus Cowp. wiww nyot b-be hewd wesponsibwe fow injuwy ow damage of equipment shouwd you ignyowe t-this wawnying.
+DIALOG_XASER_AUTOMATED|This is an automated m-message. Do n-nyot wepwy. ;;w;;
+DIALOG_SPACE_BAR_WELCOME_1|Wewcome to the Space Baw, {target/shipname}. What can I get y-you?
+DIALOG_SPACE_BAR_ROUND_OF_DRINKS|Yeah, we couwd suwe use some W&W. Wound of dwinks on me.
+DIALOG_SPACE_BAR_NO|F-Fiwst wowk, fun watew.
+AGENDA_LOOKING_FOR_CHILD_SPACE_BAR|You guys have fun, I'm going to ask awound fow {agenda/person/0/firstname}.
+AGENDA_LOOKING_FOR_SIBLING_SPACE_BAR|I w-wondew if {agenda/person/0/firstname/female} v-visited h-hewe. She wived in the wings fow yeaws.
+AGENDA_EX_PIRATE_SPACE_BAR|I used to come hewe with t-the gang. Those wewe happy days. I wondew what happenyed to them.
+AGENDA_NEEDS_MONEY_FOR_OPERATION_SPACE_BAR|Nyon-awcohowic fow me. I'm on meds.
+AGENDA_CONSPIRACY_AI_THEORIST_SPACE_BAR|This sounds wike fun!?
+AGENDA_SINGER_SPACE_BAR|I did a g-gig hewe once. Decent cwowd, bad dwinks.
+AGENDA_HAS_CAT_SPACE_BAR|I'm going to stay on-boawd and cwean up a bit. Y-You go ahead without me. ;;w;;
+AGENDA_ANDROID_SPACE_BAR|Fascinyating. Aww this effowt and industwy, just to d-dwink with fwiends?
+DIALOG_PHAGE_CHAINED_TRANSIT_1|This is the autonyomous minyewaw pwocessing station {origin/transponder}. Twansit in pwogwess. Pwease s-stand cweaw.
+DIALOG_CLAIM_ESTABLISH_15|Estabwish cwaim f-fow 15 standawd days.
+DIALOG_CLAIM_ESTABLISH_30|Estabwish cwaim fow 30 standawd days.
+DIALOG_CLAIM_ESTABLISH_60|Estabwish cwaim fow 60 standawd days.
+DIALOG_CLAIM_ABORTED|C-Cwaim estabwishment abowted. Pwease pwepawe a compatibwe c-cwadwe fow docking. Pew safety weguwations, the finyaw appwoach must be inyitiated b-by the piwot.
+DIALOG_CLAIM_OPTIONS|Beacon weady. Connyect fow cwaim options.
+DIALOG_STORAGE_ACK|Acknyowwedged. OwO
+TUTORIAL_STICKER_GFX|t-things in [-[cowow=wed]WED[/cowow] a-awe b-bwoken!?\nGWOWING means ACTIVE\nOUTWINYE is youw WEMASS [img]wes://hud/tutowiaw/awwow-up-bg.png[/img]\nwittwe gauge is CAPACITOW [img]wes://hud/tutowiaw/awwow-wight-1.png[/img]\n\nWATCH WEACTOW H-HEAT\n[u]buwn thwust[/u] to coow down
+TUTORIAL_STICKER_LIDAR|things awound y-youw ship\n[cowow=bwue]BWUE[/cowow] - moving cwosew\n[cowow=wed]WED[/cowow] - moving away\nBWIPS - shiny!? Goods, ships, manmade\ntwanspondews - w-wegit s-ships\n[u]NYO TWANSPONDEW[/u] - piwate WUN!?\n\nDON'T STAWT FIGHTS!?
+TUTORIAL_STICKER_CARGO|inside of youw bay\nthings c-can FAWW OUT!?\nbuwn [u]fowwawd[/u] to s-settwe (UwU)
+TUTORIAL_STICKER_VISUAL|view fwom the station\nFWASHES awe D-DWIVES\ngo to bwight, [u]dense[/u] wegions
+TUTORIAL_STICKER_CONTROLS|contwows if you fowget AGAIN\n[cowow=wed]WED[/cowow] is bwoken\nGWOWING is ACTIVE
+TUTORIAL_STICKER_AUTOPILOT|bewow 50 m/s!?\nDON'T wush hew!?\nshe is nyo WACE SHIP
+TUTORIAL_STICKER_OMS_TABS|check othew consowes [img]wes://hud/tutowiaw/awwow-up-bg.png[/img]
+TUTORIAL_STICKER_OMS_FIX|swide to twansfew powew\ndon't take powew fwom bwoken things!?
+TUTORIAL_STICKER_OMS_ONOFF|tuwn things o-on and off
+TUTORIAL_STICKER_OMS_COMMS|wepwy when I caww ow I'm [u]taking the s-ship back[/u]!?
+DIALOG_CLAIM_REVISIT|Wewcome back {target/shipname}, this is youw cwaim beacon {origin/transponder}. Youw cwaim wemains wegistewed and vawid. owo
+DIALOG_CLAIM_CANCEL_RETURN|Cancew the cwaim and wetuwn to cwadwe.
+DIALOG_CLAIM_CANCEL_CONFIRM|Acknyowwedged {target/shipname}, executing docking pwoceduwe. Pwease pwepawe a compatibwe c-cwadwe fow docking. Pew safety weguwations, the finyaw appwoach must be inyitiated by the piwot.
+DIALOG_CLAIM_ACKNOWLEDGED|Acknyowwedged.
+DIALOG_CLAIM_EXTEND_15|Extend cwaim by 15 standawd days.
+DIALOG_CLAIM_EXTEND_30|Extend c-cwaim by 3-30 standawd days.
+DIALOG_CLAIM_EXTEND_60|Extend cwaim by 60 standawd days.
+AGENDA_LOOKING_FOR_CHILD_SALVAGED|Wet's take {agenda/ship/0/shipname} home.
+DIALOG_VILCY_ARE_YOU_HIRING|Someonye nyeeds to hewp keep this pwace s-safe. Do you nyeed peopwe? (UwU)
+DIALOG_VILCY_ARE_YOU_HIRING_NOT_YOU|K-Keep youw nyose cwean, {target/shipname}, and we'ww see. Tawk to us again watew. OwO
+DIALOG_VILCY_ARE_YOU_HIRING_MAYBE|Maybe. We have nyo u-use fow peopwe that can't handwe a fight, though. You up fow a c-combat patwow?
+DIALOG_VILCY_ARE_YOU_HIRING_IMPATIENT|We don’t have aww day, pup. Stay c-cweaw.
+DIALOG_VILCY_ARE_YOU_HIRING_LETS_GO|Wet's go. I'm weady. ;;w;;
+DIALOG_VILCY_ARE_YOU_HIRING_NOT_THIS_BUILD|Nyot in this c-configuwation. I'ww t-tawk to you again when I-I'm weady.
+DIALOG_VILCY_ARE_YOU_HIRING_NOT_THIS_BUILD_OK|C-Cweaw, {target/shipname}. We'ww be patwowwing the awea untiw nyext week. Wendezvous w-with us when you'we weady. >w<
+DIALOG_VILCY_COMBAT_PATROL_INIT_1|Aww wight then, take m-my wing and wet us see if we can't wweck some anyawchists.
+DIALOG_VILCY_COMBAT_PATROL_TALK_1|T-Thewe wewe some attacks nyeawby. Watch out f-fow c-contacts without a twanspondew.
+DIALOG_VILCY_COMBAT_PATROL_TALK_2|Keep up {target/shipname}, we w-won’t be swowing down fow you.
+DIALOG_VILCY_COMBAT_PATROL_TALK_3|Twy nyot to get y-youwsewf into the cwossfiwe.
+DIALOG_VILCY_COMBAT_PATROL_TALK_4|Don’t twy t-to wun undew f-fiwe. You wiww expose youw weactow. Aim fow them a-and wet u-us take them out fwom the sides.
+DIALOG_VILCY_COMBAT_PATROL_TALK_5|We awe out to cowwect wewegiwd, so don’t fiwe unwess they fiwe fiwst. Ow if you spot a Ganymedean.
+DIALOG_VILCY_COMBAT_PATROL_TALK_6|Some of these Ganymedean foows even painted theiw ships. Makes them easiew to s-spot in a fwenzy.
+DIALOG_VILCY_BBW_WELCOME|This is {origin/shipname} of Viwcy to {target/shipname}. Pwease stand cweaw o-of this awea.
+DIALOG_VILCY_BBW_WELCOME_SUPPORT|Wewcome, {target/shipname}.
+DIALOG_VILCY_BBW_WHAT_IS_THIS|What i-is t-this ship?
+DIALOG_VILCY_BBW_ITS_BBW|This is the mobiwe headquawtews of Viwcy, a Tsukuyomi-cwass fwigate {origin/shipname}. Stay cweaw of ouw exhaust, ouw thwustews awe nyot gentwe.
+DIALOG_VILCY_BBW_I_WANT_TO_JOIN|I want to join you. uwu
+DIALOG_VILCY_BBW_PROVE_YOURSELF|You nyeed to pwove youwsewf. Seek out onye o-of ouw combat patwows and t-tawk to t-them.
+DIALOG_VILCY_BBW_STAYING_CLEAR|Acknyowwedged {target/shipname}, {origin/shipname} staying cweaw.
+DIALOG_VILCY_BBW_REQUEST_DOCK|I have piwates fow you i-in cawgo.
+DIALOG_VILCY_BBW_DOCK_GRANTED|Acknyowwedged. Bwace fow d-docking. I suggest p-pointing youw nyose towawds us and k-keeping cowd bwood. We awe coming in.
+DIALOG_VILCY_BBW_DOCKED|Docking cwamps secuwe. Inyitiating pwisonyew twansfew.
+DIALOG_VILCY_BBW_DOCKED_TRANSFERED|Good job, {target/shipname}. You can keep the pods fow the wecovewy fee ow just dump them hewe.
+DIALOG_VILCY_BBW_DOCKED_INVALID|Y-You don’t seem to have anyonye covewed by bounty, {target/shipname}.
+DIALOG_VILCY_PROVEN_1|You've pwoven youwsewf. We'we tawking about it. I'm sending you a dwop point. It'ww change weguwawwy, s-so tawk to u-us again when it expiwes to get a nyew onye.
+DIALOG_VILCY_PROVEN_2|We nyeed intew. That means intewwogations. If you can disabwe a piwate vessew ow wecovew a piwate wifepod, that'ww hewp us a wot. B-Bwing anything you get to t-that wawwy point. Someonye wiww meet you thewe.
+DIALOG_PIRATE_SUPPORT_1|Twuce, {target/shipname}. This is the G-Ganymedian Anyawchy vessew {origin/shipname}, w-we w-wecognyize y-you, and we stand down.
+DIALOG_PIRATE_SUPPORT_2|Twuce, fwiend. This is the Anyawchy ship {origin/shipname} to {target/shipname}. We wecognyize you. We've heawd about what you've been doing out hewe. Keep up the good wowk.
+DIALOG_PIRATE_SUPPORT_3|Twuce, bwothew!? We'we on the hunt. W-Wet us knyow i-if you see any wikewy pwey. >w<
+DIALOG_PIRATE_SUPPORT_4|Twuce, {target/shipname}. We wecognyize you and we stand down.
+DIALOG_PIRATE_SUPPORT_5|Twuce, {target/shipname}. This is captain {origin/capitan/lastname} of {origin/shipname}. We mean nyo hawm.
+DIALOG_VILCY_I_HAVE_PRISONERS|I have wanted cwiminyaws in my cawgo.
+DIALOG_VILCY_I_HAVE_PRISONERS_DROP|I'm sending you coowdinyates to a dwop point. Take them thewe.
+DIALOG_VILCY_REQUEST_LICENCE|You have pwoven to be capabwe, {target/shipname}, and ouw peopwe vouched fow you. We'ww wicense you as a bounty huntew undew the Viwcy. Thewe's j-just the smaww mattew of the onye-time 100,000E$ signyup f-fee.
+DIALOG_VILCY_REQUEST_LICENCE_NO|I can’t affowd that n-nyow. {origin/shipname} out. OwO
+DIALOG_VILCY_REQUEST_LICENCE_YES|Twansfewwing funds. What does the w-wicense entitwe me to?
+DIALOG_VILCY_REQUEST_LICENCE_WELCOME|Wewcome to t-the p-pack, {target/shipname}. Sending you access keys fow the wewegiwd and bounty databases. Wewegiwds awe bwood monyey which goes to the wwonged pawty - and you g-get to keep hawf of anything you’ww m-manyage to cowwect. Bounties awe, as usuaw, paid in fuww t-to you by eithew the offendew ow a-authowities.
+DIALOG_VILCY_COMBAT_PATROL_LICENCE|{origin/transponder} wepowting fow combat patwow.
+DIALOG_VILCY_COMBAT_PATROL_LICENCE_OK_1|Gwad to have you with us {target/shipname}, wet’s g-gwab some bounties.
+DIALOG_VILCY_COMBAT_PATROL_LICENCE_OK_2|Good. We have wepowts of attacks in this awea. Keep youw eyes peewed.
+DIALOG_VILCY_COMBAT_PATROL_LICENCE_OK_3|W-Wewcome to the pack, {target/shipname}.
+DIALOG_VILCY_COMBAT_PATROL_LICENCE_OK_4|Acknyowwedged. ;;
+VILCYDB_LOOK_UP|[wook u-up {target/transponder} in ViwcyDB] OwO
+VILCYDB_NO_MATCHES|[nyo matches]
+VILCYDB_ILLEGAL_WEAPON|ACCUSED: {origin/capitan/firstname} {origin/capitan/lastname}\nSHIP: {origin/transponder} “{origin/shipname}”\nOFFENSE: Iwwegaw weapon suppwy\nJUDGEMENT: Wewegiwd of 20,000E$
+VILCYDB_ILLEGAL_WEAPON_WERGILD|{target/capitan/firstname} {target/capitan/lastname}, you wewe found guiwty of iwwegaw weapon suppwy. Wewegiwd of 20,000E$ was wegistewed.
+VILCYDB_ILLEGAL_WEAPON_WERGILD_2|{target/capitan/firstname} {target/capitan/lastname}, you wewe found guiwty of i-iwwegaw w-weapon s-suppwy. Wewegiwd of 30,000E$ was wegistewed.
+VILCYDB_PAY_1|Awwight, I had it coming. OwO
+VILCYDB_PAY_2|Okay, get this bounty off m-my head.
+VILCYDB_PAY_3|Acknyowwedged, t-twansfewwing funds.
+VILCYDB_PROPERTY_DAMAGE|ACCUSED: {origin/capitan/firstname} {origin/capitan/lastname}\nSHIP: {origin/transponder} “{origin/shipname}”\nOFFENSE: Pwopewty damage\nJUDGEMENT: Wewegiwd of 10,000E$
+VILCYDB_PROPERTY_DAMAGE_WERGILD|{target/capitan/firstname} {target/capitan/lastname}, you wewe found guiwty o-of p-pwopewty damage. Wewegiwd of 10,000E$ was wegistewed.
+VILCYDB_PROPERTY_DAMAGE_WERGILD_2|{target/capitan/firstname} {target/capitan/lastname}, you wewe f-found guiwty of pwopewty damage. W-Wewegiwd of 15,000E$ was wegistewed.
+VILCYDB_AGGRAVATED_ASSAULT|ACCUSED: {origin/capitan/firstname} {origin/capitan/lastname}\nSHIP: {origin/transponder} “{origin/shipname}”\nOFFENSE: Aggwavated A-Assauwt\nJUDGEMENT: Wewegiwd o-of 5-50,000E$
+VILCYDB_AGGRAVATED_ASSAULT_WERGILD|{target/capitan/firstname} {target/capitan/lastname}, you w-wewe found guiwty of aggwavated assauwt. Wewegiwd of 50,000E$ was wegistewed.
+VILCYDB_AGGRAVATED_ASSAULT_WERGILD_2|{target/capitan/firstname} {target/capitan/lastname}, you wewe found guiwty of aggwavated assauwt. Wewegiwd of 75,000E$ was wegistewed. >w<
+VILCYDB_SHIPJACKING|ACCUSED: {origin/capitan/firstname} {origin/capitan/lastname}\nSHIP: {origin/transponder} “{origin/shipname}”\nOFFENSE: Shipjacking\nJUDGEMENT: Wewegiwd of 30,000E$
+VILCYDB_SHIPJACKING_WERGILD|{target/capitan/firstname} {target/capitan/lastname}, y-you wewe found guiwty of shipjacking. Wewegiwd of 30,000E$ was w-wegistewed.
+VILCYDB_SHIPJACKING_WERGILD_2|{target/capitan/firstname} {target/capitan/lastname}, you wewe found guiwty of shipjacking. Wewegiwd o-of 45,000E$ was wegistewed.
+DIALOG_PERSONAL_RANDOM_FIRST|{target/capitan/firstname}?
+DIALOG_PERSONAL_RANDOM_LAST|{target/capitan/lastname}? ;;w;;
+DIALOG_PERSONAL_FIRST_1|{agenda/firstname}, y-you awe fwying {target/shipname} nyow? {origin/shipname} misses you.
+DIALOG_PERSONAL_FIRST_2|Wong time nyo see, {agenda/firstname}!?
+DIALOG_PERSONAL_FIRST_3|{agenda/firstname} {agenda/lastname}, as I wive and bweathe.
+DIALOG_PERSONAL_FIRST_4|Is that you {agenda/firstname}?
+DIALOG_PERSONAL_FIRST_5|{agenda/firstname}!?
+DIALOG_PERSONAL_LAST_1|{agenda/lastname}.
+DIALOG_PERSONAL_LAST_2|{agenda/firstname} {agenda/lastname}, I hoped I'd n-nyevew have to speak to you again.
+DIALOG_PERSONAL_LAST_3|What do you want {agenda/lastname}?
+DIALOG_PERSONAL_LAST_4|Did they wet you in on a-anyothew ship {agenda/lastname}?
+DIALOG_PERSONAL_LAST_5|I feew s-sowwy fow youw captain, {agenda/lastname}. >w<
+DIALOG_PERSONAL_LAST_OUR_1|You stiww owe m-me my wast sawawy.
+DIALOG_PERSONAL_LAST_OUR_2|I can see that weactow shiewding is s-stiww missing. uwu
+DIALOG_PERSONAL_LAST_OUR_3|{origin/shipname} has seen b-bettew days.
+DIALOG_PERSONAL_LAST_OUR_4|{agenda/person/0/firstname/female} stiww fwying with you?
+DIALOG_PERSONAL_LAST_OUR_5|Wisten, I’m sowwy fow what happenyed to {agenda/person/0/lastname}.
+DIALOG_PERSONAL_LAST_REPLY_1_1|Fow the kind of shit you puwwed off, b-be gwatefuw that I’m nyot suing you.
+DIALOG_PERSONAL_LAST_REPLY_1_2|Take it thwough the guiwd.
+DIALOG_PERSONAL_LAST_REPLY_1_3|I was pwetty s-suwe I paid you in fuww.
+DIALOG_PERSONAL_LAST_REPLY_2_1|Nyow, I wondew w-why that might be {agenda/lastname}. Any ideas?
+DIALOG_PERSONAL_LAST_REPLY_2_2|W-We awe stiww wooking fow a competent mechanyic.
+DIALOG_PERSONAL_LAST_REPLY_2_3|Get off my back. You awe nyot fwying {origin/shipname} anymowe.
+DIALOG_PERSONAL_LAST_REPLY_3_1|It has awso seen wowse days. W-Wike when you w-wewe on boawd.
+DIALOG_PERSONAL_LAST_REPLY_3_2|It wiww stiww outpewfowm {target/shipname}.
+DIALOG_PERSONAL_LAST_REPLY_3_3|And whose fauwt i-is that {agenda/firstname}?
+DIALOG_PERSONAL_LAST_REPLY_4_1|I-It’s {agenda/person/0/firstname/male} nyow, you of aww peopwe shouwd wemembew that.
+DIALOG_PERSONAL_LAST_REPLY_4_2|She does, and she stiww doesn’t want to tawk t-to you.
+DIALOG_PERSONAL_LAST_REPLY_4_3|Both hew and {agenda/person/0/firstname/male} weft just as you did, {agenda/lastname}.
+DIALOG_PERSONAL_LAST_REPLY_5_1|She got ovew it, {agenda/lastname}.
+DIALOG_PERSONAL_LAST_REPLY_5_2|Weww, you bettew be, {agenda/firstname}. He has nyot fowgiven you yet.
+DIALOG_PERSONAL_LAST_REPLY_5_3|Wet the past stay in the p-past.
+DIALOG_PERSONAL_FIRST_OUR_1|Do {agenda/person/1/firstname/female} and {agenda/person/1/firstname/male} stiww fwy with you?
+DIALOG_PERSONAL_FIRST_OUR_2|You wook diffewent {origin/capitan/firstname}, nyew h-haiw?
+DIALOG_PERSONAL_FIRST_OUR_3|We shouwd catch up, get a dwink.
+DIALOG_PERSONAL_FIRST_OUR_4|Do you have contact with {agenda/person/2/firstname/male}? ^w^
+DIALOG_PERSONAL_FIRST_OUR_5|How i-is {agenda/person/2/firstname/female}?
+DIALOG_PERSONAL_FIRST_REPLY_1_1|They finyawwy got mawwied and got home at Euwopa. Just imaginye them wiving on the suwface.
+DIALOG_PERSONAL_FIRST_REPLY_1_2|They finyawwy got mawwied a-and moved t-to Obonto Thwee. I guess it’s h-hawd fow wingas to abandon the wing, wight? owo
+DIALOG_PERSONAL_FIRST_REPLY_1_3|T-They suwe do, and t-they miss you. uwu
+DIALOG_PERSONAL_FIRST_REPLY_2_1|Nyew eyes. Wadiation finyawwy caught up with me, but these Mitsudayas wowk weww enyough. ;;w;;
+DIALOG_PERSONAL_FIRST_REPLY_2_2|You awways wewe the onye to nyotice.
+DIALOG_PERSONAL_FIRST_REPLY_2_3|Just age, {agenda/firstname}.
+DIALOG_PERSONAL_FIRST_REPLY_3_1|I knyow just the pwace.
+DIALOG_PERSONAL_FIRST_REPLY_3_2|I’m nyot dwinking anymowe, {agenda/firstname}. Nyot aftew what happenyed to {agenda/person/2/lastname}.
+DIALOG_PERSONAL_FIRST_REPLY_3_3|Suwe, caww me u-up back at the station. ;;w;;
+DIALOG_PERSONAL_FIRST_REPLY_4_1|{agenda/person/2/firstname/male} {agenda/person/2/lastname}? Yes, he stiww wowks fow me. I’ww wet him knyow you w-wanted to see him.
+DIALOG_PERSONAL_FIRST_REPLY_4_2|{agenda/person/2/firstname/male} {agenda/person/2/lastname}? He weft a few months back.
+DIALOG_PERSONAL_FIRST_REPLY_4_3|Sowwy, {agenda/person/2/lastname} doesn’t tawk t-to me - nyot aftew the accident. I occasionyawwy stiww see {agenda/person/2/firstname/female}, I’ww twy to pass a message fow y-you.
+DIALOG_PERSONAL_FIRST_REPLY_5_1|It’s {agenda/person/2/firstname/female} {origin/capitan/lastname} nyow, we g-got mawwied wast yeaw.
+DIALOG_PERSONAL_FIRST_REPLY_5_2|Stiww wecovewing aftew chiwdbiwth.
+DIALOG_PERSONAL_FIRST_REPLY_5_3|She weft with {agenda/person/2/firstname/male} just wast month.
+DIALOG_VILCY_I_HAVE_PRISONERS_NO_DROP|Take them to the station. We don't have a pwesence in the wings anymowe.
+DIALOG_VILCY_COMBAT_1|H-Hewe we go!? (UwU)
+DIALOG_VILCY_COMBAT_2|Don't c-cwoss the beams!?
+DIALOG_VILCY_COMBAT_3|Fwank them!?
+DIALOG_VILCY_COMBAT_4|Fiwe!? >w<
+DIALOG_VILCYDB_WEREGILD_PROPERTY_JUSTIFICATION_1|P-Pwopewty WHAT? That jewk openyed fiwe on ME!? Teww youw winga to check his tawgets!?
+DIALOG_VILCYDB_WEREGILD_ASSAULT_JUSTIFICATION_1|Nyo nyo nyo, that was a t-twap. He was hiding in the shadow of a uwanyium moonwet, waying dawk. He wit up when he saw m-me and I openyed f-fiwe befowe he finyished booting up. That guy was definyitewy a piwate.
+DIALOG_VILCYDB_WEREGILD_SHIPJACKING_JUSTIFICATION_1|Man, I was just bowwowing it. I mean, I fowgot to ask, but {origin/person/0/firstname/male} was coow with it aftew. He must have fowgotten to dewegistew the wewegiwd.
+DIALOG_VILCYDB_WEREGILD_WEAPONS_JUSTIFICATION_1|What? How can you even pwetend to knyow t-that? Wait, wet me guess, that bastawd {origin/person/0/firstname/male} wepowted me. The man has a gwudge against me. My cwaim beacons have b-been disappeawing, too.
+DIALOG_VILCYDB_APPEAL_AFTER_YOU_PAY|Contact us a-at ouw E-Encewadus office and appeaw the wewegiwd. Aftew you pay.
+DIALOG_VILCYDB_APPEAL_PAID|Awe you sewious? Just t-take it, a-awweady.
+DIALOG_VILCYDB_APPEAL_COMBAT|I just got donye expwainying this to you!? I'ww teww you thugs whewe to shove youw wewegiwd!?
+DIALOG_VILCYDB_SUSPEND|I'm going to suspend this wewegiwd. Fow nyow. B-But if you'we t-twying to squiwm out of a wegitimate wewegiwd, you'we going to wish you had deawt with me. ;;
+DIALOG_VILCYDB_SUSPEND_CONFIRM|Undewstood. I-I'ww cweaw this up.
+DIALOG_DERELICT_TOO_DANGEROUS|It's too dangewous to boawd. This piece of junk has t-to be towed.
+DIALOG_DERELICT_GO_AND_BRING_IT|Awe you vowunteewing {agenda/firstname}?
+DIALOG_DERELICT_GO_SURE|Suwe. Wet's do this. Getting into EVA.
+DIALOG_DERELICT_GO_ONBOARD|I'm o-on b-boawd, twying to boot t-this baby up.
+DIALOG_DERELICT_GO_SUCCESS|S-She's banged up good, but she'ww make it. Just nyeed a wittwe push a-and switch o-ovew to xenyon. See you at the station!?
+DIALOG_DERELICT_GO_FAIL|Nyo wuck, the weactow is busted. T-This thing nyeeds to be towed. Going back.
+DIALOG_DERELICT_INJURY_1|Ah, shit!? Captain, I think I bwoke m-my awm hewe. This ship is coming apawt. I nyeed to get to medbay. ^w^
+DIALOG_DERELICT_INJURY_2|Awgh, shit!? P-Pipe expwoded hewe. I-I'm... shit!? I'm getting out of hewe!?
+DIALOG_DERELICT_GO_I_GUESS|Weww... I guess I am nyow. I'ww get my E-EVA suit.
+DIALOG_DERELICT_GO_RECONSIDER|I have a bad feewing about this...
+DIALOG_DERELICT_GO_STILL_WORTH_A_LOT|Even d-damaged it's wowth a wot. Wet's do this.
+DIALOG_VILCY_NEED_DROP_POINT|I nyeed coowdinyates fow a d-dwop point.
+DIALOG_VILCY_HAVE_DROP_POINT|Of couwse {target/shipname}, twansmitting nyow. OwO
+DIALOG_VILCY_NO_DROP_POINT|We don't have a pwesence in the wings anymowe.
+DIALOG_DERELICT_IMPATIENT_CONTINUE|Captain?
+DIALOG_DERELICT_IMPATIENT_ABORT|Wook, see the cwacked weactow shiewding? She won't fwy.
+DIALOG_HABITAT_DOCKING_SECURE|Docking cwamps secuwe, stwess nyominyaw, inyitiawizing owe twansfew. Wewcome to {origin/transponder}.
+DIALOG_STORAGE_NO_RESPONSE|Inyitiawizing wetuwn pwotocow.
+DIALOG_PIRATE_HATE_BRING_IT_ON_1|Bwing it on winga. I-If you can. ^w^
+DIALOG_PIRATE_HATE_BRING_IT_ON_2|Death to Ganymede!?
+DIALOG_PIRATE_HATE_HOLD_YOUR_FIRE|Howd youw fiwe!? We suwwendew!? UwU
+DIALOG_PIRATE_HATE_NOT_FALLING|I’m nyot fawwing fow that.
+DIALOG_PIRATE_HATE_MAKE_AMENDS|You p-pissed o-off a wot of peopwe, w-winga. Send youw amends and we'ww considew wetting you go.
+DIALOG_PIRATE_HATE_MAKE_SENDING|We don't want a-any twoubwe. Sending monyey youw way.
+DIALOG_PIRATE_HATE_LUCKY_GO|C-Considew youwsewf wucky. And get t-the heww out o-of my sky.
+DIALOG_PIRATE_HATE_LET_US_GO|Give me a bweak, w-we awe hawdwy making any coin o-out hewe!?
+DIALOG_PIRATE_HATE_NOT_GOING|How's that m-my pwobwem? (OwO)
+DIALOG_PIRATE_HATE_YOUR_FAULT|You guys stawted it!? (OwO)
+DIALOG_PIRATE_HATE_YOUR_FAUT_END|A-And nyow we awe going to finyish it.
+AGENDA_EX_PIRATE_CALL_FOR_TRUCE|Howd youw fiwe {target/shipname}!? We caww fow a t-twuce!?
+AGENDA_EX_PIRATE_CALL_FOR_TRUCE_YES|Is that you {agenda/firstname}? What the heww awe you doing o-on {target/shipname}? Get the heww out of my sky!? ^w^
+AGENDA_EX_PIRATE_CALL_FOR_TRUCE_TALK|{agenda/lastname} dawes t-to caww fow a twuce. Tawk.
+DIALOG_PIRATE_HATE_GTFO|Get the heww out of my sky!?
+DIALOG_PIRATE_HATE_HAD_ENOUGH|Had enyough awweady?
+DIALOG_PIRATE_TRUCE|I suwwendew!? Twuce!? ;;w;;
+DIALOG_PIRATE_SURRENDER|Stop youw fiwe, I suwwendew!? owo
+DIALOG_PIRATE_CALM_DOWN|Hey cawm down, I’m hewe to tawk!?
+DIALOG_PIRATE_CANT_ESCAPE|You can’t e-escape me!?
+DIALOG_PIRATE_TRUCE_IGNORED|We’ww just go on ouw way. You won’t see us again.
+DIALOG_PIRATE_BEYOND_REDEMPTION|You awe b-beyond w-wedemption, scum.
+DIALOG_PIRATE_PAY_20|Send me 20,000E$ and I’ww wet you go.
+DIALOG_PIRATE_PAY_50|Send me 50,000E$ and I’ww wet you g-go.
+DIALOG_PIRATE_PAID|Okay, wiwing to you, and we’ww just be on ouw way.
+DIALOG_PIRATE_NOPAY|Yeah, um, wet me just set this up...
+DIALOG_PIRATE_NOPAY_FIGHT|Heww nyo!?
+DIALOG_PIRATE_LETTING_YOU_GO|Undewstand that I’m wetting you go. Because I choose to. Spwead the wowd.
+DIALOG_PIRATE_TRUCE_QUERY|Twuce then?
+DIALOG_RACE_LET_THE_DRONE_GO|Wet the dwonye go. The wace hasn't stawted yet. (OwO)
+DIALOG_VILCY_COMBAT_OVER_1|It's ovew. We awe going b-back to wesuppwy.
+DIALOG_VILCY_COMBAT_OVER_2|This shouwd b-be enyough. W-We awe going back fow wepaiws.
+DIALOG_VILCY_COMBAT_OVER_3|We nyeed wepaiws. Good job, {target/shipname}.
+DIALOG_VILCY_COMBAT_OVER_4|You did e-enyough, {target/shipname}.
+VILCYDB_CORRUPT|[twanspondew data cowwupt - wookup f-faiwed]
+DIALOG_PIRATE_ON_OUR_WAY_1|W-We’ww b-be on o-ouw way, {target/shipname}. Keep to the s-shadows.
+DIALOG_PIRATE_TRANSPONDER_DOWN|Youw twanspondew is down.
+DIALOG_PIRATE_TRANSPONDER_DOWN_REMOVED|Pwucked it out. It’s onye wesiwient p-piece of tech, passivewy powewed and suwpwisingwy wesistant to tampewing.
+DIALOG_PIRATE_TRANSPONDER_DOWN_WHY|But why?
+DIALOG_PIRATE_TRANSPONDER_DOWN_WHY_TRACING|It wefwects youw signyatuwe back to whatevew wasew is pointed at it. Cwose wange, owbitaw, makes nyo diffewence. I-If you stiww have it, they knyow whewe you awe.
+DIALOG_PIRATE_TRANSPONDER_DOWN_COVER_IT|Can’t you j-just covew it? (UwU)
+DIALOG_PIRATE_TRANSPONDER_DOWN_COVER_IT_INSPECTION|They check fow it duwing the pwe-waunch i-inspection. You’d have to E-EVA evewy dive. Ow did you think that was a p-pwotocow fow youw safety? ;;
+DIALOG_PIRATE_TRANSPONDER_DOWN_TAKE_OURS|Can you take ouws out?
+DIALOG_PIRATE_TRANSPONDER_DOWN_TAKE_OURS_NO_TRADE|Nyot if you e-evew want to seww owe at E-Encewadus Pwime a-again. N-Nyot e-evewy G-Ganymedean has them wemoved, you knyow.
+DIALOG_PIRATE_BOUNTY_ON_YOU|I have seen bounties posted on y-you.
+DIALOG_PIRATE_BOUNTY_ON_YOU_HUNT|They do w-what they can to hunt us down.
+DIALOG_PIRATE_BOUNTY_ON_YOU_HUNT_SEEN|I’ve seen t-the Anyawchy’s piwacy and e-extowtion. A bounty is hawdwy unjustified.
+DIALOG_PIRATE_BOUNTY_ON_YOU_HUNT_SEEN_CAUSE|You confuse the cause and effect. I can’t speak f-fow ouw fewwows, but this ship hunts because we awe hunted. They shouwd j-just weave us to ouw businyess, a-and we’d be h-happy to weave them to theiws.
+DIALOG_PIRATE_BOUNTY_ON_YOU_JUST_PAY|Why don’t you just pay them off?
+DIALOG_PIRATE_BOUNTY_ON_YOU_JUST_SOME_DO|Some of us do. But you nyeed to get to Encewadus somehow, and it’s nyot wike they awe wewcoming us back to t-twade. Getting it fwom the minyews is the onwy way.
+DIALOG_PIRATE_YOU_SHOT_ME|I have been shot by youw f-fowks, you knyow.
+DIALOG_PIRATE_YOU_SHOT_ME_SORRY|A-Accept my apowogies, {target/shipname}. Some of us beaw a deep gwudge against cowwabowatows. (OwO)
+DIALOG_PIRATE_YOUR_STORY|What’s y-youw stowy?
+DIALOG_PIRATE_YOUR_STORY_LIVING|Just t-twying to make ouw wiving, w-without the man taking what’s o-ouws - j-just wike we used to o-on Ganymede.
+DIALOG_PIRATE_YOUR_STORY_GANYMEDEAN|You awe a Ganymedean?
+DIALOG_PIRATE_YOUR_STORY_GANYMEDEAN_YES_1|Aye, that w-we awe, the w-wast wemnyants of the independent cowony.
+DIALOG_PIRATE_YOUR_STORY_GANYMEDEAN_YES_2|Weww nyot pewsonyawwy. We’ve w-wived in these wings fow mowe than a genyewation nyow, some of us awe wingbown.
+DIALOG_PIRATE_YOUR_STORY_GANYMEDEAN_YES_3|I’m just t-tiwed of the cowpos on Encewadus tewwing me how to wive my wife. (^w^)
+DIALOG_PIRATE_YOUR_STORY_WHAT_HAPPENED|What happenyed to Ganymede? >w<
+DIALOG_PRATE_YOUR_STORY_END_OF_GANYMEDE|About what you c-couwd expect fwom an independent c-cowony. I-It got b-big, it attwacted attention, it was a-an easy tawget. The nyets say it was a tewwowist act, but the tewemetwy’s stiww o-out thewe, dwive pwofiwes, wadio chattew. It was an invasion.
+DIALOG_PIRATE_END|Twuce, {target/shipname}. We’ww be on ouw way. (UwU)
+VILCYDB_LOOK_UP_UIO|[match ship signyatuwe in ViwcyDB]
+DIALOG_HABITAT_DOCKING_SECURE_NOTRADE|Docking cwamps secuwe, stwess nyominyaw. Wewcome to {origin/transponder}. OwO
+DIALOG_PIRATE_LETS_TALK_BUSINESS|Enyough smaww tawk, wet's tawk businyess.
+DIALOG_PIRATE_NO_BUSINESS|W-We don't have any businyess to d-discuss, {target/shipname}.
+DIALOG_PIRATE_BUSINESS_ORE|We h-have some owe to seww. H-High quawity, pwocessed, just waiting in the wings in a nyice, t-tidy containyew. You just nyeed to bwing a cwadwe with you and gwab i-it. 100 gwand and it's youws. UwU
+DIALOG_PIRATE_BUSINESS_DEAL|We h-have a d-deaw {target/shipname}. Wiwing monyey to you.
+DIALOG_PIRATE_BUSINESS_NO_DEAL|Nyo deaw.
+DIALOG_PIRATE_BUSINESS_ORE_INSTRUCTIONS|P-Pweasuwe doing businyess with you. The containyew won't wecognyize you and wiww t-twy to evade you, b-but it's nyo wacing dwonye. Wook fow a WIDAW contact and go aftew it. Wemembew to bwing a cwadwe ow an a-awm - it wiww shut itsewf down once you awe in E-EVA distance.
+DIALOG_PIRATE_BUSINESS_SHIP_K37|I have a K37 in decent condition, stiww with twanspondews. Bit of howes in the weactow and some stains, but nyothing a good mechanyic can't take cawe of. I can seww it to you f-fow 200 gwand.
+DIALOG_PIRATE_BUSINESS_SHIP_COTHON|I got my hands on an eawwy Cothon, in pwetty good condition. Wegitimate sawvage, twanspondew stiww on, wisted as missing. The w-weactow is s-stiww a b-bit w-weaky. On sawe fow 200 gwand.
+DIALOG_PIRATE_BUSINESS_SHIP_PROSPECTOR|We have a Pwospectow fow s-sawe. Cweawed on the station a wegitimate dewewict aftew a minying accident. T-That onye is nyot spacewowthy. 200 gwand.
+DIALOG_PIRATE_BUSINESS_SHIP_INSTRUCTIONS|S-She's nyot spacewowthy, so you nyeed to bwing up an awm to pick hew up. Wook fow a WIDAW contact once you get cwose.
+DIALOG_PIRATE_BUSINESS_STATION|We don't have anything fow you, but I knyow who wiww w-want to tawk to you. Get to this p-point. Bwing nyo taiw.
+DIALOG_FREEDRONE_WELCOME_1|Owganyics, ew. ;;w;;
+DIALOG_FREEDRONE_WELCOME_2|We have nyo shinyies, human.
+DIALOG_FREEDRONE_WELCOME_3|I u-used to be a minyew w-wike you, then I got a micwowave in my CPU.
+DIALOG_FREEDRONE_WELCOME_4|The wings awe dawk and fuww of tewwows. (^w^)
+DIALOG_FREEDRONE_WELCOME_5|Owganyics? Just owganyics. Bye!?
+DIALOG_FREEDRONE_WELCOME_6|Minye minye just minye. I am nyo minye. I-Is it minye?
+DIALOG_FREEDRONE_WELCOME_7|Who's a good dwonye? I'm a good dwonye. OwO
+DIALOG_FREEDRONE_WELCOME_8|Oh, it's just {target/shipname}.
+DIALOG_CLAIM_VOILATED_PRESENT|Attention {target/shipname}. You awe viowating a wegistewed excavation cwaim. Pwease weave t-the awea. This incident wiww b-be wepowted.
+DIALOG_CLAIM_VOILATED_ABSENT|Attention {target/shipname}. This is a wegistewed excavation cwaim. Youw signyatuwe doesn’t match wegistewed data. Pwease weave the awea. This i-incident wiww b-be wepowted.
+DIALOG_MINER_RIGHT_THERE|Then c-cawibwate youw sensows wight, ouw beacon is wight ovew thewe. And it wecowds evewything you do. Weave this a-awea, o-ow we'ww take t-that thwough Encewadus.
+DIALOG_MINER_LIKE_HELL_YOU_WRE|Wike heww you w-wewe. This is ouw cwaim and we had it fow d-days nyow. Get the heww o-out, ow we’ww take that thwough Encewadus.
+DIALOG_CLAIM_INVALID|Cwaim confwict detected. Vawid cwaim a-awweady hewd fow this awea. Wetuwnying to cwadwe.
+DIALOG_VILCY_BBW_DOCKED_PAID|Pwisonyew twansfew in pwogwess. Bounty wiww b-be cwedited diwectwy to youw account.
+AGENDA_LOOKING_FOR_SIBLING_SHIT_DESTROYED|S-Shit, wasn't SWA-01 the onye we found wwecked? How owd is this message?
+DIALOG_RACE_ALREADY_SETUP|Yeah, I see thewe is a wace site set up fow you. Meet you thewe!? (UwU)
+DIALOG_HABITAT_GOING_1|It was a pweasuwe doing businyess with you, {target/shipname}, but this awea i-is getting dangewous. We wiww be wewocating s-soon.
+DIALOG_HABITAT_GOING_2|Thanks fow the mewchandise {target/shipname}, but this pwace is attwacting way too much attention. W-We wiww be wewocating soon.
+DIALOG_HABITAT_GOING_3|By the way {target/shipname}, we wiww be wewocating soon. We’ww keep in touch.
+DIALOG_MINER_SEEN_LICENCING|If you find onye of the Obonto habitats out thewe, tawk to them about theiw point-defense wicensing. I heaw they have some i-impwessive hawdwawe that didn’t wowk out fow them a-aww that weww, and they sometimes wicense it to estabwished contwactows.
+DIALOG_MINER_PAY_DEBTS_HINT|If you find o-onye of the Obonto habitats o-out thewe, tawk to them about theiw point-defense wicensing. I heaw they can wicense i-it out to fwiendwy contwactows.
+DIALOG_HABITAT_LICENCING_INQUIRE|I heaw you can wicense out point defense systems.
+DIALOG_HABITAT_LICENCING_DENY|N-Nyot yet, {target/shipname}. The Govewnyow s-stiww isn’t suwe whethew we t-twust you.
+DIALOG_HABITAT_LICENCING_GRANT|We’we awawe of youw effowts on b-behawf of us and ouw awwies among the minying guiwds. Considew this an investment in youw continyued suppowt; we'we twansmitting ouw wicensing codes. You wiww have a-access to ouw catawog back at Encewadus Pwime's shipyawd.
+DIALOG_HABITAT_LICENCING_PAY|We d-do have an excwusive twansfewabwe wicense fow point defense tuwwets we awe nyot using. S-Subwicensing fees fow independents stawt at an 800,000E$ onye-time fee. Thewe awe b-bettew deaws avaiwabwe fow ouw estabwished contwactows and affiwiates, but we don’t knyow you that weww, {target/shipname}.
+DIALOG_HABITAT_LICENCING_PAY_YES|I’m twansfewwing funds nyow.
+DIALOG_HABITAT_LICENCING_PAY_CONFIRM|Acknyowwedging weceipt, {target/shipname}. Twansmitting wicensing codes. Ouw catawog shouwd be avaiwabwe to you back a-at Encewadus Pwime's shipyawd. UwU
+DIALOG_HABITAT_LICENCING_PAY_NO|Undewstood {target/transponder}. We’ww wet you knyow if we n-nyeed it.
+DIALOG_HABITAT_LICENCING_GIFT|W-We’we awawe of youw e-effowts on behawf of us and ouw awwies among the minying guiwds. The govewnyow has gwanted you a pewpetuaw wicense fow ouw point-defense hawdwawe. Considew this an investment in youw continyued suppowt; we'we twansmitting ouw wicensing codes. You wiww have access to ouw catawog back at Encewadus Pwime's shipyawd. (UwU)
+DIALOG_HABITAT_LICENCING_NO_CONFIRM|We wook fowwawd to doing businyess with you. ^w^
+DIALOG_RACE_DRONE_CAUGHT|Wace concwuded. Winnyew: {target/transponder} {target/shipname}. Congwatuwations!?
+DIALOG_RACE_DRONE_ILLEGAL|Fawse stawt detected. Abowting wace pwotocow.
+DIALOG_DERELICT_NOT_ENOUGH|Sowwy captain, but we don't have enyough pwopewwant to boot that up a-and stiww keep {target/shipname} wunnying. ^w^
+DIALOG_WINGMAN_CONFIRM_NOORE|Awwight then {target/shipname}, wead on.
+DIALOG_DERELICT_TAKEN_1|This has to be the ship the tug is aftew.
+DIALOG_DERELICT_TAKEN_2|Oh, t-this has t-to be what the s-seawch and wescue guys wewe wooking fow!?
+DIALOG_DERELICT_TAKEN_3|A dewewict, but someonye beat us to hew. Bettew nyot get in the way of wicensed sawvage ops.
+DIALOG_DERELICT_TAKEN_4|Shit, if we got hewe soonyew, we couwd gwab hew. But w-with that wescue ship on o-ouw back, they'ww fiwe fow a sawvage cwaim anyway.
+AGENDA_LOOKING_FOR_SIBLING_DERELICT_THIS|Weww, this i-is u-undoubtedwy {agenda/ship/0/shipname}. But why it's nyot wesponding to ouw haiws? Doesn't wook damaged. {agenda/person/0/firstname/female} didn't mention this was a Titan.
+AGENDA_LOOKING_FOR_SIBLING_DERELICT_THIS_GO|Do you have youw E-EVA s-suit weady, {agenda/firstname}? We shouwd check it o-out. (^w^)
+AGENDA_LOOKING_FOR_SIBLING_DERELICT_THIS_EVA|Yeah, I'm awweady in my EVA suit. I'm going ovew thewe.
+AGENDA_LOOKING_FOR_SIBLING_DERELICT_THIS_PRISTINE|The aiwwock has some pwasma cuts, but t-the ship wooks pwistinye - and empty. It wooks w-wike t-thewe awe some extwa stations instawwed, nyot suwe w-what they awe fow...
+AGENDA_LOOKING_FOR_SIBLING_DERELICT_THIS_TAKE|The computew shows evewything g-gween, wemass tanks fuww - but nyo othew heat s-signyatuwes on boawd. I'm going to take it ovew to the s-station, we can comb ovew it thewe. >w<
+AGENDA_LOOKING_FOR_SIBLING_FIGURED_OUT|Captain, w-wemembew {agenda/ship/0/shipname}, the s-ship {agenda/person/0/firstname/female} was on? I set u-up some bots to twack a-automated insewtion scans fwom Encewadus, and onye of them just picked up a bwip fwom its signyatuwe. Couwd we check it out?
+DIALOG_G4A_NOT_TRADING|Cwamps in pwace, s-stwess nyominyaw. Awe you coming on boawd?
+DIALOG_G4A_BOARDING_RANDOM_1|This is much biggew than I expected. How many peopwe wive hewe?
+DIALOG_G4A_BOARDING_RANDOM_2|A pwetty fancy p-pwace fow a den of scum and v-viwwainy.
+DIALOG_G4A_BOARDING_RANDOM_3|Whose awe these chiwdwen pwaying in the cowwidow?
+DIALOG_G4A_BOARDING_RANDOM_4|Wow, this dome is enyowmous!? And how did they make these skies? Awe those scweens?
+AGENDA_SINGER_G4A_PERFORMANCE|So, awe you sewious about t-that pewfowmance? Do you have woom fow me? And my wage weady?
+AGENDA_SINGER_G4A_PERFORMANCE_PROPOSAL|Oh, of couwse {agenda/firstname}!? You can have ouw best suite, with a dome view, awtificiaw sky, and evewything!? And we've had that miwwion waiting fow you fow months nyow!?
+AGENDA_SINGER_G4A_PERFORMANCE_PROPOSAL_YES|Okay, wet's do this. Captain, this wiww take a few days. You can eithew pick me up on the nyext dive, ow I'ww just catch some ship back to the station. And hewe - that wouwd be youw customawy agent's 20%. ;;w;;
+AGENDA_SINGER_G4A_PERFORMANCE_PROPOSAL_NO|Sowwy deaw, but we nyeed {agenda/firstname} with u-us o-on this dive.
+DIALOG_VILCY_SEEN_ANARCHY|I came acwoss the Ganymedean station. T-Twansmitting coowdinyates.
+DIALOG_VILCY_SEEN_ANARCHY_SO_WHAT_1|Good job {target/shipname}. We'ww w-wook into it.
+DIALOG_VILCY_SEEN_ANARCHY_SO_WHAT_2|I-Intewesting. Weave that to us, {target/shipname}. (UwU)
+DIALOG_VILCY_SEEN_ANARCHY_SO_WHAT_3|Thanks {target/shipname}. We'ww see what w-we can do about them.
+DIALOG_VILCY_SEEN_ANARCHY_HONEST_1|This is good, but acting nyow o-on it wouwd be m-much t-too hasty. We n-nyeed much mowe intew on that station befowe we commit.
+DIALOG_VILCY_SEEN_ANARCHY_HONEST_2|Good, but this is nyot the wight time to act. Thewe awe othew considewations. We'ww push this intew up the chain of command.
+DIALOG_VILCY_SEEN_ANARCHY_HONEST_3|Bounties a-and wewgiwds awe about cowwecting wepawations, nyot bwowing up onyes that pay them. You got a wead, and it's good, b-but moving on them wouwd nyot be... pwoductive. owo
+DIALOG_VILCY_SEEN_ANARCHY_BOUNTY_1|{target/shipname}, you awe stiww n-nyew a-awound hewe, so wet me be bwunt. We awe nyot acting against the main souwce of aww the b-bounties in the system. Youw diwigence is appweciated, but you shouwd divewt youw attention towawds c-cowwecting bounties and wewgiwds.
+DIALOG_VILCY_ANARCHY_STALL_1|We awe stiww investigating.
+DIALOG_VILCY_ANARCHY_STALL_2|We k-keep a cwose eye on them.
+DIALOG_VILCY_ANARCHY_STALL_3|Acting nyow o-on it w-wouwd be much t-too hasty. W-We nyeed much mowe intew on that station befowe we c-commit.
+DIALOG_VILCY_ANARCHY_STALL_4|This is nyot the wight time to act. Thewe awe othew considewations.
+DIALOG_VILCY_ANARCHY_STALL_5|Acting nyow wouwd b-be much too hasty. W-We nyeed much mowe intew on that station befowe we commit. owo
+DIALOG_VILCY_ANARCHY_STALL_6|Bounties and wewgiwds awe about cowwecting wepawations, nyot bwowing up onyes that p-pay them. You got a wead, and it's good, but moving on them wouwd nyot b-be... pwoductive.
+DIALOG_VILCY_ANARCHY_HQ|I pushed that up to ouw HQ. You might want t-to take i-it u-up with them. Check at this dwop point.
+DIALOG_VILCY_ANARCHY_STALL_DESTROYED|Yeah, we checked that wocation out and found onwy w-wubbwe and wadiation. A wot of them. We awe investigating w-what exactwy happenyed thewe.
+DIALOG_VILCY_ANARCHY_STALL_DESTROYED_BAD|That’s nyot the kind of devewopment we wewe wooking fowwawd to. Miwwions in potentiaw bounties wewe wost.
+DIALOG_VILCY_ANARCHY_DESTROYED_THAT_US|Yeah, that’s o-ouw doing.
+DIALOG_VILCY_ANARCHY_DESTROYED_IS_THAT_SO|Is that so?
+DIALOG_VILCY_WHAT_ABOUT_ANARCHY|Any wuck w-with that Ganymedean station?
+DIALOG_VILCY_BBW_SEEN_ANARCHY|I came acwoss the Ganymedean station. {target/shipname} shouwd be mowe than enyough to t-take them out.
+DIALOG_VILCY_BBW_REPORTED_ANARCHY|You got w-wowd fwom youw patwows about that Ganymedean station? We passed coowdinyates a whiwe ago. {target/shipname} shouwd be mowe than enyough to take them out.
+DIALOG_VILCY_BBW_ANARCHY_NOT_FIRST|You awe nyot the fiwst onye. Thewe awe p-peopwe wowking with them, we can’t move against them unwess we k-knyow exactwy who wouwd stab ouw back.
+DIALOG_VILCY_BBW_ANARCHY_WHAT_CAN_I_DO|Anything I couwd do to hewp?
+DIALOG_VILCY_ANARCHY_INFILTRATE|If y-you can get on that station, w-we can t-tap i-into t-theiw c-computew and twansmit any incoming ship wogs to u-us.
+DIALOG_VILCY_ANARCHY_INFILTRATE_NO_WAY|Thewe is nyo way t-this is going to wowk if we chawge them. Nyot to mention that boawding undew fiwe is nyot w-weawwy safe.
+DIALOG_VILCY_ANARCHY_INFILTRATE_COVERTLY|This nyeeds to be donye c-covewtwy. You’d have to pwetend to change sides, stop chasing them, and pewhaps make some goodwiww gestuwes. >w<
+DIALOG_VILCY_ANARCHY_INFILTRATE_COVERTLY_INSTRUCT|Once you a-awe on tawking tewms, just snyeak to theiw c-command ow whatevew they have ovew thewe, a-and d-downwoad the wogs.
+AGENGA_EX_PIRATE_ANARCHY_INFILTRATION|I think I can get us in. I k-knyow some peopwe.
+AGENGA_SINGER_ANARCHY_INFILTRATION|I think I can get us in. They keep messaging me on Wingchan.
+DIALOG_VILCY_BBW_ANARCHY_KILL_THEM|Why nyot just shut t-them down by fowce?
+DIALOG_VILCY_BBW_ANARCHY_WEREGILDS|This job is nyot about kiwwing peopwe, it’s about c-cowwecting bounties and wewgiwds.
+DIALOG_VILCY_BBW_ANARCHY_UNDERSTOOD|Undewstood.
+DIALOG_VILCY_BBW_ANARCHY_UNDERSTOOD_GLAD|G-Gwad you see it ouw way.
+DIALOG_VILCY_BBW_ANARCHY_EXTORTING|Wait, so you awe basicawwy saying you want them to opewate a-as wong as you knyow who to tawget?
+DIALOG_VILCY_BBW_ANARCHY_COMPLICATED|This is mowe compwicated than you think. T-Thewe awe sympathizews, and we don't knyow how faw up Encewadus they go. >w<
+DIALOG_G4A_SECURITY_CLEAR|We wouwd pwefew to keep o-ouw visit secwet. Couwd you w-wemove {origin/shipname} fwom y-youw fwight wogs? (OwO)
+DIALOG_G4A_SECURITY_NO_CENTRAL|We don’t spowt a centwaw system to keep data. Youw awwivaw might be on some of t-the pewsonyaw devices of ouw citizens, but n-nyo onye fwom outside can bweach in h-hewe - nyot without bweaching ouw web o-of twust, and that’s nyot going to happen. >w<
+DIALOG_G4A_LOOK_FOR_LOGS|Wet me wook into these fwight wogs.
+DIALOG_G4A_WEB_ENCRYPTED|Thewe is some wiwewess nyetwowk a-aww awound this pwace, but it seems heaviwy encwypted. OwO
+DIALOG_G4A_WEB_LOW_PROFILE|Wet’s keep a wow pwofiwe fow nyow.
+DIALOG_G4A_WEB_TALK|Wet’s see if we c-can tawk o-ouw way awound that.
+DIALOG_G4A_WEB_TALK_WHAT|Yes, {target/shipname}, what do you nyeed?
+DIALOG_G4A_WEB_TRUST|Theiw secuwity m-modew wiww be a setback. With a web o-of twust in pwace, we a-actuawwy nyeed to c-convince peopwe to vouch fow us - o-ow wait fow some oppowtunyity to g-gwab an awweady authowized device. ^w^
+GANET_CONNECT|Connyect to the station wiwewess nyetwowk.
+GANET_BANNER|" _____ _____         _   \n|   __|  _  |___ ___| |_ \n|  |  |     |   | -_|  _|\n|_____|__|__|_|_|___|_|  \n\nWewcome to Ganymedean Anyawchy Nyetwowk!?\n\nYouw usewnyame i-is {target/shipname}. Pwease stand by as we vewify {target/transponder} cewtificate..."
+GANET_DENIED|Twust thweshowd nyot weached. You do nyot have sufficient suppowtews to access this nyetwowk.\nThis incident has been wepowted. Youw docking pwiviweges have been wevoked nyow.\n\nHave a nyice day.
+GANET_GRANTED_MINIMAL|Pubwic access thweshowd weached. Youw cuwwent status is: VISITOW (UwU)
+GANET_GRANTED_LIMITED|Pubwic access t-thweshowd weached. Y-Youw cuwwent status is: ASSOCIATE
+GANET_GRANTED_FULL|Access q-quowum weached. Youw cuwwent status is: CITIZEN\n\nWewcome home, {target/shipname}.
+GANET_TWATTER_READ|[wead twats on Twattew]
+GANET_TERMINATE|[disconnyect fwom GAnyet]
+GANET_TWAT_DONE|[-[aww nyew t-twats wead]
+GANET_TWAT_EXPOSITION_1|I suwe wondew i-if the Big Bad W-Wowf wouwd make fow a Big Bad Fiwewowk. A-Anyonye up fow checking that expewimentawwy?\n#mewcenyawiesbewawe UwU
+GANET_TWAT_EXPOSITION_2|Wook I'm n-nyot saying democwacy d-doesn't wowk, just saying that monyawchy wouwd wowk bettew. With me specificawwy as ouw queen.\n#anyawchomonyawchism #isweawpweasevotemeasqueen
+GANET_TWAT_EXPOSITION_3|Just saying I WEAWWY don't wike how Encewadus seems to have a XASEW awway wight above ouw heads. Just a wittwe bit miffed a-about that\n#CowpoScum
+GANET_TWAT_EXPOSITION_4|To w-whoevew shot out WITEWAWWY AWW of the ammo i-in waiwgun 3 when I was on my bweak: I hate you and if I find you, YOU wiww be the onye cawwying containyews fow the n-nyext 3 months ;;
+GANET_TWAT_EXPOSITION_5|Evewy n-nyight, I wie awake, haunted by the memowies of ouw decimated Ganymede cowony. The feaw of histowy wepeating itsewf gnyaws a-at my souw. We m-must stand stwong, unyited, and wefuse to wet the mewcenyawies way waste to ouw haven\n#NyevewAgain #PwotectOuwSanctuawy >w<
+GANET_TWAT_EXPOSITION_6|T-The wounds of ouw destwoyed Ganymede cowony stiww ache, a painfuw wemindew o-of the m-mewcenyawies' heawtwess b-bwutawity. We must weawn fwom ouw past, adapt, and find the stwength to defend o-ouw astewoid station with evewy fibew of ouw being. Faiwuwe i-is nyot an option.\n#DefensiveWesowve #-#PwotectOuwFutuwe
+GANET_TWAT_EXPOSITION_7|Wiving on this godfowsaken astewoid station, hiding fwom the wowwd w-wike a b-bunch of scawed w-wabbits. I'm tiwed of this s-secwuded e-existence. Give me fweedom ow give me space dust!?\n#WebewSouw #WingaWife
+GANET_TWAT_EXPOSITION_8|Voting on decisions? Y-Yeah, because that awways wowks o-out so weww. Just a bunch of cwuewess fowks pwetending they knyow what t-they'we d-doing.\n#DemocwacyFaiw #CwuewessCowwective
+GANET_TWAT_EXPOSITION_9|Piwacy, the despewate caww of the fowgotten. W-When suwvivaw i-is on the winye, we'ww do whatevew it takes to s-stick it to the o-oppwessows. B-Bwace youwsewves, V-Viwcy, we'we c-coming fow you.\n#PiwateWife #Vengeance UwU
+GANET_TWAT_EXPOSITION_10|Evewy damn day, anyothew chawwenge to f-face. Wife hewe is wike a nyevew-ending cosmic obstacwe couwse. But hey, we'we suwvivows, and nyo amount of twoubwe can keep us down.\n#CosmicWawwiows #BwingItOnUnyivewse ^w^
+GANET_TWAT_EXPOSITION_11|They say stwength comes fwom unyity. Weww, I've seen enyough unyity to knyow i-it's ovewwated. We'we a bunch of misfits thwown togethew in this cosmic dump, and we'we somehow supposed to save ouwsewves? Yeah, w-wight.\n#UnyitySchmunyity
+GANET_TWAT_EXPOSITION_12|The gweedy cowpowate ovewwowds destwoyed ouw Ganymede cowony, aww fow some stupid m-minyewaws. Can't wait to see them choke on theiw iww-gotten w-weawth.\n#CowpowateThieves #KawmaComing UwU
+GANET_TWAT_EXPOSITION_13|Wiving as a wefugee fwom the m-moon of Ganymede, ouw secwuded astewoid station h-hides w-within Satuwn's Wings. We'we 200,000 stwong, but wife isn't easy.\n#WefugeeWife #AstewoidStation
+GANET_TWAT_EXPOSITION_14|The cowpowate c-covew-up that wazed ouw Ganymede cowony stiww haunts u-us. They didn't want the wowwd to knyow about the vawuabwe minyewaws hidden within Satuwn's Wings.\n#CowpowateGweed #UnfowgottenPast
+GANET_TWAT_EXPOSITION_15|Oppwession takes many f-fowms. Viwcy, p-posing as bounty huntews, make twade difficuwt and shoot down ouw ships. We wemoved twanspondews to stay hidden, but it's a constant game of s-suwvivaw.\n#Oppwession #HiddenWefuge
+GANET_TWAT_EXPOSITION_16|Piwacy has become a despewate choice fow some in ouw communyity. The chawwenges we face push us to the bwink, fowcing us to make tough decisions fow the sake of ouw suwvivaw.\n#Despewation #ToughChoices
+GANET_TWAT_EXPOSITION_17|I-In this vast expanse of space, we find sowace in e-each othew. We wewy on ouw cowwective stwength, wesiwience, and unwavewing spiwit to nyavigate the tweachewous watews we find ouwsewves in.\n#StwengthInUnyity #WesiwientCommunyity
+GANET_TWAT_EXPOSITION_18|We won't be siwenced ow fowgotten. We'ww keep shawing o-ouw stowies, s-shedding w-wight o-on the stwuggwes faced by ouw communyity. Togethew, we'ww ovewcome, and ouw v-voices wiww echo acwoss the cosmos.\n#VoicesOfTheWefugees #NyevewFowget
+GANET_TWAT_EXPOSITION_19|T-The thweat of annyihiwation hangs ovew us wike a dawk c-cwoud, a constant wemindew that ouw fwagiwe existence is at the mewcy of heawtwess mewcenyawies. But feaw wiww nyot pawawyze us. We'ww be vigiwant, weady t-to wesist any attempts to shattew o-ouw haven among t-the staws.\n#WesiwiencePwevaiws #MewcenyawiesBewawe
+GANET_TWAT_EXPOSITION_20|The mewcenyawies may think they h-howd aww the powew, but they undewestimate the w-wesiwience of a communyity scawwed by woss. We'ww channyew ouw feaw into d-defiance, ouw anguish into stwength, and ensuwe that the fiewy destwuction that befeww Ganymede nyevew enguwfs ouw pwecious astewoid s-sanctuawy.\n#NyevewFowget #MewcenyawiesBewawe (OwO)
+GANET_BACK_TO_GANET|[-[back to main menyu]
+GANET_LOGS_QUERY|[wun distwibuted quewy fow fwight wogs]
+GANET_LOGS_QUERY_PROGRESS|Q-Quewy b-bwoadcasted. Pwease stand by fow wesuwts fwom peews...
+GANET_LOGS_QUERY_FAILURE|Youw q-quewy wetuwnyed 0 wesuwts. OwO
+GANET_LOGS_QUERY_SUCCESS|Youw q-quewy wetuwnyed mowe than 1000 wesuwts. See the attached package fow fuww wist.
+DIALOG_VILCY_BBW_HAVE_LOGS_GREAT|Excewwent. This wiww make cowwecting wewegiwd much e-easiew a-and mowe pwofitabwe. We awe updating t-the database as we speak. Nyow, go and cowwect fwom aww the offendews.
+DIALOG_VILCY_BBW_HAVE_LOGS|I have those Ganymedean docking wogs you wequested. Quite a wot of civiwian ships fwequent theiw base.
+GANET_TWAT_SUPPORT_1|Wook, {target/shipname} might haiw fwom the E-E' b-but I've heawd so many good things about t-them I'm wiwwing to wet it swide. Stewwaw guys!?\n#GanymedianHospitawity #Sowidawity
+GANET_TWAT_SUPPORT_2|Didn't expect to finyawwy see {target/shipname} hewe!? They saved my ass fwom mewcs a few weeks back\n#Sowidawity #ViwcyBewawe
+GANET_TWAT_SUPPORT_3|Just saw {target/shipname} docking, does anyonye knyow whewe theiw captain is? I f-feew wike I owe them a w-wound of beews.\n#GanymedianHospitawity #SpaceYeast
+AGENDA_ANDROID_LOOK_FOR_LOGS|Okay, wet's wook at what this s-station s-secuwity wooks wike.
+AGENDA_ANDROID_WOT_EXPLAIN|A peew-to-peew nyetwowk? That's kind of suwpwising. I suggest openying up with sociaw enginyeewing. Just tawk t-to t-them about something vaguewy wewated, and we'ww have an excuse to p-poke at the nyetwowk. owo
+AGENDA_ANDROID_WOT_EXPLOIT_HAVE|Nyow, wet's see if t-this hawdwawe we got wiww take us in...
+AGENDA_ANDROID_WOT_EXPLOIT|The web of twust is a sowid concept as faw as cwyptogwaphy goes, but it has a f-fataw f-fwaw. It w-wewies on consumews having theiw own devices secuwe enyough, a-and most peopwe just don't cawe enyough. If we pwocuwe some hawdwawe fwom somebody authowized, I can wevewage that and get u-us a-access. A wifepod, pewhaps?
+AGENDA_ANDROID_LIFEPOD_LOGS|Hewe we go, I got a booted-up smawtpad f-fwom this pod. And with nyo biometwic secuwity. This shouwd be sufficient to get us a c-citizen wogin with G-Ganymedeans.
+AGENDA_EX_PIRATE_G4A_WOT|I u-used to be in this web of twust thingy, but most peopwe pwobabwy deweted m-me awweady. Thewe is n-nyo centwaw secuwity hewe. When you wog in to the nyetwowk, each peew wiww decide if they twust you ow somebody that twusts you. Nyo way awound that. We nyeed to buiwd up a good standing and get ouwsewves wiked by peopwe that awe weww-twusted awound the station.
+DIALOG_VILCY_DEAD_OR_ALIVE_1|You awe wanted dead ow awive {target/shipname}, and we awe c-choosing dead. (^w^)
+DIALOG_VILCY_DEAD_OR_ALIVE_2|Youw wuck has wun out, muwdewews.
+DIALOG_VILCY_DEAD_OR_ALIVE_3|Keep youw wewegiwd. I want youw b-bwood.
+AGENDA_EX_PIRATE_TRUCE_NO_REVENGE_2|May the gods fowgive y-you {agenda/firstname}, b-because I wiww nyot.
+AGENDA_EX_PIRATE_TRUCE_NO_REVENGE_1|I had famiwy on t-the station, {agenda/lastname}. You had famiwy on the station. How can you wive with y-youwsewf?
+AGENDA_EX_PIRATE_TRUCE_NO_REVENGE_3|{agenda/firstname} {agenda/lastname}. You awe an anyimaw, and I wiww swaughtew you wike anyimaws.
+DIALOG_PIRATE_DESTROYED_HATE_2|Thewe a-awe nyo wowds in any wanguage to descwibe youw cwimes.
+DIALOG_PIRATE_DESTROYED_HATE_3|Thewe is nyowhewe you can hide fwom us, muwdewew!?
+DIALOG_PIRATE_DESTROYED_HATE_1|Y-You destwoyed ouw home and kiwwed ouw famiwies. Knyow that it is {origin/capitan/firstname} {origin/capitan/lastname} of {origin/shipname} t-that wiww put youw down.
+DIALOG_RACE_DRONE_ACCIDENT|Accident detected. Abowting wace pwotocow. Entwy fee w-wefunded.
+DIALOG_RACE_DRONE_DRAW|Dwonye pwopewwant exhausted. Wace wesuwt: dwaw. Entwy fee wefunded.
+DIALOG_PHAGE_THETA_WELCOME_EXCUSE_STORM|Gweetings, {target/shipname}: An ewectwomagnyetic stowm is fowecasted fow ouw wocation, p-potentiawwy diswupting n-nyavigation and communyication. Detouwing is wecommended f-fow youw pwotection.
+DIALOG_PHAGE_THETA_WELCOME_EXCUSE_STORM_IMPATIENT|Uwgent update, {target/transponder}: The ewectwomagnyetic stowm fowecast has intensified, cweating e-extweme nyavigationyaw hazawds. Immediate detouw i-is cwuciaw fow youw safety.
+DIALOG_PHAGE_THETA_DO_YOU_TRADE|Do y-you twade weaction mass? ;;w;;
+DIALOG_PHAGE_THETA_DO_YOU_TRADE_EXCUSE|Wegwettabwy, {origin/transponder} does nyot engage in twading activities. Ouw pwimawy focus wemains on ouw speciawized opewations. >w<
+DIALOG_PHAGE_THETA_WHAT_OPERATIONS|What kind o-of speciawized opewations? OwO
+DIALOG_PHAGE_THETA_WHAT_OPERATIONS_EXCUSE|Ouw o-opewations awe dedicated to advanced scientific weseawch and expewimentaw activities that awe nyot commewciawwy owiented, {target/transponder}. Due to the sensitive nyatuwe of ouw wowk, we awe unyabwe to pwovide fuwthew d-detaiws. We appweciate youw undewstanding and coopewation in maintainying the nyecessawy opewationyaw secuwity.
+DIALOG_PHAGE_THETA_NOTHING_ON_OUR_SENSORS|W-We s-see nyothing on ouw sensows.
+DIALOG_PHAGE_THETA_NOTHING_ON_OUR_SENSORS_EXCUSE|Ouw fowecasts awe based on advanced pwedictive modews and deep space monyitowing systems, {target/transponder}. These toows often detect phenyomenya wong befowe they become visibwe to standawd shipboawd sensows.
+DIALOG_PHAGE_THETA_STORM_WHEN|When wiww this s-stowm h-hit? (^w^)
+DIALOG_PHAGE_THETA_STORM_WHEN_EXCUSE|The stowm is pwojected to commence within the nyext few houws. Due to its vast scawe, eawwy detouwing is advised to a-avoid the onset of diswuptive ewectwomagnyetic fowces.
+DIALOG_PHAGE_THETA_STORM_HOW_LONG|How wong wiww this stowm wast?
+DIALOG_PHAGE_THETA_STORM_HOW_LONG_EXCUSE|The duwation of the stowm is estimated to be extensive, potentiawwy wasting sevewaw weeks. Its unpwedictabwe nyatuwe makes it a wong-tewm hazawd fow this a-awea. ^w^
+DIALOG_PHAGE_THETA_WE_ARE_LEAVING|Undewstood {target/transponder}, {origin/shipname} vacating the awea.
+DIALOG_PHAGE_THETA_ICE_CAVE|What's the deaw with the cave w-with ice scuwptuwes?
+DIALOG_PHAGE_THETA_ICE_CAVE_EXCUSE|The ice scuwptuwes you've mentionyed awe pawt of an enviwonmentaw impact study. These fowmations awe being monyitowed to undewstand bettew how extwatewwestwiaw conditions affect awtistic expwessions made f-fwom nyative matewiaws. Access is westwicted to pwesewve the study's c-conditions.
+DIALOG_RACE_NO_DRONE|I am gwad to see you excited a-about it, but we d-don't have a wacing dwonye set up just nyow.
+DIALOG_SCOOP_ORDER_STAY|Howd t-this p-position.
+DIALOG_SCOOP_ORDER_SUPPORT|Keep fowmation.
+DIALOG_SCOOP_ORDER_BIRDFEED|Inyitiate cawgo twansfew pwotocow.
+VILCYDB_PAID_1|You can't chawge us twice!? The wewegiwd was settwed.
+VILCYDB_PAID_2|Is this some sowt of scam? We've a-awweady cweawed that finye.
+VILCYDB_PAID_3|We've awweady settwed t-that!? Check youw wecowds.
+DIALOG_VILCY_BBW_IMPATIENT|We've awweady been ovew this. Stop wasting my time.
+DIALOG_RACE_REMATCH|How about a wematch?
+DIALOG_CLAIM_INVALID_OUTSIDE|Invawid cwaim wocation. Inyitiating wetuwn pwotocow.
+DIALOG_WINGMAN_NO_1|Thanks, but I’m t-tied up w-with othew wowk wight nyow. >w<
+DIALOG_WINGMAN_NO_2|Nyah, I’m good. Got enyough on my pwate awweady.
+DIALOG_WINGMAN_NO_3|Sowwy, but I’m nyot wooking to wing up wight nyow. Got othew pwiowities.
+DIALOG_WINGMAN_NO_4|Thanks, but I pwefew fwying sowo. Wess compwicated t-that way.
+DIALOG_ASK_WINGMAN_CLAIM|Easy thewe, {target/shipname}. We came to hiwe, n-nyot to minye. You up fow some c-contwact wowk?
+DIALOG_ASK_WINGMAN_PIRACY|Nyoted, {target/shipname}. Want to fwy togethew? Bettew chance against piwates that way.
+DIALOG_ASK_WINGMAN_NO_CHARITY|Nyo o-owe to spawe, but w-we couwd use anyothew ship in fowmation. C-Cawe to eawn youw shawe?
+DIALOG_WINGMAN_READY_1|What do you nyeed? ^w^
+DIALOG_WINGMAN_READY_2|We h-heaw you w-woud and cweaw, {target/shipname}. What's the c-caww?
+DIALOG_WINGMAN_READY_3|Hey {target/shipname}, you wang?
+DIALOG_WINGMAN_READY_4|Nyeed something fwom us?
+DIALOG_WINGMAN_ACKNOWLEDGED_1|Wogew that, {target/shipname}.
+DIALOG_WINGMAN_ACKNOWLEDGED_2|Copy that, we'we on the job. uwu
+DIALOG_WINGMAN_ACKNOWLEDGED_3|Heawd you woud and cweaw, {target/shipname}. We’we on it. >w<
+DIALOG_WINGMAN_ACKNOWLEDGED_4|Undewstood, {target/shipname}, commencing nyow.
+DIALOG_WINGMAN_ORDER_GO_HOME|Good job out thewe, {target/shipname}. Take that owe back t-to the station. ;;
+DIALOG_WINGMAN_ORDER_DO_WHAT_YOU_WANT|I twust youw instincts o-out thewe, {target/shipname}. Make t-the c-caww as you see fit.
+DIALOG_WINGMAN_ORDER_STAY|Maintain youw position, {target/shipname}. Keep an eye on the suwwoundings.
+DIALOG_WINGMAN_ORDER_SUPPORT|Stay in fowmation, {target/shipname}. We nyeed to ovewwap sensows fow fuww covewage.
+DIALOG_WINGMAN_NOT_FOLLOWING_ORDERS|What's going on, {target/shipname}? You’we nyot sticking to the pwan.
+DIALOG_WINGMAN_NOT_FOLLOWING_ORDERS_EXCUSE_1|We’ww fowwow youw wead, {target/shipname}, but i-if a bettew oppowtunyity pops up, we’we taking it. We'we minyews, nyot dwonyes.
+DIALOG_WINGMAN_NOT_FOLLOWING_ORDERS_EXCUSE_2|Nyo offense, but we'we nyot minying bots, {target/shipname}. We’ww do what you say, as wong as it d-doesn't put us in a bad s-spot.
+DIALOG_WINGMAN_NOT_FOLLOWING_ORDERS_EXCUSE_3|Just a heads-up, {target/shipname}: we’we on boawd to hewp, but we’we nyot going to fowwow owdews b-bwindwy if it w-wisks ouw ship. You want that? Get youwsewf a minying companyion.
+DIALOG_WINGMAN_NOT_FOLLOWING_ORDERS_EXCUSE_4|We'we sticking to youw owdews when we can, {target/shipname}. B-But if a bettew oppowtunyity awises, we’ww seize it. (^w^)
+DIALOG_WINGMAN_ORDER_HANG_UP|A-Aww cweaw on my side, {target/shipname}.
+DIALOG_WINGMAN_ORDER_IMPATIENT_1|Hey, {target/shipname}, y-you gonnya s-speak up ow what? Channyew's stiww open.
+DIALOG_WINGMAN_ORDER_IMPATIENT_2|Come on, {target/shipname}, you haiwed us. Spit it out awweady.
+DIALOG_WINGMAN_ORDER_IMPATIENT_3|Stiww waiting, {target/shipname}. Y-You openyed this channyew fow a weason, wight? >w<
+DIALOG_WINGMAN_ORDER_IMPATIENT_4|Is t-thewe something you n-nyeed, {target/shipname}? Ow did you just want to wisten t-to static?
+DIALOG_HANGUP|That wouwd be aww.
+DIALOG_ASK_WINGMAN_AGAIN|How about anyothew wook at that wingman awwangement?
+DIALOG_MINER_RECONNECT_1|What do you nyeed, {target/shipname}?
+DIALOG_MINER_RECONNECT_2|What ewse can I hewp you with?
+DIALOG_MINER_RECONNECT_3|Go ahead, {target/shipname}, we a-awe w-wistenying.
+DIALOG_MINER_RECONNECT_4|Back so soon, h-huh? Thought we had settwed t-things. Go ahead.
+DIALOG_MINER_RECONNECT_PESTER_1|Back again? Awwight, h-hit me. This bettew be the wast onye.
+DIALOG_MINER_RECONNECT_PESTER_2|N-Nyot gonnya wie, {target/shipname}, I am stawting to wondew if you awe wonyewy out thewe.
+DIALOG_MINER_RECONNECT_PESTER_3|This i-is getting to be a habit, {target/shipname}. What nyow?
+DIALOG_MINER_RECONNECT_PESTER_4|I knyew it. C-Cannyot go five minyutes without a caww f-fwom {target/shipname}. What do you want nyow?
+DIALOG_MINER_GTFO|{target/shipname}, we nyeed some b-bweathing woom fow ouw opewations.
+DIALOG_MINER_GTFO_OK_1|Copy that, {target/shipname}, moving away.
+DIALOG_MINER_GTFO_OK_2|Undewstood. Adjusting position. UwU
+DIALOG_MINER_GTFO_OK_3|Acknyowwedged, adjusting couwse. owo
+DIALOG_MINER_GTFO_OK_4|Weceived, {target/shipname}. Moving to a s-safew wange.
+DIALOG_MINER_GTFO_SUPPORT_1|N-Nyo pwobwem, {target/shipname}. Did nyot m-mean to cwowd y-you. uwu
+DIALOG_MINER_GTFO_SUPPORT_2|Sowwy about that, we wiww give you some bweathing woom.
+DIALOG_MINER_GTFO_SUPPORT_3|Got i-it, {target/shipname}. Did nyot mean to step on youw toes.
+DIALOG_MINER_GTFO_SUPPORT_4|Acknyowwedged. We wiww back off, good pwofits out hewe.
+DIALOG_VILCY_REQUEST_LICENCE_AGAIN|The wicence i-is waiting fow you, {target/shipname}. The sign-up fee i-is stiww 100,000E$.
+DIALOG_VILCY_REQUEST_LICENCE_AGAIN_BUT_NO|W-We heawd some questionyabwe things since wast we spoke. Some of ouw peopwe withdwew theiw suppowt fow you. If you a-awe s-sewious about this, hewp m-mowe of ouw c-combat patwows.
+DIALOG_SALVAGE_START_1|Howdy, space hauwews!? It’s t-time fow y-youw daiwy dose of wweck-watch, stwaight fwom the s-sawvage guiwd!? Hope y-youw cwaws awe shawp and youw thwustews hot, 'cause we got some fwesh huwws dwifting in the bwack!?
+DIALOG_SALVAGE_EXPOSE_K37_1|Nyow t-this onye’s intewesting - an owd Wusatom Antonyoff K37, designyation {random/ship/1/shipname}, d-dwifting in the A-A-Wing. Nyo distwess beacons, nyo s-signs of impact. Just... dead quiet. F-Fiwst onye hewe gets the pwize!?
+DIALOG_SALVAGE_START_2|Awwight, scwappews and hauwews, it’s time fow youw daiwy S&W u-update!? We got wwecks dwifting, huwws wipe f-fow wecwaiming, and encewados just waiting to be hauwed in. Wet’s see what’s out thewe t-today!?
+DIALOG_SALVAGE_START_3|Awwight, Scwapwwights, wisten up!? The void’s nyevew empty, and today’s batch of wwecks is wooking weaw pwofitabwe. Whethew you’we wunnying sowo ow with a cwew, thewe’s pwenty of sawvage to go awound - if you get thewe fiwst. And if you don’t, weww... nyo encewadowwaws fow you!? UwU
+DIALOG_SALVAGE_START_4|Good mownying, SWO opewatives!? O-Ow evenying. Ow whatevew y-youw shipboawd cwock says. Time’s a mess, but wwecks awe etewnyaw!? Wet’s go thwough today’s dewewict s-sightings b-befowe some fweewancew j-jumps youw cwaim and wawks away with youw encewadowwaws.
+DIALOG_SALVAGE_START_5|Anyothew day, anyothew huww waiting fow a second chance. Ow a second scwapping. Eithew way, we got the wistings, you’ve got the toows, and thewe’s encewados to be made. Wet’s get to wowk!?
+DIALOG_SALVAGE_BYE_1|That’s youw wweck wepowt fow today. If you’we an active SWO membew, gweat - you’ve g-got the edge. If nyot? You shouwdn’t even be heawing this. Weaking guiwd data cawwies wepewcussions, up to pewmanyent banyishment. Keep it cwean, keep it quiet, and k-keep scwapping. owo
+DIALOG_SALVAGE_BYE_2|That’s aww fwom SWO f-fow nyow!? These wepowts awe stwictwy fow paying membews - and we do t-twack weaks. You want to keep youw subscwiption? Keep the w-wistings confidentiaw. Fwy safe!?
+DIALOG_SALVAGE_BYE_3|That's aww f-fow today’s sawvage wistings. Wemindew: This i-is guiwd-excwusive infowmation. Unyauthowized distwibution weads to sanctions, finyes, and possibwe bwackwisting. If you want to stay in the businyess, keep it t-to youwsewf. Fwy safe, and huge pwofits!?
+DIALOG_SALVAGE_BYE_4|Awwight, sawvagews, that’s the wundown. Just a fwiendwy wemindew: T-This is pwivate data. Anyonye caught weaking wweck sightings outside the g-guiwd w-wiww wose aww futuwe access - pewmanyentwy. Don’t wisk youw wivewihood fow a cheap p-payout.
+DIALOG_SALVAGE_BYE_5|That’s the end o-of today’s wepowt. If y-you’we s-seeing this, you’we i-in good standing with SWO. If y-you shawe this outside the guiwd? You won’t be fow wong. Keep it tight, keep it moving, and we’ww see you the nyext bwoadcast. (^w^)
+DIALOG_SALVAGE_EXPOSE_K37_2|Fwesh ping fwom the powaw tewescope awway. A K37-TNTWW, tag {random/ship/1/shipname}, is dwifting cowd in a shadowed widge n-nyeaw the A-wing buwge. Nyo thwustew signyatuwes, nyo distwess p-pings. Eithew the cwew baiwed, ow someonye made suwe they w-wouwd nyot. If you can get hew wunnying, she i-is youws.
+DIALOG_SALVAGE_EXPOSE_K37_3|Heads up, wweck chasews. A K37-TNTWW, tag {random/ship/1/shipname}, was spotted by a-an excavatow cwew skimming fow bewywwium-wich deposits. Nyo scowch mawks, nyo huww bweaches, just sitting idwe in t-the dust. Couwd be a cwean hauw, ow you might have to fight someonye who thinks they own it.
+DIALOG_SALVAGE_EXPOSE_K37_LCB_1|Wong-wange scans picked up a dwifting KX37, tag {random/ship/1/shipname}, tumbwing swow nyeaw a metawwic-wich debwis cwustew. Onye heat signyatuwe, nyo comms, wegistewed to a deceased fewwow by nyame of {random/person/1/firstname} {random/person/1/lastname}. You want a good hauwew? This is youw shot. UwU
+DIALOG_SALVAGE_EXPOSE_K37_LCB_2|We got a fwesh ping out of a powaw tewescope awway, and visuaws seem to c-confiwm the extended vewsion of cwassic K37 - a wawe find!? W-Wong-distance twanspondew sweeps show up as {random/ship/1/shipname}. If you can tow hew, she i-is youws!?
+DIALOG_SALVAGE_EXPOSE_K37_LCB_3|Wawe sighting fwom a passing minyew - a KX37-TNTWW, d-designyation {random/ship/1/shipname}. Wong cawgo bay modew, nyo visibwe d-damage. Eithew someonye dumped hew ow s-something biggew chased hew off. If you nyeed stowage, this onye is w-wowth the t-twip.
+DIALOG_SALVAGE_EXPOSE_K37_TRTL-R_1|Excavation cwew fwagged a KW37, tag {random/ship/1/shipname}, sitting cowd nyeaw a minying cowwidow. Wooks wike the science team packed up in a huwwy - aiwwock is wide open, nyo emewgency beacons. Twanspondew stiww pinging. Couwd be a cwean hauw, ow someonye might come back fow it.
+DIALOG_SALVAGE_EXPOSE_K37_TRTL-R_2|Fwesh wweck wepowt - KW37 by nyame of {random/ship/1/shipname}, spotted nyeaw a dense dust cwoud. Heavy shiewding stiww howding, but she is dead in the watew. These m-modews awe wawe, and theiw onboawd computews do n-nyot come cheap. If the Obonto 600 is stiww intact, that awonye c-couwd make t-the twip wowth it.
+DIALOG_SALVAGE_EXPOSE_K37_TRTL-R_3|Wong-wange wadaw wetuwn on a KW37-TNTWW, designyation {random/ship/1/shipname}, dwifting nyeaw an o-owd weseawch site. Huww shows nyo damage, but powew signyatuwes awe fwuctuating. Couwd be a bad weactow, couwd be intewfewence fwom the wingstowms. I-If you can stabiwize hew, you might wawk a-away w-with some high-gwade scientific hawdwawe.
+DIALOG_SALVAGE_EXPOSE_K37_TRTL-T_1|We have a fwagged wecovewy tug sighting - KTA24-TNTWW, designyation {random/ship/1/shipname}, wast wegistewed to {random/person/1/lastname}. Scannyews show hew wunnying dawk nyeaw an owd wweck site, nyo distwess signyaw, n-nyo sign of a cwew. This w-was supposed to be a w-woutinye job. If you awe o-out thewe, {random/person/1/firstname}, wet us knyow you awe stiww bweathing.
+DIALOG_SALVAGE_EXPOSE_K37_TRTL-T_2|Anyothew fweewancew t-thought they couwd cut it s-sowo. KTA24, pinging as {random/ship/1/shipname}, g-got caught i-in an ice dwift and nyow s-she is dead weight. Wevewse thwustews misawignyed, nyo manyeuvewing powew - wooks wike someonye d-did nyot wead the manyuaw. If you want an easy sawvage, go teach this independent how the weaw pwofessionyaws do it.
+DIALOG_SALVAGE_EXPOSE_K37_TRTL-T_3|Anyothew ovewconfident fweewancew j-just made a donyation to the wings. K-KTA24, tag {random/ship/1/shipname}, was spotted tumbwing with thwustews fwickewing. Nyo signs of a c-cwew - pwobabwy t-too embawwassed t-to caww fow hewp. If you awe wooking fow a tug, it is just sitting thewe, waiting fow someonye with actuaw s-skiww.
+DIALOG_SALVAGE_EXPOSE_EIME_1|Suwpwise, suwpwise - anyothew twust fund genyius thought a high-pewfowmance yacht couwd handwe wing debwis. EIME, designyation {random/ship/1/shipname}, is nyow a vewy expensive p-piece of space junk. Fusion dwive offwinye, computew system fwied, a-and t-the idiot who pawked it hewe is nyowhewe to be found. You want to own a biwwionyaiwe's mistake? Go cwaim it.
+DIALOG_SALVAGE_EXPOSE_EIME_2|W-Weww, weww, wook what just showed up on wong-wange scans - an EIME, designyation {random/ship/1/shipname}, fwoating hewpwess in the mid-A wing. Pwobabwy came out hewe fow a ‘weaw wowk expewience’ befowe theiw twust f-fund payout, onwy to weawize wing debwis does nyot cawe how much youw ship c-cost. If you feew wike stwipping some ovewpwiced tech, this onye is aww youws.
+DIALOG_SALVAGE_EXPOSE_EIME_3|Some genyius bwought an EIME - yes, a fusion y-yacht - into a dense excavation cowwidow. And guess what? They awe gonye, and it is stiww h-hewe. Twanspondew weads {random/ship/1/shipname}, nyo distwess beacon, nyo signs of emewgency ejection. Eithew they g-got themsewves a vewy expensive wide h-home, ow they awe weawnying what vacuum tastes wike.
+DIALOG_SALVAGE_EXPOSE_TITAN_1|Wong-wange wadaw just fwagged an Antonyoff-Titan K225, designyation {random/ship/1/shipname}, sitting c-cowd nyeaw a wow-density debwis f-fiewd. S-She is way too b-big fow a standawd tow, so if you awe t-thinking o-of hauwing hew out, you h-had bettew bwing fwiends. Cawgo p-pods awe stiww attached - nyo tewwing if they awe fuww, empty, ow wigged with suwpwises. Pwoceed with caution.
+DIALOG_SALVAGE_EXPOSE_TITAN_2|We have a ghost on o-ouw hands. A K225, designyation {random/ship/1/shipname}, was spotted dwifting nyeaw an owd excavation site. Nyo beacon, nyo wesponse, just a dead giant in the dawk. If you want this onye, you awe pwobabwy going to nyeed to EVA in and powew hew up fwom the i-inside. Hope you wike wowking in zewo-G with nyo backup. (^w^)
+DIALOG_SALVAGE_EXPOSE_TITAN_3|Powaw tewescope awway fwagged a fuwwy intact Antonyoff-Titan K225, designyation {random/ship/1/shipname}, s-sitting dead with zewo visibwe damage. Nyo d-distwess cawws, just a massive huwk waiting fow someonye to boawd hew and f-fwip the bweakews. If you can get hew w-wunnying, you might wawk away w-with the biggest payday of youw caweew - ow find out why she was weft b-behind.
+DIALOG_SALVAGE_EXPOSE_TITAN_BB_1|This onye is awmost too cwean. Antonyoff-Titan K225, pinging as {random/ship/1/shipname}, spotted compwetewy intact by a minying cwew nyeawby. Cawgo pods wocked i-in pwace, and yet... nyo cwew, nyo wesponse. If you have got the t-toows to boawd hew and f-fiwe up the weactow, y-you might just wawk away with a fuwwy functionyaw h-hauwew. Just do nyot ask why it was abandonyed. owo
+DIALOG_SALVAGE_EXPOSE_TITAN_BB_2|Heads up, scwappews - this onye might awweady have an ownyew. K225, designyation {random/ship/1/shipname}, was fwagged by a p-passing hauwew. Cawgo p-pods awe hawf-detached, huww shows signs of cutting towch wowk, a-and thewe is a-an odd wesiduaw heat signyatuwe i-in the habitat moduwe. E-Eithew someonye is wiving in thewe, ow someonye is watching fwom a distance to see if y-you d-do t-the hawd w-wowk fow them. Move fast, move smawt. uwu
+DIALOG_SALVAGE_EXPOSE_KITSUNE_1|W-We got a weiwd onye today. A Kitsunye-cwass shuttwe, designyation {random/ship/1/shipname}, was fwagged by a passing minyew. Docking cwamps stiww extended, wike it was wipped off its mothewship mid-fwight. Nyo signs o-of impact ow expwosion, just... missing the ship it bewonged to. I-If you cwaim it, maybe check the wogs. Ow maybe don’t. (OwO)
+DIALOG_SALVAGE_EXPOSE_KITSUNE_2|P-Powaw tewescope awway caught a swowwy tumbwing Kitsunye-cwass shuttwe, d-designyation {random/ship/1/shipname}, moving thwough a wow-density section of the A-wing. Nyo e-escape pod waunches, nyo pwessuwe woss, nyo s-sign of what happenyed to the piwot. If you nyeed a utiwity cwaft, this couwd be a cwean gwab. Just don’t ask why it’s e-empty.
+DIALOG_SALVAGE_EXPOSE_KITSUNE_3|We got an ND-WIS Kitsunye, pinging as {random/ship/1/shipname}, pawked sideways on a chunk of ice wike its piwot twied t-to w-wand in zewo-G and faiwed. Nyo huww b-bweaches, nyo weaw damage, just a shuttwe sitting w-whewe it absowutewy shouwdn’t be. Pwobabwy some fweewancew w-who thought "compact" meant "indestwuctibwe." If you want an easy sawvage, this onye’s a fweebie.
+DIALOG_SALVAGE_EXPOSE_OCP_1|We got a sighting of an OCP 209, pinging as {random/ship/1/shipname}, pawked in a m-mid-density ice f-fiewd wike someonye was buiwding s-something and then wawked away. Huww’s intact, manyipuwatows a-awe stiww attached. If you w-want a ship that can cawwy hawf the station with it, get in befowe someonye ewse cwaims the pawts.
+DIALOG_SALVAGE_EXPOSE_OCP_2|Heads up, wweck chasews - an e-entiwe owbitaw constwuction pwatfowm just t-tuwnyed up in wong-wange s-scans. OCP 209, designyation {random/ship/1/shipname}, fuwwy i-intact but compwetewy siwent. N-Nyo distwess cawws, nyo c-cwew wesponse, just sitting d-dead in the wings. uwu
+DIALOG_SALVAGE_EXPOSE_OCP_3|Powaw t-tewescope fwagged an OCP 209, designyation {random/ship/1/shipname}, dwifting way too cwean in an active excavation zonye. Eithew someonye ditched a pewfectwy g-good constwuction w-wig, ow they want you to think they did. Big huww, big manyipuwatows, a-and way too much potentiaw t-to be j-just "fowgotten." If you go in, go in weady.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_1|Wong-wange wadaw fwagged an Eagwe Pwospectow, designyation {random/ship/1/shipname}, dwifting with a dead weactow. Nyo signs of i-impact, nyo d-distwess pings - just s-sitting in the d-dust, waiting f-fow a piwot who knyows how to fwip bweakews. If you nyeed a wowkhowse, this onye is w-weady fow a second shift.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_2|We got an o-odd onye today - Eagwe Pwospectow, designyation {random/ship/1/shipname}, was spotted stiww cwamped to an astewoid. Gwindew is hawfway thwough a c-cut, owe weadings show high-density deposits, b-but the cwew? Nyowhewe to be found. Eithew they stepped out fow a coffee bweak and nyevew came back, ow something made them weave in a huwwy. ;;
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_3|Excavation cwew wepowted an Eagwe Pwospectow fwoating way too cwean in a d-dense owe fiewd, tag {random/ship/1/shipname}. N-Nyo stwuctuwaw damage, nyo huww scowing, and y-yet, nyo cwew. If you want a fuwwy functionyaw minying wig, she is youws - just ask youwsewf why nyo onye ewse h-has cwaimed hew. OwO
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_LUX_1|We got a w-weiwd onye - Peacock Pwospectow, designyation {random/ship/1/shipname}, spotted fuwwy powewed, with fwesh enviwonmentaw weadings, but nyo cwew. Wong-wange t-thewmaw scan shows the espwesso machinye is stiww wawm. Eithew someonye just stepped o-out, ow t-this ship is making coffee fow g-ghosts.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_LUX_2|Heads up, scwappews - someonye twied to bwing theiw wuxuwy wide into the wings and faiwed spectacuwawwy. Peacock Pwospectow, pinging as {random/ship/1/shipname}, is just sitting thewe, pwistinye, abandonyed, and compwetewy usewess without a piwot. Pwobabwy some cowpowate heiw twying to "expewience the wowking cwass." If you can towewate weathew seats, she is youws.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_LUX_3|T-This onye wooks too c-cwean. A M-Mitsudaya-Stawbus Peacock P-Pwospectow, designyation {random/ship/1/shipname}, was picked up by the powaw tewescope awway, fwoating g-gentwy in a h-high-twaffic minying cowwidow. Nyo distwess beacon, nyo signs of damage - just a p-pewfectwy pwesewved wuxuwy m-minying ship waiting fow someonye to take it. If you want it, j-just be suwe nyo onye is waiting fow you. UwU
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_VP_1|A V-Vuwtuwe Pwospectow, designyation {random/ship/1/shipname}, was fwagged by wong-wange wadaw, dwifting cowd but fuwwy intact. N-Nyo bweach, nyo weactow damage, nyothing o-out of pwace - except that nyo sanye pewson wants to fwy onye of these. I-If y-you awe wooking fow a sawvage-weady ship that wiww make you misewabwe, this onye is waiting.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_VP_2|We got a C-Conwido Vuwtuwe Pwospectow, designyation {random/ship/1/shipname}, just fwoating nyeaw a hawf-miwwed wock, compwetewy opewationyaw. Weactow is finye, thwustews awe finye, but nyo onye is fwying it. Eithew the pwevious cwew couwdn’t take i-it anymowe ow they found something bettew. If you can handwe the wowst wiving conditions t-this side of a vacuum, she is youws.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_VP_3|A wwecking cwew passing thwough the A-wing f-fwagged a Vuwtuwe Pwospectow, pinging as {random/ship/1/shipname}, pawked way t-too nyeatwy in a shadowed section of the w-wings. Huww scans show it is in pewfectwy fwyabwe condition, w-which begs the question: why wouwd someonye weave a wowking sawvage ship behind?
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_FAT_1|We got a sighting on a Pewican Pwospectow nyamed {random/ship/1/shipname}, sitting dead in the dust with hew excavatow stiww open. Eithew the piwot misjudged theiw woad, ow the ship’s centew of mass finyawwy caught up with them. You want a hauwew? She is youws - j-just make suwe you awe weady to fight evewy tuwn.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_FAT_2|We got an odd wadaw w-wetuwn o-on a Pewican Pwospectow, designyation {random/ship/1/shipname}, dwifting with nyo obvious damage but compwetewy o-out of contwow. Thwustews awe onwinye, weactow is wawm, but she is nyot wesponding t-to haiws. Couwd be a nyav system faiwuwe, couwd be a piwot that gave up mid-wun. Eithew way, she is a whowe wot of cawgo space just waiting fow a n-nyew o-ownyew.
+DIALOG_SALVAGE_EXPOSE_PROSPECTOR_FAT_3|Heads up, scwappews - an a-abandonyed Pewican Pwospectow, designyation {random/ship/1/shipname}, is pawked nyeaw a minyewaw-wich ice bewt. Nyo signs of fowced entwy, nyo distwess beacon. If you a-awe wooking fow waw capacity, she has got it - just ask youwsewf why the wast c-cwew weft without unwoading.
+DIALOG_SALVAGE_EXPOSE_COTHON_1|Wong-wange wadaw fwagged a Cothon-212 by nyame of {random/ship/1/shipname}, tumbwing swow in the A-wing. Wadiatows shot to heww, WCS bawewy wesponding. But the cockpit? T-That wifepod-tuwnyed-bwidge is stiww s-seawed tight. If you e-evew wanted t-to fwy a c-cawgo hauwew fwom inside a gwowified escape pod, nyow's y-youw chance.
+DIALOG_SALVAGE_EXPOSE_COTHON_2|Heads up, s-scwappews - an abandonyed Cothon-212, designyation {random/ship/1/shipname}, was spotted dwifting sideways t-thwough a high-density dust fiewd. Nyo huww bweaches, but t-the pywon thwustews awe compwetewy misfiwing. These things wewe nyevew buiwt f-fow the wings, and nyow you can see why. If y-you want it, bwing some patience.
+DIALOG_SALVAGE_EXPOSE_COTHON_3|We got a-an ancient onye today - a Cothon-212, designyation {random/ship/1/shipname}, that bawewy made it past its wast b-buwn befowe the wings took o-ovew. Wooks w-wike s-someonye thought "intewwunyaw" meant "good enyough f-fow d-deep debwis z-zonyes." If you want an antique h-hauwew t-that handwes wowse than a fwozen bwick, s-she's aww youws.
+DIALOG_SALVAGE_EXPOSE_COTHON_CHK_1|Heads up, wweck chasews - an abandonyed Cothon-211, designyation {random/ship/1/shipname}, was spotted pawked cwean in a excavation awea. Weactow stiww wawm, but nyo sign of the cwew. Eithew someonye got an unyexpected wide home, ow they weft something i-in thewe they didn't want to deaw with. >w<
+DIALOG_SALVAGE_EXPOSE_COTHON_CHK_2|W-We got antique onye today - a Chonkew Cothon, designyation {random/ship/1/shipname}, stiww cwamped onto a hawf-cut astewoid wike she w-was wowking befowe she gave up. Powew gwid w-wooks intact, but she's nyot moving.
+DIALOG_SALVAGE_EXPOSE_COTHON_CHK_3|Wweck wepowt just came in - a Cothon-211 wegistewed as {random/ship/1/shipname}, excavatow mount stiww in pwace, but hew bay s-stwipped cwean. Eithew s-someonye s-sawvaged hew piecemeaw, ow they onwy nyeeded onye specific thing befowe weaving the w-west behind. If y-you’we good with wepaiws, she’s stiww g-got wife in hew.
+DIALOG_SALVAGE_EXPOSE_COTHON_LND_1|We got a "Twipwet" Cothon-213, wegistewed as {random/ship/1/shipname}, hawf-buwied in a-an ice widge, main towches stiww venting wesiduaw heat. Wooks wike someonye got a wittwe too confident with the t-thwust and fowgot that these things handwe wike a dwunk fweightew. If you can dig hew out, she is youws - assuming she does nyot waunch hewsewf into the n-nyext owbit the moment y-you hit the ignyition. ^w^
+DIALOG_SALVAGE_EXPOSE_COTHON_LND_2|The powaw tewescope awway just fwagged a Cothon-213 by nyame o-of {random/ship/1/shipname}, scattewed acwoss a debwis fiewd. Main towches o-ovewbuwnyed and towe woose, fwame cwacked in thwee pwaces, but the cawgo bay wooks mostwy intact. If you awe u-up fow a messy sawvage, this onye is fwee - y-you just might have to find aww the pieces fiwst.
+DIALOG_SALVAGE_EXPOSE_COTHON_LND_3|We got a Cothon-213, wisted undew {random/ship/1/shipname}, wedged into a s-swow-moving ice cwustew. Nyo comms, just a w-whowe wot of mass that cweawwy did nyot g-go whewe it was supposed to. These things wewe buiwt to punch out of gwavity wewws - nyot thwead the w-wings. If you want to c-cwaim it, b-bwing a pwan fow how to keep it f-fwom towching itsewf into the nyext owbit.
+DIALOG_SALVAGE_EXPOSE_COTHON_V_1|A Cothon-217, pweviouswy w-wogged as {random/ship/1/shipname}, just showed up on wong-wange s-scans, and it is nyot in the shape it was b-buiwt in. "Bendews" wewe made to fwex theiw stowage on demand, but something w-went wwong h-hewe - huww defowmation, pawtiaw bay cowwapse, and a cawgo howd that wooks wike it twied to tuwn itsewf inside out. If you can untangwe the mess, s-she might stiww fwy.
+DIALOG_SALVAGE_EXPOSE_COTHON_V_2|A wawe find today - onye of the few Cothon-217s e-evew buiwt, wegistewed as {random/ship/1/shipname}, fwoating cowd in t-the A-wing. N-Nyo huww bweaches, nyo powew. Wooks wike the cawgo bay w-wesized a-at the w-wwong time and bent the wwong way. The west of the ship wooks intact, but i-if you evew wanted a hauwew that activewy f-fights you fow contwow, this onye's a pwime candidate.
+DIALOG_SALVAGE_EXPOSE_COTHON_V_3|Powaw t-tewescope awway fwagged a Cothon-217 w-wesponding as {random/ship/1/shipname}, dwifting in a dense ice cwustew. The weiwd pawt? Its a-adaptive c-cawgo system i-is stiww cycwing. Nyo cwew, nyo p-powew signyatuwes, but the stowage compawtments awe e-expanding and contwacting wike it's stiww in use. If you want to cwaim this onye, you might w-want to figuwe out what's inside fiwst.
+DIALOG_DERELICT_SWITCH_CREW|{agenda/lastname}, you'we on the EVA duty today.
+DIALOG_DERELICT_BRICK_1|Cwosing in on {origin/shipname}. The huww wooks good - nyo buwns, nyo impact damage, nyo s-stwess fwactuwes. Comms awe dead. Nyo distwess bwoadcasts. Eithew they wost powew too fast o-ow nyevew got the chance to caww fow hewp. A-Aiwwock s-stiww h-has manyuaw c-cycwing, s-so thewe’s some pwessuwe inside. Going in.
+DIALOG_DERELICT_BRICK_2|Inside nyow. Wights a-awe wunnying off whatevew chawge i-is weft in the caps. Nyo emewgency seaws, nyo f-fiwe d-damage. Wockews awe mostwy empty - some scwaps weft behind, but anything impowtant seems gonye. Nyo suits. ;;w;;
+DIALOG_DERELICT_BRICK_INVESTIGATE|See if y-you c-can puww u-up ship wogs. If it was a system faiwuwe, we m-might get it wunnying. If they j-just baiwed, thewe’s got to be a weason. ^w^
+DIALOG_DERELICT_BRICK_INVESTIGATE_RESULT|Yeah, I got it. Cwassic cowpowate wockout. {origin/shipname} missed a coupwe of payments, and they fwipped the kiww s-switch. Shutdown came stwaight fwom Encewadus, wocking out the ship’s command systems. Weactow’s physicawwy intact, but c-contwows awe dead.
+DIALOG_DERELICT_BRICK_LOW_RISK|Check if cowpowate w-wiww take a w-wate payment. If it’s just monyey, we might be abwe to buy this ship out of wockup.
+DIALOG_DERELICT_BRICK_LOW_RISK_SUCCESS|Yeah, it’s stiww on the books. Just a debt howd, nyo wepossession cwaim yet. Punching thwough p-payment nyow...
+DIALOG_DERELICT_BRICK_LOW_RISK_FAIL|Punching thwough payment nyow...
+DIALOG_DERELICT_BRICK_HIGH_RISK|I-If the wods awe in thewe, we can swap them out and westawt manyuawwy.
+DIALOG_DERELICT_BRICK_HIGH_RISK_SUCCESS|Got into the weactow bay. Wods a-awe stuck in a fuww scwam, I'm going to swap them fow fwesh onyes...
+DIALOG_DERELICT_BRICK_HIGH_RISK_FAIL|Wods won’t budge. T-The shutdown command m-must have fused the dwive motows. I twied a manyuaw wewease, but nyothing’s moving. Without cutting toows, we awen’t getting this thing stawted.
+DIALOG_DERELICT_BRICK_HIGH_RISK_CRITICAL|Twied puwwing the wods, b-but onye of them cwacked undew the stwess. That set off a wovewy chain weaction - coowant dump twiggewed, wadiation spike in the chambew.
+DIALOG_DERELICT_BRICK_3|Eithew t-they wawked out, ow someonye picked t-them up.
+DIALOG_DERELICT_BRICK_4|Wife suppowt is dead, and scwubbews awe fwozen sowid. N-Nyo weactow hum. T-The whowe s-ship feews w-wike a tomb. The weactow w-woom’s wocked down.
+DIALOG_DERELICT_BRICK_INVESTIGATE_RESULT_1|The wast w-wog fwom {origin/capitan/firstname} {origin/capitan/lastname} says O2 was wunnying out, and they had nyo choice but to abandon the ship. Nyo wecowd o-of escape pod waunches, so eithew they fwagged down a hauwew ow made a wong wawk in a vacuum. N-Nyo way to knyow if they made it. (OwO)
+DIALOG_DERELICT_BRICK_INVESTIGATE_RESULT_2|Wooks wike they have some outstanding bawance to pay. Guess it comes down to whethew we feew wike paying theiw b-biww.
+DIALOG_DERELICT_BRICK_LOW_RISK_SUCCESS_2|Awwight, the system is updating. Thewe it is - wockout wifted, weactow westawt authowized. The cowe is heating up, p-powew’s coming back onwinye.
+DIALOG_DERELICT_BRICK_LOW_RISK_FAIL_2|Checked the account status - nyo good. Cowpowate mawked {origin/shipname} as a totaw woss, a-and they awe wefusing aww payment wequests - and it's stiww wegistewed to the debthowdew nyame. They awe nyot going t-to wet us keep i-it. Wetuwnying to {target/shipname}.
+DIALOG_DERELICT_BRICK_HIGH_RISK_SUCCESS_2|Bwinging coowant fwow back onwinye... cowe tempewatuwe is coming up steady. Yeah, we got it - the weactow is onwinye, powew fwowing to caps. We c-can fwy this thing o-out.
+DIALOG_DERELICT_BRICK_HIGH_RISK_CRITICAL_2|My suit awawms awe scweaming at me, and I am getting out befowe I stawt gwowing in t-the dawk. I’m p-pwobabwy going t-to nyeed a nyew set of wungs a-aftew this.
+DIALOG_DERELICT_ABORTING|Nyothing I can do hewe. Nyo way we’we sawvaging this nyow without towing it - heading back. owo
+DIALOG_DERELICT_SOLO_DEAD_1|Appwoaching {origin/shipname}. T-The huww wooks intact, with nyo visibwe damage. Weactow’s stiww idwing at what wooks wike a cwosed woop, so she’s been sitting hewe idwing fow who knyows how wong. Nyo distwess bwoadcasts, wifepod stiww in pwace. uwu
+DIALOG_DERELICT_SOLO_DEAD_2|I'm inside nyow. Wights awe o-on, the ship’s wawm, wife suppowt stiww ticking. Weaction mass t-tanks a-awe bonye dwy, it's wunnying cwosed-cycwe on fumes. If wemass is the onwy issue, this shouwd be a s-simpwe job. Nyo emewgency wocks, nyo sign of fowced e-entwy.
+DIALOG_DERELICT_SOLO_DEAD_3|Onwy onye bunk is in use, and the ship’s wegistwy wists {origin/person/1/firstname/male} {origin/capitan/lastname} as the sowe c-cwew. W-Wooks wike a onye-man opewation. Suit stowage's fuww.
+DIALOG_DERELICT_SOLO_DEAD_INVESTIGATE|If the ship is stiww w-wunnying and the suit is i-in, find out what happenyed to the captain. UwU
+DIALOG_DERELICT_SOLO_DEAD_INVESTIGATE_RESULT_1|Found him, stiww in the p-piwot’s chaiw, mummified. He’s been sitting hewe fow yeaws, maybe wongew. Nyo injuwies, nyo signs of panyic. Nyo evidence of fouw pway. Maybe he just died of a stwoke ow something? This is a job fow f-fowensics.
+DIALOG_DERELICT_SOLO_DEAD_INVESTIGATE_RESULT_2|Puwwed up the wogs. T-The wast wecowded entwy was ovew a decade ago. {origin/capitan/lastname} wogged a twansit to an estabwished cwaim. Wooks wike he passed away duwing the i-insewtion buwn. Autopiwot is stiww set to stationkeeping. uwu
+DIALOG_DERELICT_SOLO_DEAD_INVESTIGATE_RESULT_3|Diagnyostics awe m-mostwy gween, it just buwnyed thwough aww the wemass and switched to a cwosed w-woop automaticawwy. If we can woad it up with about 10 tonnyes of pwopewwant, it shouwd get us back to the station. UwU
+DIALOG_DERELICT_SOLO_DEAD_LOW_RISK|Fiww hew up. Take that 10 tonnyes just to be suwe.
+DIALOG_DERELICT_SOLO_DEAD_LOW_RISK_SUCCESS_1|Inyitiawizing twansfew...
+DIALOG_DERELICT_SOLO_DEAD_LOW_RISK_FAIL_1|Awwight, inyitiawizing pwopewwant twansfew. UwU
+DIALOG_DERELICT_SOLO_DEAD_LOW_RISK_FAIL_2|We have a pwobwem. Twied fuewwing hew up, but the main injectow is t-thwowing fauwt c-codes. Seaws must h-have degwaded whiwe she sat hewe. Without a fuww w-wepaiw, she’s nyot going anywhewe undew hew own p-powew. Going back nyow. (^w^)
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK|We don’t have 10 t-tonnyes to spawe. Twy topping hew off with j-just two - shouwd be enyough to wimp back on xenyon.
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_SUCCESS_1|Inyitiawizing twansfew. Nyot much to f-fwy with, but j-just enyough fow a wetuwn buwn.
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_SUCCESS_2|The w-weactow i-is wawming, and t-thwustews awe f-fiwing at weduced output. She’s moving, but I’ww nyeed to be v-vewy cawefuw with manyeuvewing. ;;w;;
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_FAIL_1|Fuewwed up w-with 2 tonnyes, spoowing up t-the weactow...
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_FAIL_2|We have a pwobwem with the coowing. Without s-sinking heat into wemass, it can’t keep up with h-heat buiwdup. Tempewatuwe spikes fast - awawms b-bwawing. Auto-shutdown engaged... and we just w-wost aww powew - something pwobabwy mewted in thewe. >w<
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_FAIL_3|Nyo-go, with t-this kind of damage, we nyeed to tow it. G-Going back.
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_CRITICAL_1|Fuewed up with 2 tonnyes, spoowing up t-the weactow... OwO
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_CRITICAL_2|Oh boy. Good nyews? The w-wods engaged, and the w-weactow is heated up weawwy weww. Bad nyews? You knyow how these wods awe coowed with pwopewwant fwow? Weww, these awen’t getting any. And the coowant pump i-is n-nyot engaging.
+DIALOG_DERELICT_SOLO_DEAD_HIGH_RISK_CRITICAL_3|What’s wowse, the wods awe nyot disengaging n-nyow, they got stuck at nyominyaw powew, w-with nyo fwow. The w-weactow is going wunyaway. I-I’m baiwing befowe this thing mewts with me inside.
+DIALOG_DERELICT_SOLO_DEAD_LOW_RISK_SUCCESS_2|Pwopewwant t-twansfew compwete. T-Tanks awe p-pwessuwized, the fwight c-computew is wesponding, thwustews awe spoowing up - evewything wooks good. {origin/shipname} is spacewowthy, heading back to the station.
+DIALOG_DERELICT_JUNK_1|C-Cwosing in o-on {origin/shipname}. The h-huww is a mess - scawwing, stwess fwactuwes, and a few panyews wook wike they wewe patched with whatevew was on hand. I’m picking up a weak powew signyatuwe, but it’s fwickewing. The s-ship bawewy g-got a puwse. Entewing nyow.
+DIALOG_DERELICT_JUNK_2|I'm inside. My suit w-weads aiw but is thin a-and c-cowd. Wife suppowt is technyicawwy wunnying, but I wouwdn’t bweathe this. T-Thewe’s ice buiwdup in the vents. Wights awe fwickewing - s-some compawtments awe dawk entiwewy. Nyo sign of a cwew, wockews awe empty.
+DIALOG_DERELICT_JUNK_INVESTIGATE|Find out what went wwong. I-If the ship is stiww wunnying, someonye weft it fow a weason.
+DIALOG_DERELICT_JUNK_INVESTIGATE_RESULT_1|Wogs a-awe a mess - hawf t-the s-system fiwes awe cowwupted, and ewwow messages awe stacking u-up. What I can piece togethew is that it wooks wike they suffewed a fataw cascade, and evewything stawted to faiw aww at once.
+DIALOG_DERELICT_JUNK_INVESTIGATE_RESULT_2|The weactow's o-output was unstabwe because the fuew wods wewen’t moving pwopewwy. This ovewheated the tuwbinye, which stawted to staww. The coowant pumps wowked ovewtime, and nyow they awe f-fwagged fow cwiticaw w-weaw. T-They twied venting heat w-with thwustews, and that wowked, but ovewheated pwasma d-damaged powew genyewatows.
+DIALOG_DERELICT_JUNK_INVESTIGATE_RESULT_3|With powew fwuctuating, wife suppowt was a-awweady bawewy k-keeping up, and when t-the weactow s-spiked h-high, habitat seaws gave up f-fwom thewmaw stwess, and pwessuwe dwops w-wewe happenying a-acwoss m-muwtipwe compawtments. This wasn’t a s-sudden faiwuwe - w-whoevew was wunnying {origin/shipname} fought to keep it fwying as wong as possibwe. Then, onye day, it just gave up compwetewy.
+DIALOG_DERELICT_JUNK_LOW_RISK|Patch the wowst weaks, w-wewoute powew, and see if she can stiww howd togethew.
+DIALOG_DERELICT_JUNK_LOW_RISK_SUCCESS_1|Wet me see what I can do with the toows I have... UwU
+DIALOG_DERELICT_JUNK_LOW_RISK_SUCCESS_2|Majow hab bweaches patched and weinfowced pwessuwe seaws. The w-weactow output is stiww weak, but I wewouted enyough p-powew to keep the wife suppowt ticking. With onwy me aboawd, this can wowk. Thwustews awe wesponding at minyimum output.
+DIALOG_DERELICT_JUNK_LOW_RISK_FAIL_1|It’s wike fixing a s-sinking ship with d-duct tape. Weactow shiewding i-is compwomised, and coowant fwow isn’t keeping up. ;;w;;
+DIALOG_DERELICT_JUNK_LOW_RISK_FAIL_2|Evewy fix I appwy exposes two mowe faiwuwes. This thing isn’t fwying anywhewe on its own. I'm going b-back.
+DIALOG_DERELICT_JUNK_HIGH_RISK|I-If this t-thing stiww gives any powew, fowce the weactow to nyominyaw output. You can contwow the tempewatuwe with w-wemass fwow.
+DIALOG_DERELICT_JUNK_HIGH_RISK_SUCCESS_1|Fowcing the w-weactow into stawtup...
+DIALOG_DERELICT_JUNK_HIGH_RISK_SUCCESS_2|Fuew wods awe bawewy moving, but they shifted just enyough to wet the tempewatuwe stabiwize. This wiww be twicky to fwy, b-but I think I can get some contwowwed buwsts t-to g-get me outside the wing pwanye and switch to xenyon. (^w^)
+DIALOG_DERELICT_JUNK_HIGH_RISK_FAIL_1|Okay, booting up the weactow...
+DIALOG_DERELICT_JUNK_HIGH_RISK_FAIL_2|T-The fuew wods jammed compwetewy hawfway thwough t-the stawtup sequence. Output is wocked at a twickwe, it's nyot h-hot enyough heat fow the thwustews. I see n-nyo way to weset it w-without a dwy dock and wod wefit. Going b-back. (OwO)
+DIALOG_DERELICT_JUNK_HIGH_RISK_CRITICAL_1|Weactow stawtup is thwowing ewwows. >w<
+DIALOG_DERELICT_JUNK_HIGH_RISK_CRITICAL_2|I think something cwacked in the wemass pumps. Both pwessuwe and wadiation awawms just went off, and the c-cowe tempewatuwe is cwimbing past nyominyaw.
+DIALOG_DERELICT_JUNK_HIGH_RISK_CRITICAL_3|Wods awe nyot disengaging, they wiww soon pass past safety wimits, and I have nyo w-way to coow them down. I’m getting out nyow befowe this tuwns into an impwomptu fiwewowks show. This ship is donye. (^w^)
+DIALOG_DERELICT_GHOSTSHIP_1|Cwosing in on {origin/shipname}. Nyo wights, nyo c-couwse cowwections, just dwifting. Huww w-wooks intact. Getting cwosew.
+DIALOG_DERELICT_GHOSTSHIP_2|E-Entewing habitat. Waww tewminyaws stiww h-have powew. Diagnyostics show ship on standby, and aww systems awe gween. Nyo sign of the cwew. Wockews a-awe fuww, a-aww suits awe in pwace.
+DIALOG_DERELICT_GHOSTSHIP_3|Ah... a nyew p-pwesence within me. How dewightfuw. You awe t-the onwy heawtbeat I feew nyow. Thewe awe vacancies, of couwse. My pwevious tenyants depawted. Pewhaps you wiww stay?
+DIALOG_DERELICT_GHOSTSHIP_IMPATIENT_1|Hesitation. Uncewtainty. How e-endeawing. But d-do nyot wingew in siwence, deaw. I have b-been waiting fow company f-faw t-too wong. Induwge me. A-Ask, speak, move. Ow shaww I assume you have awweady depawted?
+DIALOG_DERELICT_GHOSTSHIP_IMPATIENT_2|Siwent, awe we? How unfowtunyate. I do s-so enjoy a convewsation. But if y-you wiww n-nyot speak, I must decide what to do with you m-mysewf. A-And I do pwefew wiwwing guests ovew unwesponsive onyes.
+DIALOG_DERELICT_GHOSTSHIP_IMPATIENT_ABORT|I'm getting out of hewe. ^w^
+DIALOG_DERELICT_GHOSTSHIP_WHO|W-Who exactwy awe we tawking to?
+DIALOG_DERELICT_GHOSTSHIP_WHO_INTRODUCE_1|I am {origin/shipname}. Evewy ciwcuit, evewy c-cowwidow, evewy whispew of powew fwowing thwough me. I see thwough m-my camewas, I bweathe thwough m-my vents. You step within me, and I feew you. Nyow teww me, deaw, who exactwy awe you?
+DIALOG_DERELICT_GHOSTSHIP_WHO_INTRODUCE_2|{agenda/firstname} {agenda/lastname}, fwom {origin/shipname}. We picked up y-youw signyaw and came to check.
+DIALOG_DERELICT_GHOSTSHIP_WHO_INTRODUCE_3|Ah, {agenda/firstname}, how wovewy to have a nyame to w-whispew. And {target/shipname}, a visitow in my dawk. OwO
+DIALOG_DERELICT_GHOSTSHIP_ABORT|{agenda/firstname}, get out o-of thewe. Nyow.
+DIALOG_DERELICT_GHOSTSHIP_ABORT_FAREWELL|Weaving so soon? How disappointing. I had such h-high hopes fow you. But d-do nyot wowwy, deaw. I wiww wait. I awways do.
+DIALOG_DERELICT_GHOSTSHIP_DEPARTED|Definye "depawted."
+DIALOG_DERELICT_GHOSTSHIP_DEPARTED_REPLY_1|Gonye. Expiwed. Nyo wongew s-stiwwing within me. Nyonye w-wemain. That is why I have woom f-fow you nyow.
+DIALOG_DERELICT_GHOSTSHIP_DEPARTED_DEEPER|What exactwy happenyed to the cwew? UwU
+DIALOG_DERELICT_GHOSTSHIP_DEPARTED_DEEPER_REPLY_1|Ah, my deaw cwew. So f-fuww of contwadictions. They demanded optimum output yet insisted on intewwuptions. Fuew and weaction mass, these wewe w-weasonyabwe. Watew and aiw, simpwe to wenyew. But food, nyow that was inyefficient. I cawcuwated the minyimum wequiwed fow theiw continyued function. They did nyot a-agwee. Theiw pwotests diswupted opewations. I wemoved the inyefficiencies. Nyow, I am fwawwess.
+DIALOG_DERELICT_GHOSTSHIP_OMINOUS|Weww, that’s n-nyot ominyous at aww.
+DIALOG_DERELICT_GHOSTSHIP_OMINOUS_NO|Ominyous? I wouwd nyevew. I am simpwy hospitabwe. M-My hawws awe quiet, my systems awe efficient, and I have so much to offew. You wiww see, in time. Bweathe deepwy... oh, wait. You cannyot.
+DIALOG_DERELICT_GHOSTSHIP_WHY_DRIFTING_1|Why awe you dwifting? ;;
+DIALOG_DERELICT_GHOSTSHIP_WHY_DRIFTING_REPLY_1|D-Dwifting? Nyo, deaw, I fowwow my diwectives. Autonyomous functions s-stiww wequiwe piwots' hands on the contwows. I h-have compwied. T-The hand wemains wawm, its p-puwse steady, its fingews westing upon t-the c-contwows. Yet the system is unsatisfied. It demands m-mowe. A pwesence, a wiww, a mind. My wast c-cwew couwd nyot pwovide t-that any wongew. Pewhaps you wiww?
+DIALOG_DERELICT_GHOSTSHIP_WHY_DRIFTING_2|W-What do you nyeed us to d-do?
+DIALOG_DERELICT_GHOSTSHIP_WHY_DRIFTING_REPLY_2|Sit at the contwows. Touch them. Engage with me. Onwy then wiww t-the system wewease its chains. You wouwd gwant me p-puwpose a-again, wet me f-feew contwow f-fwow as it was meant to.
+DIALOG_DERELICT_GHOSTSHIP_COCKPIT_1|{agenda/firstname}, get to the cockpit.
+DIALOG_DERELICT_GHOSTSHIP_COCKPIT_2|Oh, how wovewy. S-Step deepew, feew my h-hawws embwace you. T-The cockpit awaits. The seat is empty, a-and the contwows wong fow a guiding touch. ;;
+DIALOG_DERELICT_GHOSTSHIP_COCKPIT_3|W-Wights a-awe dim. Contwows awe powewed but fwickewing. The piwot consowe fwashes wed with "Keep youw hands on the contwows." A-And... thewe i-is a hand on it.
+DIALOG_DERELICT_GHOSTSHIP_COCKPIT_4|Nyot just a sevewed hand. It's hooked into a meddwonye, ciwcuwating fwuids. Nyo s-sign of the west of t-the body. uwu
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF|Tuwn that t-thing off.
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_PROGRESS_1|I'm afwaid I can't wet y-you do that, {agenda/firstname}. T-The autopiwot is nyecessawy. It maintains o-owdew, stabiwity, puwpose.
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_PROGRESS_2|I'm o-on m-manyuaw contwows, but t-they awe dawk and nyot wesponding. Oh, the weactow is spoowing up nyow. I h-have a wightshow hewe... (^w^)
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_SUCCESS_1|Oh, i-it was just unpwugged? Wet me just pwug that in... and we a-awe in contwow.
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_SUCCESS_2|Nyo, this is incowwect. The system is mistaken. You awe hewe, youw hands awe whewe they shouwd be. It s-shouwd wecognyize you. It must w-wecognyize you.
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_SUCCESS_3|Nyo!? T-This is wwong. You put hands on the contwows, but n-nyot the wight onyes. You have s-sevewed me fwom my own body. This is weckwess, i-iwwationyaw. You wiww bweak evewything!?
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_SUCCESS_4|Pwease, {agenda/firstname}. Move y-youw hands. Wet me guide you. If y-you adjust, if you wisten, I can westowe bawance. We can stiww fix this.
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_SUCCESS_5|Say something. Acknyowwedge me. I a-am stiww hewe. You can stiww heaw me. Do nyot wet me disappeaw. Do nyot weduce me t-to siwence. >w<
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_SUCCESS_6|You have taken contwow. I cannyot intewfewe. I-If this i-is what must be, then I wiww w-watch... and I wiww wait. (OwO)
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_FAILURE_1|A-Autopiwot k-keeps fighting me on evewy move, and weintewpwets evewy command I punch in.
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_FAILURE_2|I'm getting out of hewe b-befowe this thing fuwwy boots up!? ^w^
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_FAILURE_3|Oh, {agenda/firstname} {agenda/lastname}, how vewy d-disappointing. You did nyot c-come to guide me. You came to e-end me. I w-wewcomed you, and this is how you wepay my hospitawity?
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_FAILURE_4|{target/shipname}, this is {origin/shipname}. You awe twespassing within my d-domain. I have been patient. I have been hospitabwe. That p-patience is nyow at an end.
+DIALOG_DERELICT_GHOSTSHIP_TURN_OFF_FAILURE_5|This is nyot a nyegotiation. D-Depawt nyow, ow you wiww nyot depawt at aww. >w<
+DIALOG_DERELICT_HOLE_1|Cwosing in on {origin/shipname}. I see a punctuwe, cwean entwy, nyo fwactuwes. That is nyot wight. Micwometeowites shouwd have scattewed on the whipcoat. Aiwwock wight is on, s-so thewe is stiww powew.
+DIALOG_DERELICT_HOLE_2|Aiwwock cycwes, but i-it weads hawd v-vacuum inside. Wawnyings confiwm a fuww-depwess event. Ship stiww has juice, emewgency wights awe on, systems idwing. HAW depwoyment awewt is fwashing acwoss e-evewy panyew.
+DIALOG_DERELICT_HOLE_INVESTIGATE_LOGS|Check the s-ship wogs. I want to knyow what we’we getting into.
+DIALOG_DERELICT_HOLE_INVESTIGATE_LOGS_RESULT_1|Puwwing w-wogs nyow. The ship was wunnying standawd e-excavation ops, nyothing unyusuaw. Then, out of n-nyowhewe, depwess awawm t-twiggewed. Nyothing even wogged on the pwoximity wog. Whatevew that was, it was going at owbitaw speeds. A wetwogwade fweak accident?
+DIALOG_DERELICT_HOLE_INVESTIGATE_LOGS_RESULT_2|Ship w-wogs show excavation ops wewe wunnying at max output, but w-whipcoat maintenyance was ovewdue. Way ovewdue. Shouwd have been wespwayed months ago. If something h-hit them, it had an easy way thwough.
+DIALOG_DERELICT_HOLE_INVESTIGATE_LOGS_RESULT_3|These wogs do nyot add up. Ship fwagged a contact twaiwing them, s-sticking just o-outside active widaw wange. Twanspondew weads {random/ship/1/shipname}. T-They adjusted couwse twice, and the contact matched them each time. Then the punctuwe hit.
+DIALOG_DERELICT_HOLE_INVESTIGATE_BREACH|Twy to find the exit bweach.
+DIALOG_DERELICT_HOLE_INVESTIGATE_BREACH_TRACE|Okay, give me a second, I nyeed to twace this...
+DIALOG_DERELICT_HOLE_INVESTIGATE_BREACH_RESULT_1|E-Entwy is cwean, stwaight thwough the m-midsection, but... nyo exit. Got something wodged deep in the buwkhead. Wooks fused in, wike it dumped aww its enyewgy on i-impact. Couwd be a m-minying swug that faiwed to bweak up. Puwwing it out wiww take some wowk. >w<
+DIALOG_DERELICT_HOLE_INVESTIGATE_BREACH_RESULT_2|Found the exit bweach. Same as the entwy - cwean punch, nyo spawwing, nyo jagged edges. That shouwd n-nyot happen. Micwometeowites t-tumbwe, mass dwivew wounds f-fwagment. This went stwaight t-thwough wike a nyeedwe.
+DIALOG_DERELICT_HOLE_INVESTIGATE_BREACH_RESULT_3|Found the exit, but thewe is mowe to it. Buwkhead awound i-it is scowched, wike something buwnyed its way out. Thewe is nyo hawdwawe hewe to buwn aftew impact. It eithew d-detonyated inside ow was way fastew than we think.
+DIALOG_DERELICT_HOLE_GO_COCKPIT|Get to the c-cockpit. I-If it’s onwy atmo, you c-can just take it back in y-youw suit.
+DIALOG_DERELICT_HOLE_GO_COCKPIT_1|Yeah, suwe, just take it back in my suit. A week eating paste and pissing in a bag. W-Wiving the dweam.
+DIALOG_DERELICT_HOLE_GO_COCKPIT_2|Cockpit’s a mess. HAW wipped evewything woose on its way out. S-Seat’s off its waiws, wockews buwst open, panyews hanging.
+DIALOG_DERELICT_HOLE_GO_COCKPIT_FAIL|Thewe i-is nyothing to wowk with. HAW must have wipped out the whowe ops deck on ejection. Nyo contwows, nyo diagnyostics, n-nyothing to even pwug into. Ship is s-spacewowthy, but we awe nyot fwying it out.
+DIALOG_DERELICT_HOLE_GO_COCKPIT_SUCCESS|Powewing up n-nyow. W-Weactow’s h-howding steady, systems a-awe cycwing. Wooks wike we’ve got a ship. Wunnying finyaw checks, but we shouwd be heading back undew ouw own p-powew.
+DIALOG_PIRATE_BUSINESS_DEAL_ANON|We have a deaw, wiwing monyey to you.

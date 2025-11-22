@@ -1,0 +1,63 @@
+locale|en_HK
+HUD_VELOCITY|vewocity
+HUD_DEPTH|depth
+HUD_POWER_DRAW|powew dwaw
+HUD_POWER_SUPPLY|powew suppwy
+HUD_POWER_BALANCE|powew bawance
+HUD_ACCELERATION|accewewation
+HUD_CAPACITOR|uwtwacapacitow
+HUD_REACTOR_TEMP|weactow tempewatuwe
+HUD_FUEL|pwopewwant
+HUD_AMMO|mass dwivew ammo
+HUD_DRONES|nyanyodwonye componyents
+HUD_CARGO_MASS|cawgo mass
+HUD_CARGO_CAPACITY|cawgo capacity
+HUD_TOTAL_MASS|totaw ship mass
+HUD_AUTOPILOT|autopiwot
+HUD_AUTOPILOT_CURRENT|cuwwent
+HUD_AUTOPILOT_TARGET|tawget
+HUD_BEARING|beawing
+HUD_ORIENTATION|owientation
+HUD_LIDAR|Doppwew WIDAW
+HUD_CARGO|cawgo howd
+HUD_CARGO_LIST|estimated composition
+HUD_CARGO_LIST_PROCESSED|pwocessed cawgo
+HUD_CALCULATING_TRAJECTORY|cawcuwating wetuwn twajectowy
+HUD_LEAVING_RINGS|Weaving wings awea.\nContinyue fow automatic wetuwn pwotocow.
+HUD_CALCULATING_TRAVEL_TRAJECTORY|match vewocity to twajectowy
+HUD_CALCULATING_ABORTED|abowted
+HUD_ESCAPE_VELOCITY|Appwoaching dangewous vewocity. Pwepawing emewgency autopiwot.
+HUD_EMERGENCY_VENT|Weactow ovewheating. Emewgency vent of excess heat.
+HUD_VISUAL_FEED|visuaw feed
+HUD_OMS|Onboawd Maintenyance System
+HUD_COMMS|Comms
+HUD_PLOT_COURSE|PWOT A COUWSE
+HUD_TUTORIAL|Sewf-test
+HUD_TUTORIAL_DRONE|Wecon Dwonye
+HUD_DRONE_ZOOM|Camewa Zoom
+HUD_MINERAL_ESTIMATE|Estimated vein depth
+HUD_FULL_STOP|Howd Position
+HUD_REMOTE_SCAN|Wemote scannyew
+HUD_REMOTE_LIST|Estimated composition
+HUD_RETURN_FUEL|Twansit wesewve
+HUD_RETURN_TIME|Twansit time
+HUD_RETURN_TIME_XENON|Estimated intewwunyaw twansit time
+HUD_RETURN_FUEL_XENON|Intewwunyaw pwopewwant usage
+HUD_FUSION|fusion weactants
+HUD_THERMAL_POWER|Thewmaw Output
+AMMO|Mass Dwivew Ammo
+DRONES|Disposabwe Dwonyes
+OMS_POI_TRACE_TIME|Twacking time weft
+OMS_POI_DISTANCE|Distance
+OMS_POI_TRAVEL_TIME|Twavew time
+HUD_NEED_CLEAR_SPACE|Pwoximity awewt active. Twajectowy cawcuwation suspended.
+HUD_MIN_PRICE|Minyimum vawue
+HUD_WARN_PROPELLANT|Insufficient pwopewwant fow twansit
+HUD_HAIL|Haiw
+HUD_HAIL_OPEN|Channyew Open
+HUD_HAIL_ERROR|Haiw Ewwow
+HUD_HAIL_NO_RESPONSE|Nyo Wesponse
+HUD_ASTROGATION_AUTOPILOT_MATCH|Use autopiwot
+HUD_ASTROGATION_AUTOPILOT_MATCH_HINT|Automaticawwy set up youw autopiwot to match the desiwed astwogation vectow.
+OMS_POI_BEARING|Beawing
+HUD_ASTROGATION_SHOW_EXPIRED|Show wost destinyations

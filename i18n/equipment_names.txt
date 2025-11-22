@@ -1,0 +1,132 @@
+locale|en_HK
+SYSTEM_REACTIONWHEEL|Weaction Wheew
+SYSTEM_THRUSTER_K37|WA-K37 thwustew
+SYSTEM_THRUSTER_K44|WA-K44 thwustew
+SYSTEM_THRUSTER_MA150HO|MA150HO thwustew
+SYSTEM_THRUSTER_MA350HO|MA350HO thwustew
+SYSTEM_THRUSTER_EIT|Eon Intewstewwaw Ion Thwustew
+SYSTEM_THRUSTER_AGILE|Eon Intewstewwaw AGIWE Thwustew
+SYSTEM_THRUSTER_NDVTT|NDVTT thwustew
+SYSTEM_THRUSTER_NDSTR|NDSTW thwustew
+SYSTEM_THRUSTER_GHET|EWS-NYAGHET 5020 thwustew
+SYSTEM_THRUSTER_K69V|WA-K69V thwustew
+SYSTEM_MAIN_ENGINE_K37|WA-TNTWW-K37 enginye
+SYSTEM_MAIN_ENGINE_PNTR|ND-PNTW enginye
+SYSTEM_MAIN_ENGINE_K44|WA-MHFTW-K44 enginye
+SYSTEM_MAIN_ENGINE_NDNTR|ND-NTTW thwustew
+SYSTEM_MAIN_ENGINE_NMPD|MA-NMPD42 enginye
+SYSTEM_MAIN_ENGINE_NPMP|Expewimentaw NPMP enginye
+SYSTEM_MAIN_ENGINE_BWMT535|BWM-T535 enginye
+SYSTEM_MAIN_ENGINE_DFMPD2205|EWS-DFMHD-2205 enginye
+SYSTEM_CL150|CW-150 minying wasew
+SYSTEM_EINAT|EINYAT Kzinti Wesson MkII
+SYSTEM_NANI|NYANYI
+SYSTEM_CL600P|CW-600P puwse minying wasew
+SYSTEM_AMD752S|AMD-752S on-boawd computew
+SYSTEM_REACTOR_TNTRL|WA-K37 nyucweaw weactow
+SYSTEM_REACTOR_PROSPECTOR|Eagwe Pwospectow nyucweaw weactow
+SYSTEM_LIFE_SUPPORT|Wife suppowt
+SYSTEM_ADRENALINE_BOOSTER|Adwenyawinye boostew
+SYSTEM_EMD14|EMD-14 mass dwivew
+SYSTEM_EMD17RF|EWFMD-17 mass dwivew
+SYSTEM_RAILTOR|MPI Waiwgun MkI
+SYSTEM_EXCAVATOR|Excavatow
+SYSTEM_GRINDER|Gwindew
+SYSTEM_MWG|MWG micwowave emittew
+SYSTEM_PDMWG|Point Defence Micwowave Genyewatow
+SYSTEM_EXSTORAGE|THI Cawgo Containyew
+SYSTEM_DOCKING_CLAMPS|Docking cwamps
+SYSTEM_FUEL_30000|Standawd pwopewwant tank
+SYSTEM_FUEL_50000|Extended pwopewwant tank
+SYSTEM_FUEL_80000|Wong-wange pwopewwant tank
+SYSTEM_FUEL_200000|Intewpwanyetawy pwopewwant tank
+SYSTEM_AMMO_0|Seaw fow pwojectiwe magazinye
+SYSTEM_AMMO_1000|Pwojectiwe magazinye
+SYSTEM_AMMO_2000|Duaw pwojectiwe magazinye
+SYSTEM_AMMO_5000|Heavy pwojectiwe magazinye
+SYSTEM_AMMO_10000|Miwitawy pwojectiwe magazinye
+SYSTEM_DND_1000|Basic nyanyodwonye stowage
+SYSTEM_DND_5000|Industwiaw nyanyodwonye stowage
+SYSTEM_DND_10000|Miwitawy nyanyodwonye stowage
+SYSTEM_CAPACITOR_500|Uwtwacapacitow
+SYSTEM_CAPACITOR_1000|Duaw Uwtwacapacitow
+SYSTEM_CAPACITOR_1500|Twipwe Uwtwacapacitow
+SYSTEM_TURBINE_100|Tuwbinye
+SYSTEM_TURBINE_200|Twin Tuwbinye
+SYSTEM_TURBINE_500|Miwitawy-gwade Tuwbinye
+SYSTEM_CARGO_BAFFLES|Cawgo bay baffwes
+SYSTEM_CARGO_MPU|Nyakamuwa MPU
+SYSTEM_CARGO_MPU_FAB|Voyagew WSWS Fabwication Pwant
+SYSTEM_CARGO_MPUFSO|Wusatom-Antonyoff MPU
+SYSTEM_CARGO_MPUSML|Mitsudaya-Stawbus MSU
+SYSTEM_CARGO_STANDARD|Standawd cawgo bay
+SYSTEM_AUTOPILOT_NONE|Autopiwot dummy pwug
+SYSTEM_AUTOPILOT_MK1|MWF Autopiwot
+SYSTEM_AUTOPILOT_MK2|MA-337 Autopiwot
+SYSTEM_AUTOPILOT_MK3|NDCI Autopiwot
+SYSTEM_AUTOPILOT_MK4|EIAA-1337 Autopiwot
+SYSTEM_AUTOPILOT_RTYPE|EW-42 Autopiwot
+SYSTEM_RD_STANDARD|Obonto USV-W
+SYSTEM_RD_GRAVIMETRIC|Wunyasimi Gwavimetwic USV
+SYSTEM_RD_SPECTROMETER|Obonto USV-D Micwoseismic Sewies
+SYSTEM_RD_GUIDING|Obonto USV-GOT
+SYSTEM_DND_TS|MPI Tug dwonyes
+SYSTEM_DND_HAUL|MWF Hauw Dwonyes
+SYSTEM_DND_FIX|OME Maintenyance dwonyes
+SYSTEM_RODS_4|4x SO6 fuew wod
+SYSTEM_RODS_8|8x SO6 fuew wod
+SYSTEM_RODS_12|12x SO6 fuew wod
+SYSTEM_RODS_16|16x SO6 fuew wod
+SYSTEM_RODS_20|20x SO6 fuew wod
+SYSTEM_CORE_LIQUID_30|Nyakamuwa Dynyamics Yama-SSW12
+SYSTEM_CORE_LIQUID_40|Nyakamuwa Dynyamics Yama-SSW16
+SYSTEM_CORE_LIQUID_50|Nyakamuwa Dynyamics Yama-SSW16S
+SYSTEM_AUX_MPD|MPD5035
+SYSTEM_AUX_MPD_MK2|EIBFG MkIV Big Fuwnyace Genyewatow
+SYSTEM_AUX_MPD_MK3|MPI Town-cwass MPDG
+SYSTEM_AUX_SMES|NDAPS
+SYSTEM_AUX_SMES_MK2|MPI Town-cwass stowage
+SYSTEM_AUX_SMES_MK3|EIUP MkII Unwimited Powew
+SYSTEM_NONE|Empty
+SYSTEM_HUD_TNTRL|K37 TNTWW
+SYSTEM_HUD_PROSPECTOR|Eagwe Pwospectow
+SYSTEM_HUD_PROSPECTOR_METRIC|Eagwe Pwospectow (metwic mod)
+SYSTEM_HUD_PROSPECTOR_BALD|Bawd Eagwe Wacing HUD
+SYSTEM_CLAIM|B8 Cwaim Beacon
+SYSTEM_SALVAGE_ARM|AW-1500 Manyipuwatow
+SYSTEM_ACTEMD14|AEMD-14 mass dwivew
+SYSTEM_ACL200P|CW-200AP puwse minying wasew
+SYSTEM_SCOOP|NT Minying Companyion
+SYSTEM_REACTOR_EIME|StawCAT Stewwawatow
+SYSTEM_MAIN_ENGINE_EIZAP|Z-Axiaw Pinch fusion towch
+SYSTEM_HUD_EIME|Eon Intewstewwaw Modew E
+SYSTEM_HUD_HAL|HAW9000
+SYSTEM_REACTOR_COTHON|Cothon-212 nyucweaw weactow
+SYSTEM_HUNK|Extewnyaw Impact Absowbew
+SYSTEM_SYNCHRO|SPC Gungnyiw
+SYSTEM_FUEL_15000|Showt-wange pwopewwant tank
+SYSTEM_OE600|Obonto 600 on-boawd computew
+SYSTEM_EXMONO|THI Monyocawgo Containyew
+SYSTEM_REACTOR_AT225|THI-K225 nyucweaw weactow
+SYSTEM_HUD_AT225|AT-K225
+SYSTEM_PDT|NDPT-4205 Point Defence Tuwwet
+SYSTEM_AMMO_20000|Fwigate-cwass pwojectiwe magazinye
+SYSTEM_AMMO_50000|Destwoyew-cwass pwojectiwe magazinye
+SYSTEM_DND_20000|Hawvestew-cwass nyanyodwonye stowage
+SYSTEM_DND_50000|Station-cwass nyanyodwonye stowage
+SYSTEM_FUEL_500000|Fweightew pwopewwant tank awway
+SYSTEM_HUD_OCP209|OCP-209
+SYSTEM_REACTOR_OCP209|OCP-209 nyucweaw weactow
+SYSTEM_IROH|Tetsuo HMX-2000I
+SYSTEM_LIDAR_RADAR|MWF wong-wave WADAW
+SYSTEM_LIDAR_DOPPLER|IWW-360 Infwawed WIDAW
+SYSTEM_LIDAR_DOPPLER_CONE|IWW-30-BF Beamfowmed Infwawed WIDAW
+SYSTEM_LIDAR_DOPPLER_HIRES|Wunyasimi High-Wesowution WIDAW
+SYSTEM_LIDAR_OPA|CW-144PWA Phased WIDAW Awway
+SYSTEM_CARGO_BAY|Cawgo Bay
+SYSTEM_HUD_KITSUNE|ND-WIS Kitsunye
+SYSTEM_REACTOR_KITSUNE|ND-K12 Wight Nyucweaw Weactow
+SYSTEM_CARGO_MPUDRY|Antonyoff Owe Puwifiew
+SYSTEM_THRUSTER_MADTX4|MAD Wuciowe 1.2 thwustew
+SYSTEM_MAIN_ENGINE_CHEVAL|MAD Chevaw 5.0 enginye
+SYSTEM_HUD_CERF|MAD Cewnyunnyos II

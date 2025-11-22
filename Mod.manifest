@@ -1,0 +1,81 @@
+[mod_information]
+id="wt.UwUify"
+name="UwUify"
+description="UwUify_MOD_DESCRIPTION"
+brief="UwUify_MOD_BRIEF"
+author="WT"
+credits=[""]
+
+[version]
+version_major=0
+version_minor=2
+version_bugfix=0
+
+[tags]
+TAG_FUN={"type":"bool","value":true}
+TAG_VISUAL={"type":"bool","value":true}
+TAG_ALLOW_ACHIEVEMENTS={"type":"bool","value":true}
+
+[links]
+HEVLIB_GITHUB={"URL":"https://github.com/1-WT-1/UwUify"}
+HEVLIB_DISCORD={"URL":"https://discord.com/channels/426287934870781952/1442579498934599720"}
+
+[languages]
+en="100%"
+
+[configs]
+UwUify_CONFIG_OPTIONS={
+    "EnableDialogue":{
+        "name":"UwUify_CONFIG_ENABLE_DIALOGUE_NAME",
+        "description":"UwUify_CONFIG_ENABLE_DIALOGUE_DESC",
+        "type":"bool",
+        "default":true
+    },
+    "EnableUI":{
+        "name":"UwUify_CONFIG_ENABLE_UI_NAME",
+        "description":"UwUify_CONFIG_ENABLE_UI_DESC",
+        "type":"bool",
+        "default":true
+    },
+    "EnableEquipment":{
+        "name":"UwUify_CONFIG_ENABLE_EQUIPMENT_NAME",
+        "description":"UwUify_CONFIG_ENABLE_EQUIPMENT_DESC",
+        "type":"bool",
+        "default":true
+    },
+    "EnableShips":{
+        "name":"UwUify_CONFIG_ENABLE_SHIPS_NAME",
+        "description":"UwUify_CONFIG_ENABLE_SHIPS_DESC",
+        "type":"bool",
+        "default":true
+    },
+    "EnableWorld":{
+        "name":"UwUify_CONFIG_ENABLE_WORLD_NAME",
+        "description":"UwUify_CONFIG_ENABLE_WORLD_DESC",
+        "type":"bool",
+        "default":true
+    },
+    "EnableTooltips":{
+        "name":"UwUify_CONFIG_ENABLE_TOOLTIPS_NAME",
+        "description":"UwUify_CONFIG_ENABLE_TOOLTIPS_DESC",
+        "type":"bool",
+        "default":true
+    },
+    "EnableTips":{
+        "name":"UwUify_CONFIG_ENABLE_TIPS_NAME",
+        "description":"UwUify_CONFIG_ENABLE_TIPS_DESC",
+        "type":"bool",
+        "default":true
+    },
+    "EnableTunes":{
+        "name":"UwUify_CONFIG_ENABLE_TUNES_NAME",
+        "description":"UwUify_CONFIG_ENABLE_TUNES_DESC",
+        "type":"bool",
+        "default":true
+    }
+}
+
+[manifest_definitions]
+manifest_version=2.2
+dependancy_mod_ids=["hev.LIBRARY"]
+manifest_url="https://raw.githubusercontent.com/1-WT-1/UwUify/main/Mod.manifest"

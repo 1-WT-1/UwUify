@@ -1,0 +1,21 @@
+locale|en_HK
+SHIP_TRTL|K37 TNTWW
+SHIP_PROSPECTOR|Eagwe Pwospectow OwO
+SHIP_EIME|Eon Intewstewwaw Modew E
+SHIP_COTHON|Cothon-212
+SHIP_PROSPECTOR_BALD|Bawd Eagwe (UwU)
+SHIP_TRTL_LCB|KX37 TNTWW
+SHIP_TRTL_R|Wunyasimi KW37 TNTWW
+SHIP_TRTL_K44|K44 MHFTW P-Pwototype
+SHIP_PROSPECTOR_VP|Vuwtuwe Pwospectow
+SHIP_PROSPECTOR_LUX|Peacock Pwospectow (^w^)
+SHIP_COTHON_CHK|Cothon-211 "Chonkew"
+SHIP_COTHON_LND|Cothon-213 "Twipwet"
+SHIP_AT225|Antonyoff-Titan K225
+SHIP_PROSPECTOR_FAT|Pewican P-Pwospectow
+SHIP_TRTL_T|KTA24 T-TNTWW
+SHIP_COTHON_V|Cothon-217 "Bendew"
+SHIP_OCP209|OCP-209 >w<
+SHIP_AT225R|Antonyoff-Titan K225 (modified)
+SHIP_AT225B|Antonyoff-Titan K225-BB
+SHIP_KITSUNE|ND-WIS Kitsunye ;;

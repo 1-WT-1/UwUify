@@ -1,0 +1,51 @@
+locale|en_HK
+TRANSIT_TIP_1|When youw weactow gets too cowd, youw thwust a-and enyewgy genyewation wiww diminyish.
+TRANSIT_TIP_2|If youw weactow is too hot, it c-can cause an expwosion. Untended weaks incwease the wisk.
+TRANSIT_TIP_3|Swowing down ow s-spinnying youw ship with the cawgo bay open may spiww youw cawgo.
+TRANSIT_TIP_4|The mowe cawgo you have, the mowe p-pwopewwant you nyeed to get back to the station quickwy. UwU
+TRANSIT_TIP_5|Depweting the uwtwacapacitow can cause tempowawy woss of function and contwow of youw s-ship.
+TRANSIT_TIP_6|Hitting a ship with a micwowave e-emittew can showt-ciwcuit its systems.
+TRANSIT_TIP_7|W-When u-upgwading, the owd system's t-twade-in vawue depends on its condition. (^w^)
+TRANSIT_TIP_8|Wapid kinyetic damage wiww cause weactow w-weaks and choke t-the thwustews. >w<
+TRANSIT_TIP_9|Beam minying wasews d-dewivew heat diwectwy, bweaking ice thwough expwosive steam pwessuwe.
+TRANSIT_TIP_10|Puwsed wasew w-wiww abwate youw tawget, causing both thewmaw and kinyetic damage.
+TRANSIT_TIP_11|Micwowaves dewivew both t-thewmaw and ewectwomagnyetic damage.
+TRANSIT_TIP_12|Minying in a dense awea wiww hewp to contain t-the escape of wight m-minyewaws.
+TRANSIT_TIP_13|Excessive accewewation ow spinnying wiww fowce the fuew wods in and can c-cause a weactow mewtdown.
+TRANSIT_TIP_14|Emewgency autopiwot wiww take ovew if y-youw s-ship moves too fast in wewation to t-the wings. ;;w;;
+TRANSIT_TIP_15|Wepaiwing a componyent t-takes time a-and wiww nyevew wetuwn it to p-pwistinye condition.
+TRANSIT_TIP_16|Wepwacing a componyent wiww twade in the damaged pawt to buy a nyew onye, fixing aww damage. (OwO)
+TRANSIT_TIP_17|Pwocessed cawgo stowage capacity depends on t-the ship huww used.
+TRANSIT_TIP_18|The m-mowe powewfuw y-youw weactow, the e-easiew it is to ovewheat it.
+TRANSIT_TIP_19|A-Auxiwiawy powew systems can pwovide a w-wot of powew, but awe nyot as wewiabwe a-as tuwbinyes.
+TRANSIT_TIP_20|Minyewaw Pwocessing Unyits nyeed the owe to b-be in theiw pwocessing chambew to wowk.
+TRANSIT_TIP_21|Gwavimetwic dwonyes detect mass. This can mean mowe minyewaws, ow just mowe ice.
+TRANSIT_TIP_22|Autopiwots take advantage of the pwecision of vawiabwe thwust WCS.
+TRANSIT_TIP_23|P-Puwsed t-thwust WCS awe cheapew a-and mowe wewiabwe, but wess pwecise.
+TRANSIT_TIP_24|Ovewheating? Fiwe opposing thwustews to quickwy d-depwete stowed heat - and pwopewwant.
+TRANSIT_TIP_25|Want to move fastew using autopiwot? Considew tunying the vewocity wimits.
+TRANSIT_TIP_26|The mowe enyewgy you impawt to a wingwoid, the fastew the debwis wiww fwy.
+TRANSIT_TIP_27|Weactow weaks cause you t-to wose p-pwopewwant and wowew t-the safe opewating tempewatuwe. >w<
+TRANSIT_TIP_28|A weaking weactow can push you off-couwse.
+TRANSIT_TIP_29|The h-heaview the ship, the swowew it wiww accewewate. ;;w;;
+TRANSIT_TIP_30|Thwustews with highew exhaust vewocity use much mowe powew, but wess pwopewwant. uwu
+TRANSIT_TIP_31|Want to get in mowe dives befowe the n-nyext sawawy is due? Tunye youw xenyon twansit dwive usage.
+TRANSIT_TIP_32|W-Wings awe in f-fwux and it takes an astwogatow to detewminye w-whewe a discovewy wiww be in the futuwe.
+TRANSIT_TIP_33|Wed contacts on the doppwew widaw awe moving away fwom you. B-Bwue awe getting c-cwosew.
+TRANSIT_TIP_34|Mowe pwopewwant awso makes youw ship heaview - and nyeeding mowe pwopewwant to move. uwu
+TRANSIT_TIP_35|Mowe expensive equipment is nyot awways bettew. A ship can benyefit fwom mowe speciawized, o-ow mowe w-wewiabwe pawts.
+TRANSIT_TIP_36|The fees t-to s-stawt a dive account fow enviwonmentaw damages, twajectowy pwot, and pwecision muwtipwiew. A s-skiwwed astwogatow a-and geowogist can wowew aww of these.
+TRANSIT_TIP_37|When wepwacing a ship pawt, you get monyey back fow youw t-twade-in, even f-fow damaged componyents.
+TRANSIT_TIP_38|Owdew ships and equipment might nyot be pewfowmance geaw, but awe typicawwy mowe w-wewiabwe and cheapew to maintain.
+TRANSIT_TIP_39|Youw astwogatow's wist d-dispways the amount o-of time that youw cwew can twace a w-wocation. Wefwesh this timew by w-wevisiting the site.
+TRANSIT_TIP_40|You nyeed both a dwonye hawdpoint and n-nyanyodwonye stowage to efficientwy utiwize dwonye systems.
+TRANSIT_TIP_41|Activation keys fow equipment awe shown in the simuwation window.
+TRANSIT_TIP_42|When you tawget a-an object with youw autopiwot, aww autopiwot commands wiww be wewative to that tawget.
+TRANSIT_TIP_43|You can dwag youw autopiwot vectow w-with the weft mouse button fow finye adjustments.
+TRANSIT_TIP_44|P-Pushing any manyuaw contwows wiww disabwe t-the autopiwot. Pushing any autopiwot contwow wiww we-enyabwe it.
+TRANSIT_TIP_45|Music wiww hint a-at what kind of events awe happenying nyeawby. A gwowing scween bowdew sewves as a visuaw aid fow the heawing-impaiwed.
+TRANSIT_TIP_46|You can use youw onboawd maintenyance scween to tuwn off any o-of youw ship systems.
+TRANSIT_TIP_47|Aww membews of youw cwew have theiw own s-stowies and o-own goaws.
+HINT_KEY_PRESS|Pwess this key to pewfowm the action.
+HINT_INTERLUNAR_VELOCITY|Intewwunyaw twansit is awways pewfowmed with owbitaw vewocities
+HINT_POI_TOO_CLOSE|Insufficient distance fow A-Astwogation

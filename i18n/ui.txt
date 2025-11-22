@@ -1,0 +1,489 @@
+locale|en_HK
+LANG_OWN_NAME|Engwish
+MENU_NEW|Nyew Game
+MENU_CONTINUE|Continyue
+MENU_SETTINGS|Settinws
+MENU_EXIT|Exit to Desktop
+MENU_JOIN_DISCORD|Join ouw Communyity
+MENU_VIDEO_TUTORIAL|Video Tutowiaw
+CARGO_UNKNOWN|uncwassified
+CARGO_EMPTY|space weft
+CARGO_EQUIPMENT|equipment
+CONFIRM_EXIT|Exit to Desktop?
+CONFIRM_EXIT_GAME_LOST|Exit to Desktop? Unsaved pwogwess wiww be wost.
+CONFIRM_EXIT_TO_MENU|Exit to Main Menyu? Unsaved pwogwess wiww be wost.
+CONFIRM_EXIT_GAME_SAVE|Exit to Desktop?
+CONFIRM_EXIT_TO_MENU_SAVE|Exit to Main Menyu?
+CONFIRM_OVERRIDE_GAME|Dewete cuwwent save game?
+OK|OK
+Cancel|Cancew
+SETTINGS_SAVE|Save settings
+SETTINGS_CANCEL|Cancew
+SETTINGS_FULLSCREEN|Fuww scween
+SETTINGS_MONITOR|Dispway
+SETTINGS_VOLUME_MASTER|Mastew vowume
+SETTINGS_VOLUME_MUSIC|Music vowume
+SETTINGS_VOLUME_SFX|Effects vowume
+SETTINGS_UI_SCALE|HUD size
+SETTINGS_DETAILS|Gwaphics detaiws
+SETTINGS_COLORBLIND_MODE|Cowowbwind mode
+SETTINGS_MODE_OFF|OFF
+SETTINGS_CONTROLS|Contwows
+SETTINGS_SMART_CAMERA|Smawt camewa
+SETTINGS_BLOOM|Bwoom
+SETTINGS_BLOOM_FULL|Bwoom
+SETTINGS_BLOOM_NOHUD|Nyo Bwoom on HUD
+SETTINGS_BLOOM_NONE|Nyo Bwoom
+SETTINGS_CONTROLS_AUTO|Auto
+SETTINGS_CONTROLS_KEYBOARD|Keyboawd + Mouse
+SETTINGS_TUTORIAL|Tutowiaw
+SETTINGS_PIXEL_DOUBLING|Wesowution Scawe
+SETTINGS_GRAPHICS|Detaiws
+SETTINGS_GAMMA|Gamma Cowwection
+PAUSE_RESUME|Wesume game
+PAUSE_EXIT_TO_DESKTOP|Exit to Desktop
+PAUSE_EXIT_TO_MAIN|Exit to Main Menyu
+PAUSE_SAVE_AND_EXIT_TO_DESKTOP|Save and Exit to Desktop
+PAUSE_SAVE_AND_EXIT_TO_MAIN|Save and Exit to Main Menyu
+GAME_OVER|Game Ovew (T_T)
+ENCELADUS_SHIP_REPAIRS|Wepaiws
+ENCELADUS_INSURED_FOR|Insuwed fow
+ENCELADUS_SHIP_TUNING|Tunying
+ENCELADUS_SHIP_UPGRADES|Equipment
+ENCELADUS_SHIP_MARKET|Deawew
+ENCELADUS_RETURN_TO_RING|Waunch Wing Dive
+ENCELADUS_CREW|Cwew
+ENCELADUS_CREW_CURRENT|Youw Cwew
+ENCELADUS_CREW_HIRE|Hiwe
+ENCELADUS_CREW_EFFECTS|Active Cwew Effects
+ENCELADUS_CREW_AVAILABLE|Avaiwabwe Cwew
+ENCELADUS_LOGS|Wogs
+ENCELADUS_MINERAL_MARKET|Minyewaw Mawket
+ENCELADUS_DIVE_OUTPUT|Output
+ENCELADUS_DIVE_STORE|Stowe Minyewaws
+ENCELADUS_DIVE_SELL|Seww aww
+ENCELADUS_ODDITIES|Anyomawies
+ENCELADUS_INSPECTION|Pwe-fwight inspection
+ENCELADUS_DIVE_TARGET|Dive entwy point
+CUTSCENE_RINGS_OF_SATURN|The Wings of Satuwn
+CUTSCENE_ENCELADUS_PRIME|Encewadus Pwime
+DAMAGE_WEAR|Weaw
+DAMAGE_BENT|Misawignment
+DAMAGE_RODS|Fuew wods jammed
+DAMAGE_LEAK|Weactow weak
+DAMAGE_CHOKE|Choke
+DAMAGE_TURBINE|Tuwbinye Gawwing
+DAMAGE_CONNECTION|Fauwty Connyection
+DAMAGE_SHORT_CIRCUIT|Showt Ciwcuit
+DAMAGE_OVERHEAT|Ovewheat
+INSPECTION_OK|OK
+INSPECTION_FAIL|Faiw
+REPAIR_REPLACE|Wepwace
+REPAIR_FIX|Fix
+REPAIR_SYSTEM_STATUS|Condition
+REPAIR_SYSTEM_DAMAGE|Damage:
+REPAIR_DESTROYED|Beyond wepaiw
+UPGRADE_BUY|Buy
+UPGRADE_VIEW|Simuwate
+UPGRADE_VIEW_WARN|This upgwade exceeds the thewmaw ow ewectwic powew pwoduction of youw cwaft. Examinye the simuwation cawefuwwy.
+UPGRADE_REPLACE_BUY|Pwice aftew Twade-in
+UPGRADE_REPLACE_REFUND|Wetuwn fwom Twade-in
+UPGRADE_INSTALLED|Instawwed
+UPGRADE_INSTALL|Instaww
+GARAGE_SWITCH|Switch ship
+GARAGE_SELL|Seww this ship
+GARAGE_OWNED|Ownyed
+SLOT_MAIN|High-Stwess Hawdpoint
+SLOT_AMMO|Kinyetic Ammunyition
+SLOT_PROPELLANT|Pwopewwant Tanks
+SLOT_CAPACITOR|Uwtwacapacitow Awway
+SLOT_TURBINE|Powewpwant
+SLOT_CARGOBAY|Cawgo Bay
+SLOT_AUTOPILOT|Autopiwot
+SLOT_LEFT|Weft Wow-stwess Hawdpoint
+SLOT_RIGHT|Wight Wow-stwess Hawdpoint
+SLOT_LEFT_DRONE|Weft dwonye mount
+SLOT_RIGHT_DRONE|Wight dwonye mount
+SLOT_RCS|Weaction Contwow System
+SLOT_TORCH|Main Pwopuwsion
+SLOT_SENSOR|Sensows
+SLOT_RECON_DRONE|Weconnyaissance Cwaft
+SLOT_DND|Nyanyodwonye Componyents
+SLOT_RODS|Weactow Cowe
+SLOT_AUX_POWER|Auxiwiawy Powew System
+SLOT_HUD|Head-Up Dispway
+CREDITS|Cwedits
+CREDITS_PROGRAMING|Pwogwamming
+CREDITS_MUSIC|Music
+CREDITS_GRAPHICS|Gwaphics
+CREDITS_DESIGN|Design
+CREDITS_STORY|Stowy
+CREDITS_SCIENCE_ADVICE|Science Advisow
+CREDITS_TRANSLATIONS|Twanswation
+CREDITS_BETATESTING|Testing and Quawity Assuwance
+CREDITS_BACKERS|Made possibwe with suppowt of ouw backews
+CERDITS_SPECIAL|Speciaw thanks to
+CREDITS_CC|Cweative Commons Wicence
+LOG_EVENT_DIVE|Wing dive
+LOG_EVENT_REPAIR|Wepaiws
+LOG_EVENT_UPGRADE|Equipment
+LOG_EVENT_SHIP_TRADE|Ships
+LOG_EVENT_TRADE|Twading
+LOG_EVENT_INTERLUNAR|Intewwunyaw twansit
+LOG_EVENT_UNLOADING|Unwoading output
+LOG_EVENT_CREW|Cwew manyagement
+LOG_EVENT_DETAILS_HIRED|Hiwed %s fow %.2f E$
+LOG_EVENT_DETAILS_FIRED|Dismissed %s
+LOG_EVENT_DETAILS_WAGES|Wages paid: %+.2f E$
+LOG_EVENT_DETAILS_COST|Bawance: %+.2f E$
+LOG_EVENT_DETAILS_PROPELLANT|Pwopewwant: %.0f kg
+LOG_EVENT_DETAILS_DRONE|Dwonyes: %.1f kg
+LOG_EVENT_DETAILS_MASSDRIVER|Shots fiwed: %d
+LOG_EVENT_DETAILS_LASER|Wasew fiwed: %.1f s
+LOG_EVENT_DETAILS_MICROWAVE|Micwowave fiwed: %.1f s
+LOG_EVENT_DETAILS_ANOMALY|Anyomawies: %d
+DEALER_TRADE_IN|Twade-in {ship} fow {amount} E$
+CREW_FULLNAME|Nyame
+CREW_OCCUPATION|Occupation
+CREW_EDUCATION|Education
+CREW_EXPERIENCE|Expewience
+CREW_SALARY|Sawawy
+CREW_HIRE|Hiwe
+CREW_FIRE|Dismiss
+CREW_FIRE_CANCEL|Cancew
+CREW_ACTIVE|Active
+CREW_OCCUPATION_PILOT|Piwot
+CREW_OCCUPATION_MECHANIC|Mechanyic
+CREW_OCCUPATION_GEOLOGIST|Geowogist
+CREW_OCCUPATION_ASTROGATOR|Astwogatow
+CREW_EXPERIENCE_NO|Nyo expewience
+CREW_EXPERIENCE_BEGINNER|Beginnyew
+CREW_EXPERIENCE_JOURNEYMAN|Jouwnyeyman
+CREW_EXPERIENCE_EXPERT|Expewt
+CREW_EDUCATION_NO|Sewf-taught
+CREW_EDUCATION_BASIC|Basic
+CREW_EDUCATION_HIGH|High
+CREW_EDUCATION_MASTER|Mastew
+CREW_STATS_ACTIVE|Dive cwew
+CREW_STATS_SALARY|Totaw sawawy
+CREW_STATS_PILOT_ADRENALINE|Adwenyaw swowdown
+CREW_STATS_PILOT_ANTICIPATION|Couwse anticipation
+CREW_STATS_MECHANIC_FIX|Wepaiw wimit
+CREW_STATS_MECHANIC_JURYRIG|Juwy-wig efficiency
+CREW_STATS_GEOLOGIST_PREDICTION|Pwice pwediction accuwacy
+CREW_STATS_GEOLOGIST_RANGE|Minyewaw discovewy wange\t
+CREW_STATS_ASTROGATOR_RANGE|Tacticaw awawenyess wange
+CREW_STATS_ASTROGATOR_TIME|Coowdinyate twacking time
+CREW_SALARY_DUE|Nyext sawawy due
+CREW_LEAVE_UNTIL|On weave untiw
+NOTIFICATION_DISCOVER|Discovewed
+MAP_A_RING|A Wing
+MAP_ENCKE_GAP|Encke gap
+MAP_KEELER_GAP|Keewew gap
+MAP_PRECISSION|Entwy twajectowy pwecision fee
+MAP_FEE_DEPTH|Xasew pathway buwn fee
+MAP_FEE_ENVIRONMENT|Enviwonmentaw damages fee
+MAP_DV|ΔV fow twajectowy
+MAP_RESET|Hohmann twansfew
+MAP_FEE_TOTAL|Totaw waunch fees
+MAP_OPTIMIZE_COST|Optimize twansit costs
+NOTIFICATION_ESTABLISH|Estabwished
+NOTIFICATION_ACQUIRED|Acquiwed
+SETTINGS_FULLSCREEN_BORDERLESS|Bowdewwess window
+SETTINGS_FULLSCREEN_WINDOWED|Window
+SETTINGS_FPS|Physics Simuwation FPS:
+SETTINGS_VSYNC|VSync
+DAMAGE_COILS|Coiws misawignyed
+DAMAGE_COOLANT|Coowant woop choked
+DAMAGE_LASERS|Ignyition wasews wawped
+MAP_ALLOW_DRIFT|Awwow dwift
+SALVAGE_DISPATCHED|Pwopewwant exhausted - Seawch and Wecovewy dispatched
+DEALER_TAB_DESC|Infowmation
+DEALER_TAB_PROMO|Pwomotionyaw
+DEALER_TAB_EXAMINE|Examinye Ship
+CREDITS_MARKETING|Mawketing & PW
+CREDITS_MODS|Mod Suppowt
+CREW_SALARY_PAY|Pay sawawy
+SLOT_LEFT_BACK|Weaw Weft Hawdpoint
+SLOT_RIGHT_BACK|Weaw Wight Hawdpoint
+SETTINGS_FPS_BG|Menyu backgwound FPS:
+SETTINGS_PARTICLES_BACKGROUND|Backgwound Pawticwes
+SETTINGS_PARTICLES_EXPLOSION|Expwosion Pawticwes
+SETTINGS_SHADOWS|Shadows
+SETTINGS_LIGHTS|Wights
+SETTINGS_POSTPROCESSING|Postpwocessing
+SETTINGS_PLUMES|Wocket Pwumes
+SETTINGS_ADAPTIVE_FPS|Dynyamic Tempowaw Simuwation Simpwification
+SETTINGS_HARDWARE_MOUSE|Hawdwawe Mouse
+LOG_EVENT_DETAILS_TRADE_SELL|Sawes: %sE$
+LOG_EVENT_DETAILS_TRADE_BUY|Puwchases: %sE$
+LOG_EVENT_DETAILS_DIALOG_MONEY|Othew income: %sE$
+LOG_EVENT_DETAILS_DIALOG_INSURANCE|Insuwance: %sE$
+LOG_EVENT_DETAILS_SYNCHRO|Synchwotwon dischawges: %.1f GJ
+SETTINGS_ZOOM_SENSITIVITY|Zoom sensitivity
+SETTINGS_MOUSE_SENSITIVITY|Camewa sensitivity
+WARNING_PHOTOSENSITIVITY|A smaww pewcentage of individuaws may expewience epiweptic seizuwes when exposed to cewtain wight pattewns ow fwashing wights.\n\nExposuwe to cewtain pattewns ow backgwounds on a computew scween, ow whiwe pwaying video games, may induce an epiweptic seizuwe in these individuaws. Cewtain conditions may induce pweviouswy undetected epiweptic symptoms even in pewsons who have nyo histowy of pwiow seizuwes ow epiwepsy.\n\nIf you, ow anyonye in youw famiwy, have an epiweptic condition, consuwt youw physician pwiow to pwaying. If you expewience any of the fowwowing symptoms whiwe pwaying a video ow computew game - dizzinyess, awtewed vision, eye ow muscwe twitches, woss of awawenyess, disowientation, any invowuntawy movement ow convuwsions - IMMEDIATEWY discontinyue use and consuwt youw physician befowe wesuming pway.
+SETTINGS_VOLUME_AMBIENT|Ambient Sounds
+SLOT_LEFT_MID|Fwont Weft Wow-stwess hawdpoint
+SLOT_RIGHT_MID|Fwont Wight Wow-stwess hawdpoint
+SETTINGS_CAPTURE_MOUSE|Wock mouse to window
+CREW_OCCUPATION_PASSENGER|Passengew
+SETTINGS_CONVERVE_MEM_OFF|Fast woading
+SETTINGS_CONVERVE_MEM_ON|Consewve video memowy
+SETTINGS_CONVERVE_MEM_AUTO|Automatic video memowy consewvation
+CARGO_UNMARKED|unmawked
+SETTINGS_STREAMING|Don't pause when in the backgwound
+MENU_NEW_GAME_SEED|Pawawwew unyivewse
+MENU_NEW_GAME_OPTS|Nyew Game Options
+MENU_NEW_GAME_STARTING_SHIP|Stawting Ship:
+UPGRADE_SIMULATION|Simuwation
+NOTIFICATION_ACHIEVED|Achievement Unwocked
+ACHIEVEMENT_CASH_1M|Pot of Gowd
+ACHIEVEMENT_DIVING_LICENCE|Diving Wicence
+ACHIEVEMENT_DIVER_10|Divew
+ACHIEVEMENT_DIVER_50|Deep Divew
+ACHIEVEMENT_ENCELADUS|Encewadus Pwime
+ACHIEVEMENT_ESCAPE_VELOCITY|Escape Vewocity
+ACHIEVEMENT_CREW_1|Mannyed Mission
+ACHIEVEMENT_CREW_FULL|Fuww House
+ACHIEVEMENT_SHIP_CAT|Pest Disposaw
+ACHIEVEMENT_FIX_PART|Just hit it with a Hammew
+ACHIEVEMENT_REPLACE_PART|Nyew and Shiny
+ACHIEVEMENT_DISCOVER_MOONLET|This is nyo Moon
+ACHIEVEMENT_DISCOVER_URANIUM|Fissiwe Goods
+ACHIEVEMENT_DISCOVER_ANARCHY|Ganymedean Anyawchy
+ACHIEVEMENT_DISCOVER_PHAGE|Modewn Awtifacts
+ACHIEVEMENT_TOUCH_SINGULARITY|A touch of Singuwawity
+ACHIEVEMENT_LEAF_2|Cwose Caww
+ACHIEVEMENT_LEAF_5|Hawd Buwn
+ACHIEVEMENT_LEAF_20|Weaf on the Wind
+ACHIEVEMENT_RACE|Wace Condition
+ACHIEVEMENT_DISCOVER_DESTROYED_HABITAT|Pawadise Wost
+ACHIEVEMENT_LEVEL_UP|Wevew Up
+ACHIEVEMENT_LEVEL_TOP|Twanscendence
+ACHIEVEMENT_STORY_TESLA|Don't Panyic!
+ACHIEVEMENT_STORY_SING|Sewenye Bawwad
+ACHIEVEMENT_DIVER_ENCKE|Big Emptinyess
+ACHIEVEMENT_DIVER_KEELER|Wost in Space
+ACHIEVEMENT_STORY_HACKER|Hackews in Wondewwand
+ACHIEVEMENT_DISCOVER_FROZEN_BODY|Fwozen fow Etewnyity
+ACHIEVEMENT_STORY_MISSING_BOY|Did You See My Kid?
+ACHIEVEMENT_STORY_G4A_DESTROYED|Death of Ganymede
+ACHIEVEMENT_STORY_BOUNTY_LICENCE|Bounty Huntew
+ACHIEVEMENT_STORY_BBW_DESTROYED|Wowf Hunting
+ACHIEVEMENT_PLAYTIME_SHIP_TRTL_1|Piwot: K37 TNTWW
+ACHIEVEMENT_PLAYTIME_SHIP_TRTL_10|Captain: K37 TNTWW
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_1|Piwot: Eagwe Pwospectow
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_10|Captain: Eagwe Pwospectow
+ACHIEVEMENT_PLAYTIME_SHIP_EIME_1|Piwot: Eon Intewstewwaw Modew E
+ACHIEVEMENT_PLAYTIME_SHIP_EIME_10|Captain: Eon Intewstewwaw Modew E
+ACHIEVEMENT_PLAYTIME_SHIP_COTHON_1|Piwot: Cothon-212
+ACHIEVEMENT_PLAYTIME_SHIP_COTHON_10|Captain: Cothon-212
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_BALD_1|Piwot: Bawd Eagwe
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_BALD_10|Captain: Bawd Eagwe
+ACHIEVEMENT_SPECIAL_XMAS|The magic of Xmas
+ACHIEVEMENT_DIVER_DRAGONS|Hewe, thewe be dwagons
+ACHIEVEMENT_PLAYSTYLE_UNLIMITED_POWER|Unwimited powew!
+ACHIEVEMENT_PLAYSTYLE_BIG_RIG|Big Wig
+ACHIEVEMENT_PLAYSTYLE_BLUE_GOLD|Bwue Gowd
+ACHIEVEMENT_PLAYTIME_CLASS_LASER_1|Wasewmanyia
+ACHIEVEMENT_PLAYTIME_CLASS_EMP_1|Micwo manyagement
+ACHIEVEMENT_PLAYTIME_CLASS_KINETIC_1|Kinyetic
+ACHIEVEMENT_PLAYTIME_CLASS_PLASMA_1|Bweath of Fiwe
+ACHIEVEMENT_PLAYTIME_CLASS_SCOOP_1|With A Wittwe Hewp Fwom My Fwiends
+ACHIEVEMENT_PLAYSTYLE_CRAZYIVAN|Pway Dead
+ACHIEVEMENT_PLAYSTYLE_B8BACK|I'ww be Back
+ACHIEVEMENT_CREW_SHORTCIRCUT|Showt Ciwcuit
+ACHIEVEMENT_DESTROY_RESCUE_SHIP|Who wescues the wescuews?
+ACHIEVEMENT_PLAYSTYLE_INSURANCE|Pwaying it safe
+ACHIEVEMENT_PLAYSTYLE_FIREFLY|Fiwefwy
+ACHIEVEMENT_CASH_1M_DESC|Make youw fiwst miwwion
+ACHIEVEMENT_DIVING_LICENCE_DESC|Get thwough the tutowiaw
+ACHIEVEMENT_DIVER_10_DESC|Weach 10 km into the wings
+ACHIEVEMENT_DIVER_50_DESC|Weach 50 km into the wings
+ACHIEVEMENT_ENCELADUS_DESC|Get back to Encewadus Pwime station
+ACHIEVEMENT_ESCAPE_VELOCITY_DESC|Twiggew emewgency autopiwot wetuwn
+ACHIEVEMENT_CREW_1_DESC|Hiwe a cwewmembew
+ACHIEVEMENT_CREW_FULL_DESC|Man aww the stations on youw ship
+ACHIEVEMENT_SHIP_CAT_DESC|Get a ship's cat
+ACHIEVEMENT_FIX_PART_DESC|Wepaiw youw ship
+ACHIEVEMENT_REPLACE_PART_DESC|Wepwace a pawt with a nyew onye
+ACHIEVEMENT_DISCOVER_MOONLET_DESC|Discovew a Moonwet
+ACHIEVEMENT_DISCOVER_URANIUM_DESC|Discovew Uwanyium Caves
+ACHIEVEMENT_DISCOVER_ANARCHY_DESC|Discovew Ganymedean Anyawchy station
+ACHIEVEMENT_DISCOVER_PHAGE_DESC|Discovew Phage-Cwass station
+ACHIEVEMENT_TOUCH_SINGULARITY_DESC|Touch a Singuwawity Cowe
+ACHIEVEMENT_LEAF_2_DESC|Evade an awmost-cewtain cowwision
+ACHIEVEMENT_LEAF_5_DESC|Skim nyeaw the wingwoids wike a mastew piwot
+ACHIEVEMENT_LEAF_20_DESC|Wash wouwd be pwoud
+ACHIEVEMENT_RACE_DESC|Get access to wacing geaw
+ACHIEVEMENT_DISCOVER_DESTROYED_HABITAT_DESC|Discovew a destwoyed Habitat
+ACHIEVEMENT_LEVEL_UP_DESC|Impwove the wevew of youw cwew
+ACHIEVEMENT_LEVEL_TOP_DESC|Wevew up to maximum wevew
+ACHIEVEMENT_STORY_TESLA_DESC|Find Ewon's caw
+ACHIEVEMENT_STORY_SING_DESC|Wet the Singew Sing
+ACHIEVEMENT_DIVER_ENCKE_DESC|Weach the Encke Gap
+ACHIEVEMENT_DIVER_KEELER_DESC|Weach the Keewew Gap
+ACHIEVEMENT_STORY_HACKER_DESC|Hack a ship
+ACHIEVEMENT_DISCOVER_FROZEN_BODY_DESC|Find a fwozen body
+ACHIEVEMENT_STORY_MISSING_BOY_DESC|Find a missing chiwd
+ACHIEVEMENT_STORY_G4A_DESTROYED_DESC|Destwoy the Ganymedean Anyawchy station
+ACHIEVEMENT_STORY_BOUNTY_LICENCE_DESC|Get a bounty huntews wicense
+ACHIEVEMENT_STORY_BBW_DESTROYED_DESC|Bwow up the Big Bad Wowf
+ACHIEVEMENT_PLAYTIME_SHIP_TRTL_1_DESC|Piwot the K37 TNTWW fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_TRTL_10_DESC|Piwot the K37 TNTWW fow 10 houws
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_1_DESC|Piwot the Eagwe Pwospectow fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_10_DESC|Piwot the Eagwe Pwospectow fow 10 houws
+ACHIEVEMENT_PLAYTIME_SHIP_EIME_1_DESC|Piwot the Eon Intewstewwaw Modew E fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_EIME_10_DESC|Piwot the Eon Intewstewwaw Modew E fow 10 houws
+ACHIEVEMENT_PLAYTIME_SHIP_COTHON_1_DESC|Piwot the Cothon-212 fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_COTHON_10_DESC|Piwot the Cothon-212 fow 10 houws
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_BALD_1_DESC|Piwot the Bawd Eagwe fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_BALD_10_DESC|Piwot the Bawd Eagwe fow 10 houws
+ACHIEVEMENT_SPECIAL_XMAS_DESC|Enjoy the Xmas spiwit on Encewadus Pwime Station
+ACHIEVEMENT_DIVER_DRAGONS_DESC|Fwy 5km into Encke gap
+ACHIEVEMENT_PLAYSTYLE_UNLIMITED_POWER_DESC|Fiwe an SPC Gungnyiw at a fuww chawge (and HIT!)
+ACHIEVEMENT_PLAYSTYLE_BIG_RIG_DESC|Fwy a weawwy, weawwy heavy ship
+ACHIEVEMENT_PLAYSTYLE_BLUE_GOLD_DESC|Gathew 5,000kg of bewywwium in youw pwocessed cawgo howd
+ACHIEVEMENT_PLAYTIME_CLASS_LASER_1_DESC|Fwy with wasews fow ovew 1 houw
+ACHIEVEMENT_PLAYTIME_CLASS_EMP_1_DESC|Fwy with micwowaves fow ovew 1 houw
+ACHIEVEMENT_PLAYTIME_CLASS_KINETIC_1_DESC|Fwy with kinyetic weapons fow ovew 1 houw
+ACHIEVEMENT_PLAYTIME_CLASS_PLASMA_1_DESC|Fwy with pwasma thwowews fow ovew 1 houw
+ACHIEVEMENT_PLAYTIME_CLASS_SCOOP_1_DESC|Fwy with minying companyions fow ovew 1 houw
+ACHIEVEMENT_PLAYSTYLE_CRAZYIVAN_DESC|Tuwn off evewy system on youw ship
+ACHIEVEMENT_PLAYSTYLE_B8BACK_DESC|Use the B8 cwaim Beacon
+ACHIEVEMENT_CREW_SHORTCIRCUT_DESC|Have both a hackew and an AI hatew in the same cwew when confwonted by an AI
+ACHIEVEMENT_DESTROY_RESCUE_SHIP_DESC|Attack and destwoy a wescue ship
+ACHIEVEMENT_PLAYSTYLE_INSURANCE_DESC|Get youw company insuwed fow at weast a miwwion E$
+ACHIEVEMENT_PLAYSTYLE_FIREFLY_DESC|Nyeawwy mewt youw weactow when ovewheating occuws
+ACHIEVEMENT_PLAYSTYLE_MANUAL_DESC|Conduct a 15-minyute fwight by wewying sowewy on manyuaw piwoting technyiques.
+SETTINGS_DIFFICULTY_0|Difficuwty: Peacefuw
+SETTINGS_DIFFICULTY_1|Difficuwty: Bawanced
+SETTINGS_DIFFICULTY_2|Difficuwty: Chawwenging
+PAUSE_CURRENT_PLAYERS|Cuwwentwy pwaying: %d
+ACHIEVEMENT_CASH_10M|Stonks
+ACHIEVEMENT_CASH_10M_DESC|Make 10 miwwion E$
+ACHIEVEMENT_STEAM_PLAYERS_44|And His Nyame Wiww Be Fowty and Fouw
+ACHIEVEMENT_STEAM_PLAYERS_44_DESC|Pway the game when thewe awe mowe than 44 concuwwent pwayews.
+ACHIEVEMENT_STEAM_PLAYERS_303|Squadwon 303
+ACHIEVEMENT_STEAM_PLAYERS_303_DESC|Pway the game when thewe awe mowe than 303 concuwwent pwayews.
+ACHIEVEMENT_DISCOVER_HABITAT|Space Odyssey
+ACHIEVEMENT_DISCOVER_HABITAT_DESC|Discovew a Habitat
+ACHIEVEMENT_PLAYTIME_SHIP_TRTL_0|K37 TNTWW
+ACHIEVEMENT_PLAYTIME_SHIP_TRTL_0_DESC|Get and piwot the K37 TNTWW
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_0|Eagwe Pwospectow
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_0_DESC|Get and piwot the Eagwe Pwospectow
+ACHIEVEMENT_PLAYTIME_SHIP_EIME_0|Eon Intewstewwaw Modew E
+ACHIEVEMENT_PLAYTIME_SHIP_EIME_0_DESC|Get and piwot the Eon Intewstewwaw Modew E
+ACHIEVEMENT_PLAYTIME_SHIP_COTHON_0|Cothon-212
+ACHIEVEMENT_PLAYTIME_SHIP_COTHON_0_DESC|Get and piwot the Cothon-212
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_BALD_0|Bawd Eagwe
+ACHIEVEMENT_PLAYTIME_SHIP_PROSPECTOR_BALD_0_DESC|Get and piwot the Bawd Eagwe
+SETTINGS_CONTROLS_GAMEPAD|Gamepad
+CONTROLS_GAMEPAD_EXCAVATOR|Open Excavatow / Gwindew
+CONTROLS_GAMEPAD_FIRE|Fiwe Weapon
+CONTROLS_GAMEPAD_ZOOM|Zoom In and Out
+CONTROLS_GAMEPAD_TORCH|Manyuaw Main Towch
+CONTROLS_GAMEPAD_ADRENALINE|Adwenyawinye Boostew
+CONTROLS_GAMEPAD_AP_MOVE|Autopiwot Wewative Movement\nPwess fow Absowute\nTap fow wewative stop
+CONTROLS_GAMEPAD_AP_ROTATE|Autopiwot Wotation\nPwess fow Autopiwot Tawget\nTap to disengage Tawget
+CONTROLS_GAMEPAD_GUIDING|Tap when tawgeting fow Guiding Dwonye
+MENU_DLC|Check extwa content!
+LOG_EVENT_DETAILS_DIALOG_EXPENSES|Expenses: %sE$
+ENCELADUS_DOCK_OCCUPIED|Dock OCCUPIED
+ENCELADUS_DOCK_FREE|Dock FWEE
+NOTIFICATION_UPDATE|Updated Coowdinyates
+ACHIEVEMENT_DISCOVER_SPACE_BAR|A wittwe bweak
+ACHIEVEMENT_DISCOVER_SPACE_BAR_DESC|Discovew the Space Baw
+SETTINGS_STUPID_CAMERA|Diwect camewa
+SETTINGS_SMOOTH_CAMERA|Smoothed camewa
+SETTINGS_DOUBLE_TAP|Doubwe-tap sensitivity
+SETTINGS_DOUBLE_TAP_HINT|Tap excavatow contwows twice to keep it open
+SLOT_RIGHT_BAY1|Wight Fwont Docking Bay
+SLOT_RIGHT_BAY2|Wight Middwe Docking Bay
+SLOT_RIGHT_BAY3|Wight Back Docking Bay
+SLOT_LEFT_BAY1|Weft Fwont Docking Bay
+SLOT_LEFT_BAY2|Weft Middwe Docking Bay
+SLOT_LEFT_BAY3|Weft Back Docking Bay
+ACHIEVEMENT_PLAYTIME_SHIP_ATK225_0|Antonyoff-Titan K225
+ACHIEVEMENT_PLAYTIME_SHIP_ATK225_0_DESC|Get and piwot the Antonyoff-Titan K225
+ACHIEVEMENT_PLAYTIME_SHIP_ATK225_1|Piwot: Antonyoff-Titan K225
+ACHIEVEMENT_PLAYTIME_SHIP_ATK225_1_DESC|Piwot the Antonyoff-Titan K225 fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_ATK225_10|Captain: Antonyoff-Titan K225
+ACHIEVEMENT_PLAYTIME_SHIP_ATK225_10_DESC|Piwot the Antonyoff-Titan K225 fow 10 houws
+ACHIEVEMENT_STORY_LOTR_DESTROYED|Wowds of the Wing
+ACHIEVEMENT_STORY_LOTR_DESTROYED_DESC|Destwoy both G4A station and BBW duwing onye game.
+ENCELADUS_SERVICES|Sewvices
+IFF_AUTO|Auto
+IFF_FRIENDLY|Fwiendwy
+IFF_HOSTILE|Hostiwe
+LOG_EVENT_SERVICE|Sewvices
+SETTINGS_FPS_CAP|FPS wimit:
+SETTINGS_NO_LIMIT|Nyo FPS wimit
+SETTINGS_NO_ANIMATION|Nyo backgwound anyimation
+ACHIEVEMENT_STORY_TRUCE|Pawwey
+ACHIEVEMENT_STORY_TRUCE_DESC|Heaw the piwate side of the stowy
+ACHIEVEMENT_STORY_PIRATE_QUEST|Diwty Job
+ACHIEVEMENT_STORY_PIRATE_QUEST_DESC|Get a quest fwom the piwates
+ACHIEVEMENT_STORY_ILLICIT_GOODS|Iwwicit goods
+ACHIEVEMENT_STORY_ILLICIT_GOODS_DESC|Twade with the piwates
+MENU_ROADMAP|Woadmap
+ACHIEVEMENT_SPECIAL_1_MONTH_SAVE|Hewwo Dawknyess My Owd Fwiend
+ACHIEVEMENT_SPECIAL_1_MONTH_SAVE_DESC|Wetuwn to a save a month aftew wast pwaying it.
+ACHIEVEMENT_SPECIAL_NEW_SAVE|Once mowe, with feewing
+ACHIEVEMENT_SPECIAL_NEW_SAVE_DESC|Stawt a nyew save
+ACHIEVEMENT_PIRATE_LIFEPOD|Dead ow Awive
+ACHIEVEMENT_PIRATE_LIFEPOD_DESC|Get a piwate wifepod.
+SETTINGS_GPU_PARTICLES|GPU Pawticwe Effects
+SEPARATOR_DECIMAL|.
+SEPARATOR_THOUSAND|,
+ENCELADUS_OWNED_SHIPS|Fweet
+DAMAGE_ARM_WEAR|Weaw
+DAMAGE_ARM_BENT|Misawignment
+DAMAGE_ARM_OVERHEAT|Ovewheat
+SLOT_MAINLEFT|Weft High-Stwess Hawdpoint
+SLOT_MAINRIGHT|Wight High-Stwess Hawdpoint
+ACHIEVEMENT_PLAYTIME_SHIP_OCP209_0|Obonto OCP-209
+ACHIEVEMENT_PLAYTIME_SHIP_OCP209_0_DESC|Get and piwot the Obonto OCP-209
+ACHIEVEMENT_PLAYTIME_SHIP_OCP209_1|Piwot: Obonto OCP-209
+ACHIEVEMENT_PLAYTIME_SHIP_OCP209_1_DESC|Piwot the Obonto OCP-209 fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_OCP209_10|Captain: Obonto OCP-209
+ACHIEVEMENT_PLAYTIME_SHIP_OCP209_10_DESC|Piwot the Obonto OCP-209 fow 10 houws
+DAMAGE_LASER_BENT|Misawignment
+DAMAGE_LASER_WEAR|Weaw
+DAMAGE_LASER_PUMP|Pump Faiwuwe
+INSPECTION_MAINT|Maintenyance: {left}
+DAMAGE_MWG_WEAR|Weaw
+DAMAGE_MWG_BENT|Misawignment
+DAMAGE_MWG_FOCUS|Wawped dish
+DAMAGE_MASSDRIVER_WEAR|Weaw
+DAMAGE_MASSDRIVER_BENT|Misawignment
+DAMAGE_MASSDRIVER_FOCUS|Wawped bawwew
+ACHIEVEMENT_STORY_INFILTRATE|Inside Job
+ACHIEVEMENT_STORY_INFILTRATE_DESC|Infiwtwate the Ganymedean Anyawchy Station
+SETTINGS_VISUAL_CUE|Music Visuaw Cues
+SETTINGS_ACCESSIBILITY|Accessibiwity
+NOTIFICATION_CRAFT_LOST|Catastwophic Cwaft Faiwuwe
+NOTIFICATION_CRAFT_IN_TRANSIT|Intewwunyaw Twansit Confiwmed
+SETTINGS_FIXED_CAMERA|Fixed camewa
+ENCELADUS_LAUNCH_VR|Minding Viwtuaw Fwight Sewvice
+SETTINGS_SAVE_RESTART|Save and Westawt
+MENU_DLC_CONFIG|Expansion Configuwation
+SLOT_LIDAR|Sensows
+SLOT_MAIN_LOW|Wow-Stwess Spinyaw Hawdpoint
+ACHIEVEMENT_PLAYTIME_SHIP_KITSUNE_1|Piwot: ND-WIS Kitsunye
+ACHIEVEMENT_PLAYTIME_SHIP_KITSUNE_1_DESC|Piwot the ND-WIS Kitsunye fow 1 houw
+ACHIEVEMENT_PLAYTIME_SHIP_KITSUNE_10|Captain: ND-WIS Kitsunye
+ACHIEVEMENT_PLAYTIME_SHIP_KITSUNE_10_DESC|Piwot the ND-WIS Kitsunye fow 10 houws
+ACHIEVEMENT_PLAYTIME_SHIP_KITSUNE_0|Nyakamuwa Dynyamics Wight Intewwunyaw Shuttwe "Kitsunye"
+ACHIEVEMENT_PLAYTIME_SHIP_KITSUNE_0_DESC|Get and piwot the ND-WIS Kitsunye
+SETTINGS_FOOLISH|Adjust settings fow bettew game pewfowmance.
+SETTINGS_SIMULATION_RANGE|Simuwation wange
+SETTINGS_HUD_SIZE_ALREADY_MIN|HUD size adjustments disabwed - scween wesowution is too smaww fow scawing
+ACHIEVEMENT_SALVAGE_1|Wost and Found
+ACHIEVEMENT_SALVAGE_10|Gwaveyawd Shift
+ACHIEVEMENT_SALVAGE_50|Huwwwaisew
+ACHIEVEMENT_SALVAGE_1_DESC|Wecovew a dewewict ship
+ACHIEVEMENT_SALVAGE_10_DESC|Wecovew 10 dewewict ships
+ACHIEVEMENT_SALVAGE_50_DESC|Wecovew 50 dewewict ships
+SETTINGS_REDUCE_FLICKER|Weduce Fwickewing

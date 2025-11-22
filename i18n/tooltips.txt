@@ -1,0 +1,62 @@
+locale|en_HK
+OMS_SYSTEM_TOGGLE_TOOLTIP|Disabwe ow enyabwe this system
+DAMAGE_WEAR_TOOLTIP|Weaw occuws nyatuwawwy by using the enginye.\nIt causes thwustews to misfiwe.\nHigh weaw wiww cause WCS to fiwe ewwaticawwy.
+DAMAGE_BENT_TOOLTIP|Caused by impacts nyeaw the thwustew.\nMisawignyed thwustews wiww fiwe at angwes.
+DAMAGE_RODS_TOOLTIP|Caused by wapid accewewations.\nIncweases time to engage and disengage the weactow and tempewatuwe fwuctuations.\nMay wead to a mewtdown.
+DAMAGE_LEAK_TOOLTIP|Caused by diwect impacts.\nWeaks pwopewwant continyuouswy, wowewing weactow tempewatuwe.\nIncweases wisk of expwosion in high tempewatuwes.
+DAMAGE_CHOKE_TOOLTIP|Caused by diwect impacts.\nChoked thwustews give wess thwust.
+DAMAGE_TURBINE_TOOLTIP|Caused by ovewheating.\nIncweases the tempewatuwe and pwessuwe wequiwed to pwoduce ewectwicity.
+DAMAGE_CONNECTION_TOOLTIP|Caused by impacts.\nSensows disconnyect wandomwy, giving empty weadouts.
+DAMAGE_SHORT_CIRCUIT_TOOLTIP|Caused by EMP damage.\nSensows wiww give fawse weadings.
+DAMAGE_OVERHEAT_TOOLTIP|Caused by high-tempewatuwe damage nyeaw cabin.\nSwows down aww on-boawd computew activity.
+TOOLTIP_SELL_SLIDE|Move swidew wight to buy minyewaws.\nMove swidew weft to seww.\nTicks wepwesent metwic tons.\nSwidew we-scawes to take avaiwabwe funds into account.
+CREW_STATS_PILOT_ADRENALINE_TOOLTIP|When in dangew, the piwot's pewception of time wiww swow down.
+CREW_STATS_PILOT_ANTICIPATION_TOOLTIP|The piwot wiww pwedict the couwse of youw ship and aww suwwounding objects to detewminye if the ship is in dangew of cowwision.
+CREW_STATS_MECHANIC_FIX_TOOLTIP|Extends how much youw mechanyic can wepaiw duwing maintenyance on Encewadus pwime station.
+CREW_STATS_MECHANIC_JURYRIG_TOOLTIP|Changes how faw youw mechanyic can push youw ship systems in the OMS menyu duwing a dive.
+CREW_STATS_GEOLOGIST_PREDICTION_TOOLTIP|Detewminyes accuwacy of pwice pwediction by youw geowogist\n- both on station in Minyewaw Mawket and duwing wing dive.
+CREW_STATS_GEOLOGIST_RANGE_TOOLTIP|Youw geowogist wiww estimate the compositions and pwices of minyewaws within a wadius awound youw ship.
+CREW_STATS_ASTROGATOR_RANGE_TOOLTIP|Astwogatow wiww highwight ships awound you by theiw twanspondews.
+CREW_STATS_ASTROGATOR_TIME_TOOLTIP|The constantwy shifting pwanyescape of the wings makes it chawwenging to twace a specific wocation.\nYouw astwogatow wiww be abwe to keep twack of them fow a wimited time.
+DAMAGE_COILS_TOOLTIP|Caused by wapid accewewations.\nDecweases powew that can be dwawn fwom the stewwawatow. Wapid changes in accewewation can instantwy twiggew an emewgency shutdown.
+DAMAGE_COOLANT_TOOLTIP|Caused by diwect impacts.\nCauses the stewwawatow to heat up fastew. Ovewheating wiww cause shutdowns.
+DAMAGE_LASERS_TOOLTIP|Caused by ovewheating.\nStawting the fusion in the stewwawatow wiww wequiwe mowe powew.
+TOOLTIP_MAIN_TORCH|Manyuaw contwow - main towch
+TOOLTIP_FORWARD|Manyuaw contwow - fowwawd
+TOOLTIP_BACK|Manyuaw contwow - back
+TOOLTIP_LEFT|Manyuaw contwow - weft
+TOOLTIP_RIGHT|Manyuaw contwow - wight
+TOOLTIP_ROTATE_LEFT|Manyuaw contwow - countew-cwockwise
+TOOLTIP_ROTATE_RIGHT|Manyuaw contwow - cwockwise
+TOOLTIP_KEY_ADD|Add keybind
+TOOLTIP_KEY_DEL|Dewete this keybind
+TOOLTIP_AUTOPILOT_FORWARD|Autopiwot - fowwawd
+TOOLTIP_AUTOPILOT_BACK|Autopiwot - back
+TOOLTIP_AUTOPILOT_LEFT|Autopiwot - countew-cwockwise
+TOOLTIP_AUTOPILOT_RIGHT|Autopiwot - cwockwise
+TOOLTIP_AUTOPILOT_STOP|Autopiwot - stationkeeping
+TOOLTIP_AUTOPILOT_LOCK|Autopiwot - engage tawget in fwont\nEngage autopiwot
+TOOLTIP_AUTOPILOT_UNLOCK|Autopiwot - disengage tawget\nDisabwe autopiwot with nyo tawget
+TOOLTIP_AUTOPILOT|Autopiwot contwows. Engage autopiwot.
+TOOLTIP_FIRE|Fiwe
+TOOLTIP_EXCAVATOR|Open excavatow\nDoubwe tap to howd open
+TOOLTIP_OMS|Open Onboawd Maintenyance System Menyu
+TOOLTIP_ADRENALINE|Activate / deactivate adwenyawinye boostew
+TOOLTIP_ZOOM_IN|Zoom in weconnyaissance view
+TOOLTIP_ZOOM_OUT|Zoom out weconnyaissance view
+SETTINGS_STREAMING_TOOLTIP|Disabwes automatic pause and music mute when the game window is in the backgwound.
+HARDWARE_TIP_KEY|Usage:
+TOOLTIP_AUTOPILOT_STRAFE_LEFT|Autopiwot - weft
+TOOLTIP_AUTOPILOT_STRAFE_RIGHT|Autopiwot - wight
+DAMAGE_ARM_WEAR_TOOLTIP|Weaw occuws nyatuwawwy by using the manyipuwatow.\nIt causes actuatows to act choppy.
+DAMAGE_ARM_BENT_TOOLTIP|Caused by kinyetic impacts to manyipuwatow awm.\nCauses the manyipuwatow to move objects into wwong positions.
+DAMAGE_ARM_OVERHEAT_TOOLTIP|Caused by thewmaw damage to the manyipuwatow.\nOvewheated actuatows wose stwength.
+DAMAGE_LASER_BENT_TOOLTIP|Caused by impacts nyeaw the wasew.\nMisawignyed wasews wiww fiwe at an angwe.
+DAMAGE_LASER_WEAR_TOOLTIP|The wasing medium cohewence weaws out when pwoducing beams.\nIncohewent wasing medium wowews beam powew.
+DAMAGE_LASER_PUMP_TOOLTIP|Caused by ewectwomagnyetic damage.\nDamaged wasing pump wiww nyot dewivew powew to the wasew.\nCauses the wasew to fiwe ewwaticawwy.
+DAMAGE_MWG_WEAR_TOOLTIP|Weaw occuws nyatuwawwy by using the micwowave emittew fow pwowonged pewiods.\nWeaw causes the magnyetwon to pwoduce micwowaves ewwaticawwy.
+DAMAGE_MWG_BENT_TOOLTIP|Kinyetic impact on the dish wiww cause it to move out of awignment.\nA misawignyed emittew wiww fiwe its beam at an angwe.
+DAMAGE_MWG_FOCUS_TOOLTIP|Wapid heating of the focusing dish can cause it to wawp.\nWawped focusing dish can't focus the beam tightwy, fiwing micwowaves on a bwoadew conye.
+DAMAGE_MASSDRIVER_WEAR_TOOLTIP|Weaw occuws nyatuwawwy by fiwing youw mass dwivew.\nWeaw causes wowew muzzwe vewocity.
+DAMAGE_MASSDRIVER_BENT_TOOLTIP|Kinyetic impact wiww cause the mass dwivew assembwy to move out of awignment.\nA misawignyed mass dwivew wiww fiwe at an angwe.
+DAMAGE_MASSDRIVER_FOCUS_TOOLTIP|Wapid heating of the bawwew can cause it to wawp.\nA wawped bawwew incweases the spwead of pwojectiwes.
