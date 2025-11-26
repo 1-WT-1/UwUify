@@ -13,11 +13,16 @@ var ConfigDriver = load("res://HevLib/pointers/ConfigDriver.gd")
 
 func _init(modLoader = ModLoader):
 	l("Initializing")
+	replaceScene("menu/i18n/en_HK.png")
+	#replaceScene("menu/Language.gd")
+	installScriptExtension("menu/Language.gd")
 	loadDLC()
 
 func _ready():
 	l("Readying")
 	UwU()
+	#replaceScene("menu/Language.gd")
+	#installScriptExtension("menu/Language.gd")
 	l("Ready")
 
 func UwU():
