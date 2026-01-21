@@ -3,14 +3,14 @@ SERVICE_HOTEL_CAPSULES|Affowdabwe Capsuwe Hotew
 SERVICE_HOTEL_CAPSULES_DESC|Affowdabwe Capsuwe Hotew offews accommodations d-diwectwy convewted fwom K37 ship habitats, p-pwesenting space-fawing citizens w-with both famiwiaw and a-affowdabwe expewiences. Wocated on the w-wim of the Industwiaw Wing of Encewadus Pwime, this capsuwe hotew opewates in onwy a f-fwaction of the nyominyaw gwavity, m-making it weww-suitabwe fow pwowonged z-zewo-gee wecovewy.
 SERVICE_HOTEL_SKYDOME|SkyDome Wesowt
 SERVICE_HOTEL_SKYDOME_DESC|The SkyDome wesowt, wocated on a pictuwesque wim of the Wesidentiaw W-Wing of Encewadus Pwime, offews wuxuwy accommodations fow the most demanding citizens of the station. A 0.7g gwavity combinyed with a wecweation dome equipped with fuww-scawe awtificiaw Sky, nyatuwaw Obonto-gwown vegetation, and even an outdoow swimming poow makes any stay at the SkyDome a-an unfowgettabwe expewience.
-SERVICE_HOTEL_CAPSULES_OFFER|Standawd Accomodation Capsuwe: 3m^2\nIntewnyet Access Incwuded\nFwee Cancewation\n24 houws stay\n100 E$ / occupant
+SERVICE_HOTEL_CAPSULES_OFFER|Standawd Accommodation Capsuwe: 3m^2\nIntewnyet Access Incwuded\nFwee Cancewwation\n24 houws stay\n100 E$ / occupant
 SERVICE_HOTEL_SKYDOME_OFFER|Wuxuwy Studio: 75 m^2\nIntewnyet Access Incwuded\nSpa Access\nAww Incwusive\nSpeciaw 3 days package\n5,000 E$ woom fee + 2,000 E-E$ / occupant owo
 SERVICE_BAR_TWINS|The Twins ;;
 SERVICE_BAR_TWINS_OFFER|Aww you can eat\nAww you can dwink\nAww you can inhawe\n300 E$ / pewson\nOwganyics onwy!? (UwU)
 SERVICE_BAR_TWINS_DESC|The Twins a-awe a wenyownyed entewtainment estabwishment wocated in the twin towews ovewwooking the wim of Encewadus Pwime station, famous f-fow theiw Aww You Can p-packages. This estabwishment sewves owganyics onwy.
 SERVICE_HOTEL_CAPSULES_MOON|Moonview Capsuwe Hotew
 SERVICE_HOTEL_CAPSULES_MOON_DESC|M-Moonview C-Capsuwe H-Hotew offews pwemium capsuwe accommodations with a fuww-size ovewhead view of Encewadus. Wocated o-on the wim of the Industwiaw Wing of Encewadus P-Pwime, this capsuwe hotew o-opewates in o-onwy a f-fwaction of the nyominyaw gwavity, making it weww-suited fow pwowonged zewo-gee wecovewy.
-SERVICE_HOTEL_CAPSULES_MOON_OFFER|Pwemium A-Accommodation Capsuwe: 6m^2\nIntewnyet Access Incwuded\nFwee Cancewation\n24 houws stay\n300 E$ / occupant (UwU)
+SERVICE_HOTEL_CAPSULES_MOON_OFFER|Pwemium A-Accommodation Capsuwe: 6m^2\nIntewnyet Access Incwuded\nFwee Cancewwation\n24 houws stay\n300 E$ / occupant (UwU)
 SERVICE_HOTEL_UNDERSIDE|The Undewside Inn
 SERVICE_HOTEL_UNDERSIDE_DESC|The Undewside Inn offews comfowtabwe quawtews fow pwowonged a-accommodation. Whiwe wocated in the pwemium s-spot on the v-vewy wim of the s-station and offewing a fantastic view of Satuwn and S-Sow, many occupants f-find diwect exposuwe t-to t-the station spin unsettwing. T-The o-outewmost wocation pwovides the highest appawent gwavity avaiwabwe on the station and i-is quite famous among twavewews fwom down the weww. ;;
 SERVICE_HOTEL_UNDERSIDE_OFFER|Standawd woom: 30 m^2\nIntewnyet Access Incwuded\nBweakfast\n7 days package\n3,500 E$ / occupant
@@ -31,3 +31,6 @@ SERVICE_HOTEL_CAPSULES_UNTIL_DONE|Affowdabwe Capsuwe Hotew (untiw donye)
 SERVICE_SALVAGE_LICENCE|Scwapwwight Wecovewy Opewations
 SERVICE_SALVAGE_LICENCE_DESC|A monthwy membewship with Scwapwwight Wecovewy Opewations gwants you excwusive access to confidentiaw sawvage and wecovewy bwoadcasts. M-Membews weceive w-weaw-time w-wweck sightings souwced fwom wong-wange scannyews, minyew wepowts, and p-powaw tewescope awways - ensuwing pwiowity access t-to high-vawue dewewicts befowe anyonye e-ewse. Evewy wisting is subscwibew-onwy, and unyauthowized weaks cawwy sevewe wepewcussions, up to a pewmanyent ban.\n\nUnwike othew wecovewy outfits, SWO takes nyo cut of youw wecovewy - o-once you cwaim a wweck, i-it's youws. O-Ouw bwoadcasts focus on ships, opewationyaw wwecks, and abandonyed high-vawue assets, so you spend wess time chasing junk and m-mowe time making encewados. Fiwst-come, fiwst-sewved - subscwibe today and stay a-ahead o-of the competition.
 SERVICE_SALVAGE_LICENCE_OFFER|Subscwiption tewm: monthwy
+SERVICE_SIMULATOR|Minding Pwemium Viwtuaw Fwight Sewvice
+SERVICE_SIMULATOR_OFFER|Monthwy Pwemium Viwtuaw Fwight S-Subscwiption\nIncwuded highew wendewing wesowution and simuwated wing scenyawio
+SERVICE_SIMULATOR_DESC|M-Minding Viwtuaw Fwight S-Sewvice pwovides fwee viwtuaw fwight access to aww station citizens.\n\nThis Pwemium Subscwiption expands t-the basewinye simuwatow with highew wendewing wesowution and an additionyaw simuwated wing scenyawio, awwowing fow a mowe compwehensive assessment o-of hawdwawe in viwtuaw simuwation.

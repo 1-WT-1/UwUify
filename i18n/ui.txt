@@ -100,8 +100,8 @@ SLOT_CAPACITOR|Uwtwacapacitow Awway
 SLOT_TURBINE|Powewpwant
 SLOT_CARGOBAY|Cawgo Bay
 SLOT_AUTOPILOT|Autopiwot
-SLOT_LEFT|Weft Wow-stwess Hawdpoint
-SLOT_RIGHT|Wight Wow-stwess Hawdpoint
+SLOT_LEFT|Weft Wow-Stwess Hawdpoint
+SLOT_RIGHT|Wight Wow-Stwess Hawdpoint
 SLOT_LEFT_DRONE|Weft dwonye mount
 SLOT_RIGHT_DRONE|Wight dwonye mount
 SLOT_RCS|Weaction Contwow System
@@ -224,8 +224,8 @@ SETTINGS_ZOOM_SENSITIVITY|Zoom sensitivity
 SETTINGS_MOUSE_SENSITIVITY|Camewa sensitivity
 WARNING_PHOTOSENSITIVITY|A smaww pewcentage of individuaws may expewience epiweptic seizuwes when exposed to cewtain wight pattewns ow fwashing wights.\n\nExposuwe to cewtain pattewns ow backgwounds on a computew scween, ow whiwe pwaying video games, may induce an epiweptic seizuwe in these individuaws. Cewtain conditions may induce pweviouswy undetected epiweptic symptoms even in pewsons who have nyo histowy of pwiow seizuwes ow epiwepsy.\n\nIf you, ow anyonye in youw famiwy, have an epiweptic condition, consuwt youw physician pwiow to pwaying. If you expewience any of the fowwowing symptoms whiwe pwaying a video ow computew game - dizzinyess, awtewed vision, eye ow muscwe twitches, woss of awawenyess, disowientation, any invowuntawy movement ow convuwsions - IMMEDIATEWY discontinyue use and consuwt youw physician befowe wesuming pway.
 SETTINGS_VOLUME_AMBIENT|Ambient Sounds
-SLOT_LEFT_MID|Fwont Weft Wow-stwess hawdpoint
-SLOT_RIGHT_MID|Fwont Wight Wow-stwess hawdpoint
+SLOT_LEFT_MID|Fwont Weft Wow-Stwess hawdpoint
+SLOT_RIGHT_MID|Fwont Wight Wow-Stwess hawdpoint
 SETTINGS_CAPTURE_MOUSE|Wock mouse to window
 CREW_OCCUPATION_PASSENGER|Passengew
 SETTINGS_CONVERVE_MEM_OFF|Fast woading
@@ -487,3 +487,4 @@ ACHIEVEMENT_SALVAGE_1_DESC|Wecovew a dewewict ship
 ACHIEVEMENT_SALVAGE_10_DESC|Wecovew 10 dewewict ships
 ACHIEVEMENT_SALVAGE_50_DESC|Wecovew 50 dewewict ships
 SETTINGS_REDUCE_FLICKER|Weduce Fwickewing
+CARGO_UNKNOWN_ALBEDO|Minyimum Awbedo

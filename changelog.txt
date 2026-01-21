@@ -1,0 +1,13 @@
+[0.3.0]
+1="* Migrated to HevLib REPLACE_TRANSLATIONS driver"
+1.1="* Translations now loaded via HEVLIB_DRIVERS/REPLACE_TRANSLATIONS.gd"
+1.2="* Config-locked loading: each translation category respects its config option"
+2="* Simplified ModMain.gd"
+2.1="* Removed manual translation loading code"
+3="* Added UwU language icon to settings menu"
+4="* Updated translations"
+
+[0.2.0]
+1="* Initial release with configurable translation categories"
+1.1="* Dialogue, Equipment, UI, Tooltips, World, Tips, Tunes, Ships"
+2="* Added en_HK language option (Engwish UwU)"

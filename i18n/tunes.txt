@@ -83,3 +83,9 @@ TUNE_PARAMETER_MPU_REMASS_EFFICIENCY|Wemass pwocessing efficiency
 TUNE_PARAMETER_POWER_DRAW_THERMAL|Thewmaw Consumption uwu
 TUNE_PARAMETER_WEAR_RATIO|Wewative Weaw
 TUNE_PARAMETER_MPU_POWER_DRAW|Powew Dwaw (pew chunk)
+TUNE_ARM_THRUST|Continyuous Gwip Stwength
+TUNE_ARM_FULLTHRUST|Peak Gwip Stwength ;;w;;
+TUNE_PARAMETER_POWER_DRAW_NOMINAL|Nyominyaw Powew Dwaw
+TUNE_PARAMETER_POWER_DRAW_PEAK|Peak Powew Dwaw
+TUNE_ARM_THRUST_DESC|Manyipuwatow howding fowce d-duwing standawd o-opewation, exewted once the t-tawget is awignyed nyeaw i-its intended wocation.
+TUNE_ARM_FULLTHRUST_DESC|Maximum avaiwabwe manyipuwatow fowce when dwiven at fuww output. uwu

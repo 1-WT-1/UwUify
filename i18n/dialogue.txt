@@ -1087,7 +1087,7 @@ DIALOG_MINER_GTFO_SUPPORT_4|Acknyowwedged. We wiww back off, good pwofits out he
 DIALOG_VILCY_REQUEST_LICENCE_AGAIN|The wicence i-is waiting fow you, {target/shipname}. The sign-up fee i-is stiww 100,000E$.
 DIALOG_VILCY_REQUEST_LICENCE_AGAIN_BUT_NO|W-We heawd some questionyabwe things since wast we spoke. Some of ouw peopwe withdwew theiw suppowt fow you. If you a-awe s-sewious about this, hewp m-mowe of ouw c-combat patwows.
 DIALOG_SALVAGE_START_1|Howdy, space hauwews!? It’s t-time fow y-youw daiwy dose of wweck-watch, stwaight fwom the s-sawvage guiwd!? Hope y-youw cwaws awe shawp and youw thwustews hot, 'cause we got some fwesh huwws dwifting in the bwack!?
-DIALOG_SALVAGE_EXPOSE_K37_1|Nyow t-this onye’s intewesting - an owd Wusatom Antonyoff K37, designyation {random/ship/1/shipname}, d-dwifting in the A-A-Wing. Nyo distwess beacons, nyo s-signs of impact. Just... dead quiet. F-Fiwst onye hewe gets the pwize!?
+DIALOG_SALVAGE_EXPOSE_K37_1|Nyow t-this onye’s intewesting - an owd Wusatom-Antonyoff K37, designyation {random/ship/1/shipname}, dwifting i-in the A-Wing. N-Nyo distwess beacons, nyo signs o-of impact. Just... dead quiet. Fiwst o-onye hewe gets the pwize!? owo
 DIALOG_SALVAGE_START_2|Awwight, scwappews and hauwews, it’s time fow youw daiwy S&W u-update!? We got wwecks dwifting, huwws wipe f-fow wecwaiming, and encewados just waiting to be hauwed in. Wet’s see what’s out thewe t-today!?
 DIALOG_SALVAGE_START_3|Awwight, Scwapwwights, wisten up!? The void’s nyevew empty, and today’s batch of wwecks is wooking weaw pwofitabwe. Whethew you’we wunnying sowo ow with a cwew, thewe’s pwenty of sawvage to go awound - if you get thewe fiwst. And if you don’t, weww... nyo encewadowwaws fow you!? UwU
 DIALOG_SALVAGE_START_4|Good mownying, SWO opewatives!? O-Ow evenying. Ow whatevew y-youw shipboawd cwock says. Time’s a mess, but wwecks awe etewnyaw!? Wet’s go thwough today’s dewewict s-sightings b-befowe some fweewancew j-jumps youw cwaim and wawks away with youw encewadowwaws.
@@ -1203,7 +1203,7 @@ DIALOG_DERELICT_JUNK_HIGH_RISK|I-If this t-thing stiww gives any powew, fowce th
 DIALOG_DERELICT_JUNK_HIGH_RISK_SUCCESS_1|Fowcing the w-weactow into stawtup...
 DIALOG_DERELICT_JUNK_HIGH_RISK_SUCCESS_2|Fuew wods awe bawewy moving, but they shifted just enyough to wet the tempewatuwe stabiwize. This wiww be twicky to fwy, b-but I think I can get some contwowwed buwsts t-to g-get me outside the wing pwanye and switch to xenyon. (^w^)
 DIALOG_DERELICT_JUNK_HIGH_RISK_FAIL_1|Okay, booting up the weactow...
-DIALOG_DERELICT_JUNK_HIGH_RISK_FAIL_2|T-The fuew wods jammed compwetewy hawfway thwough t-the stawtup sequence. Output is wocked at a twickwe, it's nyot h-hot enyough heat fow the thwustews. I see n-nyo way to weset it w-without a dwy dock and wod wefit. Going b-back. (OwO)
+DIALOG_DERELICT_JUNK_HIGH_RISK_FAIL_2|T-The fuew wods jammed compwetewy hawfway thwough t-the stawtup sequence. Output is wocked at a twickwe, it's nyot e-enyough heat fow the thwustews. I see nyo w-way to weset it without a d-dwy dock and wod wefit. Going back. (UwU)
 DIALOG_DERELICT_JUNK_HIGH_RISK_CRITICAL_1|Weactow stawtup is thwowing ewwows. >w<
 DIALOG_DERELICT_JUNK_HIGH_RISK_CRITICAL_2|I think something cwacked in the wemass pumps. Both pwessuwe and wadiation awawms just went off, and the c-cowe tempewatuwe is cwimbing past nyominyaw.
 DIALOG_DERELICT_JUNK_HIGH_RISK_CRITICAL_3|Wods awe nyot disengaging, they wiww soon pass past safety wimits, and I have nyo w-way to coow them down. I’m getting out nyow befowe this tuwns into an impwomptu fiwewowks show. This ship is donye. (^w^)
@@ -1264,3 +1264,4 @@ DIALOG_DERELICT_HOLE_GO_COCKPIT_2|Cockpit’s a mess. HAW wipped evewything woos
 DIALOG_DERELICT_HOLE_GO_COCKPIT_FAIL|Thewe i-is nyothing to wowk with. HAW must have wipped out the whowe ops deck on ejection. Nyo contwows, nyo diagnyostics, n-nyothing to even pwug into. Ship is s-spacewowthy, but we awe nyot fwying it out.
 DIALOG_DERELICT_HOLE_GO_COCKPIT_SUCCESS|Powewing up n-nyow. W-Weactow’s h-howding steady, systems a-awe cycwing. Wooks wike we’ve got a ship. Wunnying finyaw checks, but we shouwd be heading back undew ouw own p-powew.
 DIALOG_PIRATE_BUSINESS_DEAL_ANON|We have a deaw, wiwing monyey to you.
+DIALOG_MINER_POLITE_SORRY|Undewstood, {target/shipname}. Just passing thwough, nyo intent to intewfewe.

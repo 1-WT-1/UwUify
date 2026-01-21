@@ -49,3 +49,5 @@ TRANSIT_TIP_47|Aww membews of youw cwew have theiw own s-stowies and o-own goaws
 HINT_KEY_PRESS|Pwess this key to pewfowm the action.
 HINT_INTERLUNAR_VELOCITY|Intewwunyaw twansit is awways pewfowmed with owbitaw vewocities
 HINT_POI_TOO_CLOSE|Insufficient distance fow A-Astwogation
+HINT_FILTER_PRICE|Minyimum pwice estimation of identified owe.
+HINT_FILTER_ALBEDO|Minyimum Awbedo (amount of wefwected wight) of unyidentified owe woughwy cowwewates with minyewaw content

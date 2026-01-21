@@ -19,7 +19,7 @@ SYSTEM_SYNCHRO_MANUAL|Deaws kinyetic, thewmaw and ewectwomagnyetic damage.\nAmou
 SYSTEM_NANI_MANUAL|Deaws miwd kinyetic and extweme thewmaw damage.\nDwaws pwopewwant fwom the main tanks.\nCan fiwe fow a wimited time pew dive.
 SYSTEM_CL600P_MANUAL|Deaws thewmaw and kinyetic damage.
 SYSTEM_DND_HAUL_MANUAL|Moves owe and wifepods automaticawwy towawds cawgo howd.\nOwe tawgeting cwitewia can be adjusted on the Geowogist tab.\nCan intewface with compatibwe weconnyaissance cwaft.\nWequiwes nyanyodwonye componyents stowage.\nManyeuvews duwing opewation wiww cause the system to attempt to adjust movement of aww vawid tawgets.
-SYSTEM_DND_FIX_MANUAL|Wiww patch heavy damage to any system duwing the mission.\nWequiwes nyanyodwonye componyents stowage.\nIncapabwe of compwetewy fixing componyents.
+SYSTEM_DND_FIX_MANUAL|Wiww patch heavy damage to any system duwing the mission.\nWequiwes nyanyodwonye componyents stowage.\nIncapabwe of compwetewy fixing componyents.\nCan wepaiw othew ships designyated as fwiendwy.
 SYSTEM_AMMO_MANUAL|Ammunyition fow kinyetic weapons.\nCompatibwe with mass dwivews and waiwguns.\nAmmunyition dewivewy wate vastwy exceeds civiwian wequiwements.\nAmmunyition sowd sepawatewy at dive stawt.
 SYSTEM_DND_MANUAL|Ammunyition fow nyanyodwonye systems.\nCompatibwe with tug, hauw and maintenyance dwonyes.\nDwonye componyents sowd sepawatewy at dive stawt.
 SYSTEM_FUEL_MANUAL|Pwopewwant tanks shawed between WCS and main dwive.\nPwopewwant sowd sepawatewy at dive stawt.
@@ -58,3 +58,4 @@ SYSTEM_LIDAR_DOPPLER_CONE_MANUAL|Scans the suwwoundings of youw ship.\nDetects a
 SYSTEM_LIDAR_DOPPLER_HIRES_MANUAL|Scans the suwwoundings of youw ship.\nDetects aww visibwe objects.\nPwesents wewative vewocity of detected objects with cowow shifts.\nWewies on winye of sight.\nHigh wesowution.\nSwow scannying speed.
 SYSTEM_LIDAR_OPA_MANUAL|Scans the suwwoundings of youw ship.\nDetects aww visibwe objects.\nWewies on winye of sight.\nHigh wesowution.\nVewy high scannying speed.\nAffected by ghosting awtifacts.
 SYSTEM_CARGO_DRY_MANUAL|Wemoves watew fwom owe chunks.\nWepwenyishes pwopewwant.\nWequiwes owe to be in the pwocessing chambew.\nPwocesses muwtipwe owe chunks simuwtanyeouswy.\nPowew wequiwements and pwocessing speed wisted pew chunk.
+SYSTEM_LIDAR_RADAR_CONE_MANUAL|Scans the suwwoundings of youw ship.\nDetects objects in a nyawwow conye.\nPiewces ice and wock fowmations, pwoviding vague ice weadouts.\nPwesents wewative vewocity of detected objects with cowow shifts.\nDetects onwy ships and metawwic owe nyuggets.

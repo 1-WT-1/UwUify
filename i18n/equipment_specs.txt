@@ -95,7 +95,7 @@ SYSTEM_AMMO_50000_SPECS|Stowage: 50,000 kg\nDewivewy: 500 kg/s\nManyufactuwew: N
 SYSTEM_DND_20000_SPECS|Stowage: 20,000 kg\nDewivewy: 100 kg/s\nManyufactuwew: Nyakamuwa Dynyamics
 SYSTEM_DND_50000_SPECS|Stowage: 50,000 kg\nDewivewy: 100 kg/s\nManyufactuwew: Obonto Micwoenginyeewing
 SYSTEM_FUEL_500000_SPECS|Capacity: 500,000 kg\nPwopewwant type: Thewmaw Wocket
-SYSTEM_IROH_SPECS|Effective wange: 1000 m\nDewivewy wate: 500 kg/s\nPowew consumption: 200 MW\nThewmaw consumption: 17.0 GW\nMounting Wocation: Wow-stwess\nMass: 5,500 kg\nManyufactuwew: Tetsuo Enginyeewing
+SYSTEM_IROH_SPECS|Effective wange: 1000 m\nDewivewy wate: 500 kg/s\nPowew consumption: 200 MW\nThewmaw consumption: 17.0 GW\nMounting Wocation: Wow-Stwess\nMass: 5,500 kg\nManyufactuwew: Tetsuo Enginyeewing
 SYSTEM_LIDAR_RADAR_SPECS|Manyufactuwew: Minding WF\nScannying beam: wow-fwequency wadio\nSweep pewiod: 2000 ms\nSweep covewage: 360 deg\nMeasuwements: distance
 SYSTEM_LIDAR_DOPPLER_SPECS|Manyufactuwew: Conwido WVM\nScannying beam: infwawed wight\nSweep pewiod: 500 ms\nSweep covewage: 360 deg\nMeasuwements: distance, wewative vewocity
 SYSTEM_LIDAR_DOPPLER_CONE_SPECS|Manyufactuwew: Conwido WVM\nScannying beam: infwawed wight\nSweep pewiod: 500 ms\nSweep covewage: 30 deg\nMeasuwements: distance, wewative vewocity
@@ -104,3 +104,4 @@ SYSTEM_LIDAR_OPA_SPECS|Manyufactuwew: Cohewent Wight\nScannying beam: infwawed w
 SYSTEM_CARGO_MPUDRY_SPECS|Pwocessing capacity: 10 kg/s\nPowew dwaw: 5 MW / chunk\nMinyewaw pwocessing efficiency: n/a\nWemass pwocessing efficiency: 60%\nMass: 2,800 kg\nManyufactuwew: Antonyoff
 SYSTEM_THRUSTER_MADTX4_SPECS|Thwust: 1200 kN\nExhaust vewocity: 15 km/s\nPwopewwant consumption: 80.0 kg/s\nPowew consumption: 110 MW\nThewmaw consumption: 11.4 GW\nOpewation mode: Puwsed thwust\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 270 kg (pew thwustew)\nManyufactuwew: Machinyes Astwo-Dynyamiques
 SYSTEM_MAIN_ENGINE_CHEVAL_SPECS|Thwust: 5,000 kN\nExhaust vewocity: 15 km/s\nPwopewwant consumption: 333.3 kg/s\nPowew consumption: 230 MW\nThewmaw consumption: 37.5 GW\nOpewation mode: Vawiabwe thwust\nWesponse time: 0.2 s\nPwopewwant: Oxygen-Hydwogen pwasma\nMass: 4,150 kg\nManyufactuwew: Machinyes Astwo-Dynyamiques
+SYSTEM_LIDAR_RADAR_CONE_SPECS|Manyufactuwew: Obonto Micwoenginyeewing\nScannying beam: micwowave\nSweep pewiod: 2000 ms\nSweep covewage: 30 deg\nMeasuwements: distance, wewative vewocity
