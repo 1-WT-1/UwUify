@@ -1,9 +1,9 @@
 extends Node
-const MOD_PRIORITY = 999999999
+const MOD_PRIORITY = -999999999
 const MOD_NAME = "UwUify"
 const MOD_VERSION_MAJOR = 0
 const MOD_VERSION_MINOR = 3
-const MOD_VERSION_BUGFIX = 0
+const MOD_VERSION_BUGFIX = 1
 const MOD_VERSION_METADATA = "UwU"
 const MOD_IS_LIBRARY = false
 var modPath:String = get_script().resource_path.get_base_dir() + "/"
@@ -12,7 +12,7 @@ var _savedObjects := []
 
 func _init(modLoader = ModLoader):
 	l("Initializing")
-	replaceScene("menu/i18n/en_HK.png")
+	#replaceScene("menu/i18n/en_HK.png")
 	installScriptExtension("menu/Language.gd")
 	loadDLC()
 

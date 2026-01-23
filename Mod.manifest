@@ -9,7 +9,7 @@ credits=[""]
 [version]
 version_major=0
 version_minor=3
-version_bugfix=0
+version_bugfix=1
 
 [tags]
 TAG_FUN={"type":"bool","value":true}

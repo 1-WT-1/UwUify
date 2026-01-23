@@ -1,3 +1,8 @@
+[0.3.1]
+1="* Fixed language icon not loading"
+1.1="* Use image loader script by Hev"
+1.2="* Mod priority set to negative (-999999999)"
+
 [0.3.0]
 1="* Migrated to HevLib REPLACE_TRANSLATIONS driver"
 1.1="* Translations now loaded via HEVLIB_DRIVERS/REPLACE_TRANSLATIONS.gd"
