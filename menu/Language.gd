@@ -3,6 +3,7 @@ extends "res://menu/Language.gd"
 const MOD_NAME = "UwUify"
 
 func fillInLanguages():
+	Settings.languages["en_HK"] = "Engwish (UwU)"
 	if not icons.has("en_HK"):
 		var tex = load_external_tex("res://UwUify/menu/i18n/en_HK.png")
 		if tex:

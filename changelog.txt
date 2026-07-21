@@ -1,3 +1,8 @@
+[0.4.0]
+1="*Converted to Modlet"
+2="* Added MOD_DETAILS.txt"
+3="* Updated transaltions (game v1.90.3)"
+
 [0.3.1]
 1="* Fixed language icon not loading"
 1.1="* Use image loader script by Hev"
