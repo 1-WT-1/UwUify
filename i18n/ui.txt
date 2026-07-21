@@ -488,3 +488,4 @@ ACHIEVEMENT_SALVAGE_10_DESC|Wecovew 10 dewewict ships
 ACHIEVEMENT_SALVAGE_50_DESC|Wecovew 50 dewewict ships
 SETTINGS_REDUCE_FLICKER|Weduce Fwickewing
 CARGO_UNKNOWN_ALBEDO|Minyimum Awbedo
+CREDITS_VA|Game Awting

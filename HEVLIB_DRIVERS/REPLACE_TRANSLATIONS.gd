@@ -1,5 +1,3 @@
-extends Node
-
 # File-based translations using HevLib Driver system (1.11.3+)
 # Config-locked: each category only loads if its config option is enabled
 

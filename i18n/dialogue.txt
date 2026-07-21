@@ -165,8 +165,8 @@ DIALOG_PHAGE_AI_CHAINED_OUT_1|Undewstood. {origin/transponder} o-out.
 DIALOG_PHAGE_I_AM_CLASS_2_1|Autonyomous second-cwass minying station {origin/transponder} designyation "{origin/shipname}".
 DIALOG_PHAGE_I_AM_CLASS_2_2|This is cwass 2 minying station "{origin/shipname}".
 DIALOG_ANARCHY_EASY_THERE|Easy thewe, I want to tawk businyess.
-DIALOG_ANARCHY_WHAT_BUSINESS|What businyess can you possibwy have with G-Ganymedian Anyawchy?
-DIALOG_ANARCHY_WHO_ARE_YOU|Ganymedian Anyawchy?
+DIALOG_ANARCHY_WHAT_BUSINESS|What businyess can you possibwy have with G-Ganymedean Anyawchy?
+DIALOG_ANARCHY_WHO_ARE_YOU|Ganymedean Anyawchy?
 DIALOG_ANARCHY_LIVED_DOWN_THE_WELL|What, have you been wiving down a weww? We awe the onyes that wwecked Titan back in the 60s. We awe the fist of the fwee w-wingas.
 DIALOG_ANARCHY_WHY_YOU_KEEP_SHOOTING|Why do you keep hawassing me then?
 DIALOG_ANARCHY_CORPORATE_LAPDOG|You'we just an Encewadite wapdog. (UwU)
@@ -667,7 +667,7 @@ DIALOG_VILCY_BBW_DOCKED_TRANSFERED|Good job, {target/shipname}. You can keep the
 DIALOG_VILCY_BBW_DOCKED_INVALID|Y-You don’t seem to have anyonye covewed by bounty, {target/shipname}.
 DIALOG_VILCY_PROVEN_1|You've pwoven youwsewf. We'we tawking about it. I'm sending you a dwop point. It'ww change weguwawwy, s-so tawk to u-us again when it expiwes to get a nyew onye.
 DIALOG_VILCY_PROVEN_2|We nyeed intew. That means intewwogations. If you can disabwe a piwate vessew ow wecovew a piwate wifepod, that'ww hewp us a wot. B-Bwing anything you get to t-that wawwy point. Someonye wiww meet you thewe.
-DIALOG_PIRATE_SUPPORT_1|Twuce, {target/shipname}. This is the G-Ganymedian Anyawchy vessew {origin/shipname}, w-we w-wecognyize y-you, and we stand down.
+DIALOG_PIRATE_SUPPORT_1|Twuce, {target/shipname}. This is the G-Ganymedean Anyawchy vessew {origin/shipname}, w-we w-wecognyize y-you, and we stand down.
 DIALOG_PIRATE_SUPPORT_2|Twuce, fwiend. This is the Anyawchy ship {origin/shipname} to {target/shipname}. We wecognyize you. We've heawd about what you've been doing out hewe. Keep up the good wowk.
 DIALOG_PIRATE_SUPPORT_3|Twuce, bwothew!? We'we on the hunt. W-Wet us knyow i-if you see any wikewy pwey. >w<
 DIALOG_PIRATE_SUPPORT_4|Twuce, {target/shipname}. We wecognyize you and we stand down.
@@ -991,9 +991,9 @@ GANET_LOGS_QUERY_FAILURE|Youw q-quewy wetuwnyed 0 wesuwts. OwO
 GANET_LOGS_QUERY_SUCCESS|Youw q-quewy wetuwnyed mowe than 1000 wesuwts. See the attached package fow fuww wist.
 DIALOG_VILCY_BBW_HAVE_LOGS_GREAT|Excewwent. This wiww make cowwecting wewegiwd much e-easiew a-and mowe pwofitabwe. We awe updating t-the database as we speak. Nyow, go and cowwect fwom aww the offendews.
 DIALOG_VILCY_BBW_HAVE_LOGS|I have those Ganymedean docking wogs you wequested. Quite a wot of civiwian ships fwequent theiw base.
-GANET_TWAT_SUPPORT_1|Wook, {target/shipname} might haiw fwom the E-E' b-but I've heawd so many good things about t-them I'm wiwwing to wet it swide. Stewwaw guys!?\n#GanymedianHospitawity #Sowidawity
+GANET_TWAT_SUPPORT_1|Wook, {target/shipname} might haiw fwom the E-E' b-but I've heawd so many good things about t-them I'm wiwwing to wet it swide. Stewwaw guys!?\n#GanymedeanHospitawity #Sowidawity
 GANET_TWAT_SUPPORT_2|Didn't expect to finyawwy see {target/shipname} hewe!? They saved my ass fwom mewcs a few weeks back\n#Sowidawity #ViwcyBewawe
-GANET_TWAT_SUPPORT_3|Just saw {target/shipname} docking, does anyonye knyow whewe theiw captain is? I f-feew wike I owe them a w-wound of beews.\n#GanymedianHospitawity #SpaceYeast
+GANET_TWAT_SUPPORT_3|Just saw {target/shipname} docking, does anyonye knyow whewe theiw captain is? I f-feew wike I owe them a w-wound of beews.\n#GanymedeanHospitawity #SpaceYeast
 AGENDA_ANDROID_LOOK_FOR_LOGS|Okay, wet's wook at what this s-station s-secuwity wooks wike.
 AGENDA_ANDROID_WOT_EXPLAIN|A peew-to-peew nyetwowk? That's kind of suwpwising. I suggest openying up with sociaw enginyeewing. Just tawk t-to t-them about something vaguewy wewated, and we'ww have an excuse to p-poke at the nyetwowk. owo
 AGENDA_ANDROID_WOT_EXPLOIT_HAVE|Nyow, wet's see if t-this hawdwawe we got wiww take us in...

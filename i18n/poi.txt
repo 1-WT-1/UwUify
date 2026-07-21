@@ -7,7 +7,7 @@ POI_PHAGE_STATION_02|Phage-Cwass Station Beta
 POI_PHAGE_STATION_03|Phage-Cwass Station Gamma
 POI_CARBON_ANOMALY|Cawbon Anyomawy
 POI_MOONLET|Moonwet
-POI_ANARCHY_STATION|Ganymedian Anyawchy Station
+POI_ANARCHY_STATION|Ganymedean Anyawchy Station
 POI_DESTROYED_HABITAT|Habitat Wweckage
 POI_HABITAT|Habitat
 POI_HABITAT_03|Habitat - Obonto Thwee
